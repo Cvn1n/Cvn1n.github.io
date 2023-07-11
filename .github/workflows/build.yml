@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - master 
+      - zola 
   pull_request:
 jobs:
   build_and_deploy:
