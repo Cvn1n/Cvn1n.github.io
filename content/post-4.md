@@ -9,6 +9,16 @@ summary = " "
 mathjax = "tex-mml"
 +++
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SWTF62YDRB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SWTF62YDRB');
+</script>
+
 
 <!-- more -->
 //Ctrl+f启用浏览器检索功能
