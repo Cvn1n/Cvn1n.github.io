@@ -1,0 +1,42 @@
+# The URL the site will be built for
+base_url = "bj-1.lcf.icu:56652"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "anatole-zola"
+
+[languages.en]
+title = "春宁の垃圾站"
+description = "活着也是钟表里无用的齿轮，生命没有意义，尽是无价值的东西"
+generate_feed = true
+taxonomies = [
+  {name = "tags"},
+]
+
+[extra.show]
+tags = true
+links = true
+
+[languages.en.translations]
+language_name = "English"
+about = "关于"
+home = "主页"
+tags = "标签"
+archive = "归档"
+links = "友情链接"
+date_format = "%Y-%m-%d"
+next_page = "Next Page"
+last_page = "Last Page"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+
+[extra]
+highlight_code = true
+# Put all your custom variables here
+
