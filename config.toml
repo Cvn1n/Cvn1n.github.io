@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "bj-1.lcf.icu:56652"
+base_url = "https://cvn1n.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
