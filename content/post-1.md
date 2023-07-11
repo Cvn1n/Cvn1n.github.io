@@ -1,5 +1,5 @@
 +++
-title = "日语学习"
+title = "日语学习1"
 template = "page.html"
 date = 2023-06-26T10:28:00Z
 [taxonomies]
