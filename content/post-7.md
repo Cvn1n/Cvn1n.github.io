@@ -1,5 +1,5 @@
 +++
-title = "关于社交-引以为戒"
+title = "社交是件难事"
 template = "page.html"
 date = 2023-07-13T10:00:00Z
 [taxonomies]
