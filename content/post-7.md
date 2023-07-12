@@ -3,7 +3,7 @@ title = "关于社交-引以为戒"
 template = "page.html"
 date = 2023-07-13T10:00:00Z
 [taxonomies]
-tags = ["杂言","妄论"]
+tags = ["杂言" , "妄论"]
 [extra]
 summary = "混乱的妄论"
 mathjax = "tex-mml"
