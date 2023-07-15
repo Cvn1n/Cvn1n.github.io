@@ -12,7 +12,7 @@ mathjax = "tex-mml"
 
 <!-- more -->
 
-[1]我想配台电脑，但是 现在 你就当你要配电脑吧
+[1]你想配电脑?  我想配电脑?
 ----
 
 a:"能不能帮我配台3000的电脑?"
@@ -21,11 +21,11 @@ c:"玩什么  大概要什么要求"
 
 a:"**不知道**   就一些,大型游戏  你看着来 3000块钱拉满就好了"
 
-c:"&emsp&emsp&emsp&emsp"
+c:"&emsp;&emsp;&emsp;&emsp;"
 
 c:"[配置表]"
 
-**a:“**能帮我买一下吗?**”
+a:“**能帮我买一下吗?**”
 
 c:"?"
 
@@ -45,13 +45,13 @@ c:"?"
 
 a:"**能帮我下载个qq吗**"
 
-c:"     "
+c:"&emsp;&emsp;&emsp;&emsp;"
 
 c:"www.baidu.com"
 
 a:"不行 找不到  发我一份呗"
 
-c:"&emsp&emsp&emsp&emsp "
+c:"&emsp;&emsp;&emsp;&emsp; "
 
 --------------------------
 
@@ -60,11 +60,11 @@ c:"&emsp&emsp&emsp&emsp "
 
 a:"**为什么这个游戏没有中文啊**"
 
-c:"&emsp&emsp&emsp&emsp"
+c:"&emsp;&emsp;&emsp;&emsp;"
 
 ------------------------------------
 
-[5]置身事外   谢谢你  下次再找你
+[5][置身事外]   谢谢你  下次再找你
 -
 
 a:"帮帮我！xxxxxxxxxxxxxxxxxxxx"
@@ -72,7 +72,7 @@ a:"帮帮我！xxxxxxxxxxxxxxxxxxxx"
 [发送远控]
 c:"先把……"     **a:"OK 帮我弄一下 谢啦！   好了叫我"**
 
-c:"&emsp&emsp&emsp&emsp &emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp "
+c:"&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "
 
 ------------------------------
 
@@ -115,11 +115,11 @@ a:"[发送了一张图片]"
 
 c:"[复制图片]-[编辑图片]-[发送了一张图片]"
 
-c:“here &emsp "空间不足"  ”
+c:“here &emsp; "空间不足"  ”
 
 a:**"那怎么办**”
 
-c:"&emsp&emsp&emsp&emsp"
+c:"&emsp;&emsp;&emsp;&emsp;"
 
 c:"我认为   也许   你可以试试删点东西"
 
@@ -153,7 +153,7 @@ c："有一块500g机.....  (30r给你)"
 
 a:"**能借我用用吗****"
 
-c:"&emsp&emsp&emsp&emsp"
+c:"&emsp;&emsp;&emsp;&emsp;"
 
 ........
 
