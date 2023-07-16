@@ -27,6 +27,8 @@ mathjax = "tex-mml"
 
 Ⅷ[14:11:42]毛囊炎擦药ing
 
+Ⅰ[14:39:33]  it's time to game -Coh 
+
 [2023/7/15]
 
 Ⅸ[05:00:00] 睡觉
