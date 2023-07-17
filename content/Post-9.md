@@ -3,7 +3,7 @@ title = "被电线杆撞了"
 template = "page.html"
 date = 2023-07-18T02:00:00Z
 [taxonomies]
-tags = ["杂言" , "生活"]
+tags = ["杂言", "生活"  ]
 [extra]
 summary = "糟糕的世界"
 mathjax = "tex-mml"
@@ -21,4 +21,4 @@ mathjax = "tex-mml"
 如你所见  被电线杆偷袭了
 
 
-头  疼
+头，疼
