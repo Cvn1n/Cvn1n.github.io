@@ -31,7 +31,13 @@ mathjax = "tex-mml"
 
 Ⅳ[13:38:00] COH 直播ing
 
-Ⅳ[14:40:00] ASTRONEER准备  [听歌ing]
+Ⅳ[14:40:00] ASTRONEER教程  [听歌ing]
+
+Ⅳ[15:21:00]  吃饭    泡面  [↓ASTRONEER-SUPP-祭祀]
+
+Ⅰ[16:49:26]   学习ing
+
+
 
 [2023/7/18]
 -
