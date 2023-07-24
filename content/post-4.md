@@ -19,7 +19,7 @@ mathjax = "tex-mml"
 [2023/7/24]	
 -
 
-Ⅹ[14:30:00] <font color=Blue> 起床 </font>  |  <font color=#BA55D3>得去图书馆，赶作业  </font> [早饭中饭又错过了,明明记得设了6点的闹钟]
+Ⅹ[14:30:00] <font color=#87CEFA>  起床  </font> |  <font color=#BA55D3>得去图书馆，赶作业  </font> [早饭中饭又错过了,明明记得设了6点的闹钟]
 
 Ⅹ[14:40:00]<font color=#BA55D3> 超市 </font> [罐头+牛肉条+咖啡]
 
