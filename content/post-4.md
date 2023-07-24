@@ -19,17 +19,17 @@ mathjax = "tex-mml"
 [2023/7/24]	
 -
 
-<font color=#FFFFE0> Ⅹ </font> <font color=#0a9606> [14:30:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3>得去图书馆，赶作业  </font> 	<font color=#87CEFA> [早饭中饭又错过了,明明记得设了6点的闹钟] </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:30:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3>得去图书馆，赶作业  </font> 	<font color=#87CEFA> [早饭中饭又错过了,明明记得设了6点的闹钟] </font>
 
-<font color=#FFFFE0> Ⅹ </font> <font color=#0a9606> [14:40:00] </font> <font color=#0a9606> 超市 </font> |  <font color=#BA55D3> 罐头+牛肉条+咖啡 </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:40:00] </font> <font color=#0a9606> 超市 </font> |  <font color=#BA55D3> 罐头+牛肉条+咖啡 </font>
 
-<font color=#FFFFE0> Ⅹ </font> <font color=#0a9606> [14:50:00]  </font> <font color=#BA55D3> 完全忘记掉图书馆周一不开放了  看着还有点小雨 </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:50:00]  </font> <font color=#0a9606> 完全忘记掉图书馆周一不开放了 </font> | <font color=#BA55D3>还有小雨,气得我原地吃罐头 </font>
 
-Ⅵ[15:31:00] 抵达新华书店  |  无名之町? 早知道这边买了
+<font color=#556B2F> Ⅴ </font> [15:31:00] 抵达新华书店  |  无名之町? 早知道这边买了
 
-[15:40:00]  徘徊  | 根本没位置啊  书店好吵
+<font color=#556B2F> Ⅴ </font> [15:40:00]  徘徊  | 根本没位置啊  书店好吵
 
-[15:45:00] 坐下了
+<font color=#556B2F> Ⅴ </font> [15:45:00] 坐下了 
 
 
 [2023/7/23]
