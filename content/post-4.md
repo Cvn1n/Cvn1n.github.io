@@ -16,9 +16,23 @@ mathjax = "tex-mml"
 
 //2023-07-04开始
 
-[2023/7/24]	
+[2023/7/24]	 (突然觉得   还是认真对待下日志比较好)
 -
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:12:58] </font> <font color=#0a9606>  糟糕的事情  </font> |  <font color=#BA55D3>一个假期总不能看见两起糟心事吧</font> 
+
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:22:08] </font> <font color=#0a9606>  虚惊  </font> |  <font color=#BA55D3>还行</font>  <font color=#87CEFA> [头疼] </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:17:14] </font> <font color=#0a9606>  日志处理-继续  </font> |  <font color=#BA55D3> 希望早点睡吧 </font>  
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:42:14] </font> <font color=#0a9606>  睡觉  </font> |  <font color=#BA55D3> 希望早点睡吧 </font>  
+
+
+
+
+[2023/7/24]	 (突然觉得   还是认真对待下日志比较好)
+-
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:30:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3>得去图书馆，赶作业  </font> 	<font color=#87CEFA> [早饭中饭又错过了,明明记得设了6点的闹钟] </font>
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:40:00] </font> <font color=#0a9606> 超市 </font> |  <font color=#BA55D3> 罐头+牛肉条+咖啡 </font>
@@ -35,9 +49,37 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606>[16:50:00] 电量危机 </font>   | <font color=#BA55D3>借充电宝99r押金，等下对答案还要用</font> <font color=#87CEFA> [总不好再找家里人拿了吧..] </font>
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[17:10:00] 能源供应 </font>   | <font color=#BA55D3>唔，总的来说 信用和优良的社交有时候还是很有用的 爱来自装甲掷弹兵   好人!</font> <font color=#87CEFA> [电量3%的时候  借出来了，好险] </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[17:19:04] 能源供应 </font>   | <font color=#BA55D3>唔，总的来说 信用和优良的社交有时候还是很有用的 爱来自装甲掷弹兵   好人!</font> <font color=#87CEFA> [电量3%的时候  借出来了，好险] </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[17:22:00] 新座位 </font>   | <font color=#BA55D3>回来的时候位置被占了，但是找到了新的，靠窗,边缘,相对还静些</font> <font color=#87CEFA> [刚开始怎么没看见这里] </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[17:22:00] 新座位 </font>   | <font color=#BA55D3>回来的时候位置被占了，但是找到了新的，靠窗,边缘,相对还静些</font> <font color=#87CEFA> [温度下去了，现在这边的空调冻死了，手都在抖] </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[18:30:11] 归还充电宝 </font>   | <font color=#BA55D3> 两天,语文跟上正常进度了，假期开始一字没动的进 </font> <font color=#87CEFA> [收拾ing] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[18:39:00] 还钱 </font>   | <font color=#BA55D3>回家路上&退押金,还钱</font> | <font color=#87CEFA> [街电那一个小时收了我6r   好贵..] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[19:06:00] 到家 </font>   | <font color=#BA55D3> 书店好麻烦  好远 </font> <font color=#87CEFA> | [走回去的，今天的运动量满了] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[19:10:00] 杂事处理 </font>   | <font color=#BA55D3> 像是补日志，回消息，喝水，丢垃圾之类
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[19:40:00] Game times! </font>   | <font color=#BA55D3> COH,和掷弹兵约局了%直播ing </font> <color=#87CEFA> | [今天一口饭没吃过，刚准备出门找找的] </font>
+
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606>[19:50:00]点外卖 </font>   | <font color=#BA55D3> 经典吃什么环节 </font> <color=#87CEFA> | [有没有补充营养还吃的方便的东西...] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[22:17:00] 进食 </font>   | <font color=#BA55D3> 玩完了,全输 </font> <font color=#87CEFA> | [还好没冷透，还能吃] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[22:20:00] 吹水|日志 </font>   | <font color=#BA55D3> 唔,非常花时间的事情 </font> <font color=#87CEFA> | [十二点之前睡觉] </font>
+
+PS:"果然   不管你定几点睡觉，等到那个点的时候  应该会有非常重要或者非常麻烦但是事情又或者是某事情做一半。导致你不得不得再是熬夜睡觉"
+
+
+
+
+
+
+
+
 
 
 
