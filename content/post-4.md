@@ -35,7 +35,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606>[16:50:00] 电量危机 </font>   | <font color=#BA55D3>借充电宝99r押金，等下对答案还要用</font> <font color=#87CEFA> [总不好再找家里人拿了吧..] </font>
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[17:10:00] 能源供应 </font>   | <font color=#BA55D3>唔,总的来说"有没好心人支付宝借个99，晚上8点前能还"   爱来自装甲掷弹兵   好人!</font> <font color=#87CEFA> [电量3%的时候  借出来了，好险] </font>
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[17:10:00] 能源供应 </font>   | <font color=#BA55D3>唔，总的来说 信用和优良的社交有时候还是很有用的 爱来自装甲掷弹兵   好人!</font> <font color=#87CEFA> [电量3%的时候  借出来了，好险] </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606>[17:22:00] 新座位 </font>   | <font color=#BA55D3>回来的时候位置被占了，但是找到了新的，靠窗,边缘,相对还静些</font> <font color=#87CEFA> [刚开始怎么没看见这里] </font>
 
