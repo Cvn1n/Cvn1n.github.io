@@ -23,7 +23,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:40:00] </font> <font color=#0a9606> 超市 </font> |  <font color=#BA55D3> 罐头+牛肉条+咖啡 </font>
 
-Ⅹ[14:50:00]  完全忘记掉图书馆周一不开放了  看着还有点小雨
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:50:00]  </font> <font color=#BA55D3> 完全忘记掉图书馆周一不开放了  看着还有点小雨 </font>
 
 Ⅵ[15:31:00] 抵达新华书店  |  无名之町? 早知道这边买了
 
