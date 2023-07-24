@@ -25,11 +25,20 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:50:00]  </font> <font color=#0a9606> 完全忘记掉图书馆周一不开放了 </font> | <font color=#BA55D3>还有小雨,气得我原地吃罐头 </font>
 
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [15:15:00] </font> <font color=#0a9606> 寻找出租车 </font> |  <font color=#BA55D3> 大雨了大雨了!!!!!!!!  湿透了!!!但是为什么还是30度的气温!!热!!闷热!! </font>
+
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [15:31:00]  </font> <font color=#0a9606> 抵达新华书店 </font>  |   <font color=#BA55D3>无名之町?  早知道这边买了</font>
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606>[15:40:00] 徘徊  </font> | <font color=#BA55D3>根本没位置啊  书店好吵 </font>
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[15:45:00] 坐下了 </font>   | <font color=#BA55D3>角落，稍微好一点点吧...</font>
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[15:45:00] 坐下了 </font>   | <font color=#BA55D3>角落，稍微好一点吧(?)...</font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[16:50:00] 电量危机 </font>   | <font color=#BA55D3>借充电宝99r押金，等下对答案还要用</font> <font color=#87CEFA> [总不好再找家里人拿了吧..] </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[17:10:00] 能源供应 </font>   | <font color=#BA55D3>唔,总的来说"有没好心人支付宝借个99，晚上8点前能还"   爱来自装甲掷弹兵   好人!</font> <font color=#87CEFA> [电量3%的时候  借出来了，好险] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[17:22:00] 新座位 </font>   | <font color=#BA55D3>回来的时候位置被占了，但是找到了新的，靠窗,边缘,相对还静些</font> <font color=#87CEFA> [刚开始怎么没看见这里] </font>
+
 
 
 [2023/7/23]
