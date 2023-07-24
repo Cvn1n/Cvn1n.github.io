@@ -39,7 +39,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:50:00]  </font> <font color=#0a9606> 完全忘记掉图书馆周一不开放了 </font> | <font color=#BA55D3>还有小雨,气得我原地吃罐头 </font>
 
-<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [15:15:00] </font> <font color=#0a9606> 寻找出租车 </font> |  <font color=#BA55D3> 中雨了中雨了!!!!!!!!  湿透了!!! 但是为什么还是30度的气温!!热!!闷热!! .....  暴雨了！！！！大暴雨！！！</font>
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [15:15:00] </font> <font color=#0a9606> 寻找出租车 </font> |  <font color=#BA55D3> 中雨了中雨了!!!!!  湿透了!!! 但是为什么还是30度的气温!!热!!闷热!! ....  暴雨了！！！大暴雨！！！</font>
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [15:31:00]  </font> <font color=#0a9606> 抵达新华书店 </font>  |   <font color=#BA55D3>无名之町?  早知道这边买了</font>
 
