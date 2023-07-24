@@ -65,10 +65,10 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606>[19:10:00] 杂事处理 </font>   | <font color=#BA55D3> 像是补日志，回消息，喝水，丢垃圾之类
 
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[19:40:00] Game times! </font>   | <font color=#BA55D3> COH,和掷弹兵约局了%直播ing </font> <color=#87CEFA> | [今天一口饭没吃过，刚准备出门找找的] </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[19:40:00] Game times! </font>   | <font color=#BA55D3> COH,和掷弹兵约局了%直播ing </font> <color=#87CEFA> [今天一口饭没吃过，刚准备出门找找的] </font>
 
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606>[19:50:00]点外卖 </font>   | <font color=#BA55D3> 经典吃什么环节 </font> <color=#87CEFA> | [有没有补充营养还吃的方便的东西...] </font>
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606>[19:50:00]点外卖 </font>   | <font color=#BA55D3> 经典吃什么环节 </font>  <color=#87CEFA>  [有没有补充营养还吃的方便的东西...] </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606>[22:17:00] 进食 </font>   | <font color=#BA55D3> 玩完了,全输 </font> <font color=#87CEFA> | [还好没冷透，还能吃] </font>
 
