@@ -19,9 +19,9 @@ mathjax = "tex-mml"
 [2023/7/24]	
 -
 
-<font color=#0a9606> Ⅹ[14:30:00] </font> <font color=#006400>  起床  </font> |  <font color=#BA55D3>得去图书馆，赶作业  </font> 	<font color=#87CEFA> [早饭中饭又错过了,明明记得设了6点的闹钟] </font>
-
-<font color=#0a9606> Ⅹ[14:40:00] </font> <font color=#006400> 超市 </font> |  <font color=#BA55D3> 罐头+牛肉条+咖啡 </font>
+<font color=#0a9606> Ⅹ[14:30:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3>得去图书馆，赶作业  </font> 	<font color=#87CEFA> [早饭中饭又错过了,明明记得设了6点的闹钟] </font>
+https://github.com/Cvn1n/Cvn1n.github.io/blob/master/content/post-4.md
+<font color=#0a9606> Ⅹ[14:40:00] </font> <font color=#0a9606> 超市 </font> |  <font color=#BA55D3> 罐头+牛肉条+咖啡 </font>
 
 Ⅹ[14:50:00]  完全忘记掉图书馆周一不开放了  看着还有点小雨
 
