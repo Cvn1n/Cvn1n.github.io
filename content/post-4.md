@@ -27,9 +27,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [15:31:00]  </font> <font color=#0a9606> 抵达新华书店 </font>  |   <font color=#BA55D3>无名之町?  早知道这边买了</font>
 
-<font color=#556B2F> Ⅴ </font> [15:40:00] <font color=#0a9606> 徘徊  </font> | 根本没位置啊  <font color=#BA55D3>书店好吵 </font>
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[15:40:00] 徘徊  </font> | <font color=#BA55D3>根本没位置啊  书店好吵 </font>
 
-<font color=#556B2F> Ⅴ </font> [15:45:00] <font color=#0a9606> 坐下了 </font>   |  果然  还是好吵
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[15:45:00] 坐下了 </font>   | <font color=#BA55D3>角落，稍微好一点点吧...</font>
 
 
 [2023/7/23]
