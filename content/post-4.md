@@ -20,6 +20,7 @@ mathjax = "tex-mml"
 -
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:30:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3>得去图书馆，赶作业  </font> 	<font color=#87CEFA> [早饭中饭又错过了,明明记得设了6点的闹钟] </font>
+
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [14:40:00] </font> <font color=#0a9606> 超市 </font> |  <font color=#BA55D3> 罐头+牛肉条+咖啡 </font>
 
 Ⅹ[14:50:00]  完全忘记掉图书馆周一不开放了  看着还有点小雨
