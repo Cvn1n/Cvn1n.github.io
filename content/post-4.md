@@ -59,6 +59,11 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606>[18:53:30] Game times </font>   | <font color=#BA55D3>COH </font> <font color=#87CEFA> [其实是来找一场录像的说] </font>
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[18:56:13] 巧合 </font>   | <font color=#BA55D3> 巧了,刚刚上线就有人找我约局了 </font> <font color=#87CEFA> [既然这样,COHing&直播] </font>
+
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[18:57:13] 饮品 </font>   | <font color=#BA55D3> 需要喝的 </font> <font color=#87CEFA> [一杯咖啡+一杯常规喝的吧] </font>
+
 
 
 
