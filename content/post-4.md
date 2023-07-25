@@ -30,29 +30,29 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:42:14] </font> <font color=#0a9606>  睡觉  </font> |  <font color=#BA55D3> 希望早点睡吧 </font>  
 
-<font color=red> Ⅰ  [03:10:00]  前几天就觉得不对劲但没找到是哪里不对劲， 现在发现了，  左手手臂受限 而且很大范围，右手也有点，  往后就是肌肉撕裂的那种痛。这两天右手的肩部不时有持续的疼痛，而且随吸气一起痛，胸口也很奇怪。     估计是那次健身房的关系。那天回来就感觉手臂废掉了。       明天得去医院看看 ， </font>
+<font color=red> Ⅰ  [03:10:00]  前几天觉得不对劲没找到是哪里， 现在发现了，  左手手臂受限 很大范围，右手也有点，  往后就是肌肉撕裂的那种痛。肩部不时持续的疼痛，随吸气加深，胸口也很奇怪。   也许是那天健身房过度了?       明天得去医院看看 ， </font>
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[04:00:00] 亢奋 </font>   | <font color=#BA55D3>睡不着   这就是  所谓的"过了某个点就不困了吗"</font> <font color=#87CEFA> [看手机] </font>
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[04:00:00] 亢奋 </font>   | <font color=#BA55D3>睡不着 这就是 "过了某个点就不困了"吗</font> <font color=#87CEFA> [看手机] </font>
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[04:00:00] Game times </font>   | <font color=#BA55D3>毕竟无所事事，都这个点了不睡了，早上还要跑医院"</font> <font color=#87CEFA> [COHing&直播] </font>
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[04:00:00] Game times </font>   | <font color=#BA55D3>毕竟无所事事，这个点了索性不睡了，早上要跑医院"</font>  <font color=#87CEFA> [COHing&直播] </font>
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606>[07:00:00] 早餐 </font>   | <font color=#BA55D3>居然吃到早餐了"</font> <font color=#87CEFA> [油炸馄饨..   好油   看着不健康] </font>
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[08:00:00] 出发 </font>   | <font color=#BA55D3> 骨科预约了十点，但是现在先去做体检，开学要用 </font> <font color=#87CEFA> [有点累] </font>
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[08:00:00] 出发 </font>   | <font color=#BA55D3> 骨科预约十点，现在做体检，开学要用 </font> <font color=#87CEFA> [有点累] </font>
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606>[09:30:00] 走路模拟器 </font>   | <font color=#BA55D3>两层楼来回跑，然后又各种排队等叫号</font> <font color=#87CEFA> [麻烦事情] </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606>[09:30:00] 走路模拟器 </font>   | <font color=#BA55D3>两层楼来回跑，各种排队等叫号</font> <font color=#87CEFA> [麻烦事情] </font>
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[10:20:00] 骨科 </font>   | <font color=#BA55D3>总结下应该是"继续观察,不做检查做了不诊断,做检查很麻烦,现在不建议做检查,所以 请继续观察,有问题再回来，</font> <font color=#87CEFA> [结果   就只开了个药膏(?)] </font>
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[10:20:00] 骨科 </font>   | <font color=#BA55D3>总结下应该是"继续观察,不做检查不确定,做检查很麻烦,现在不建议做检查,所以 请继续观察  </font> <font color=#87CEFA> [结果   就只开了个药膏(?)] </font>
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606>[10:40:00] 骨科 </font>   | <font color=#BA55D3> 继续体检</font> <font color=#87CEFA> [手机没电,然后又好困] </font>
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606>[11:10:00] 买中饭 </font>   | <font color=#BA55D3> 快餐店,只买菜打包  还有这操作? </font> <font color=#87CEFA> [现在只想回家睡觉] </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[11:56:00] 到家&睡觉 </font>   | <font color=#BA55D3> 到家第一件事,上床 </font> <font> color=#87CEFA> [两三分钟就睡着了吧] </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[11:56:00] 到家&睡觉 </font>   | <font color=#BA55D3> 到家第一件事,上床 </font> <font> color=#87CEFA> [两三分钟就睡着了] </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606>[18:17:00] 起床 </font>   | <font color=#BA55D3> 早起的虫儿有鸟吃 </font> <font color=#87CEFA> [错过中饭了，果然还是没有一日三餐了] </font>
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[18:30:00] 晚饭 </font>   | <font color=#BA55D3>我就说有鸟吃吧 </font> <font color=#87CEFA> [虽说不是自然醒] </font>
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[18:30:00] 晚饭 </font>   | <font color=#BA55D3>就说有鸟吃吧 </font> <font color=#87CEFA> [虽说不是自然醒] </font>
 
 <font color=#556B2F> Ⅷ </font> <font color=#0a9606>[18:45:00] 杂事 </font>   | <font color=#BA55D3>日志-清理房间-眼药水-吹水-贴膏药 </font> <font color=#87CEFA> [应该说是没事情做] </font>
 
@@ -61,9 +61,19 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606>[18:56:13] 巧合 </font>   | <font color=#BA55D3> 巧了,刚刚上线就有人找我约局了 </font> <font color=#87CEFA> [既然这样,COHing&直播] </font>
 
+<font color=#556B2F>  </font> <font color=#0a9606>[::] 膏药 </font>   | <font color=#BA55D3> 这玩意是这么贴的吧,但是怎么只有三片 </font> <font color=#87CEFA> [好像..有点点效果的感觉?] </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[18:57:13] 饮品 </font>   | <font color=#BA55D3> 需要喝的 </font> <font color=#87CEFA> [一杯咖啡+一杯常规喝的吧] </font>
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[18:57:13] 饮品 </font>   | <font color=#BA55D3> 需要喝的 </font> <font color=#87CEFA> [想要咖啡喝别喝的] </font>
+
+
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[20:00:00] 踩雷</font>   | <font color=#BA55D3> 生椰拿铁,牛奶，都是半塘，甜的我喉咙难受，咖啡像椰子糖水汁里掺咖啡。牛奶里喝出很重的粉，也是齁甜，只能说勉强能喝 </font> <font color=#87CEFA> [钱白花了] </font>
+
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[20:05:00] 无所事事 </font>   | <font color=#BA55D3>  吹水/漫画/视频 </font> <font color=#87CEFA> [今天先让我死在床上] </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[21:07:00] 卫生间 </font>   | <font color=#BA55D3>  吹水/漫画/视频 </font> <font color=#87CEFA> [今天先让我死在床上] </font>
 
 
 
