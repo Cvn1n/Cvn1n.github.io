@@ -57,6 +57,10 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅷ </font> <font color=#0a9606>[18:45:00] 杂事 </font>   | <font color=#BA55D3>日志-清理房间-眼药水-吹水-贴膏药 </font> <font color=#87CEFA> [应该说是没事情做] </font>
 
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[18:53:30] Game times </font>   | <font color=#BA55D3>COH </font> <font color=#87CEFA> [其实是来找一场录像的说] </font>
+
+
+
 
 
 [2023/7/24]	 (突然觉得   还是认真对待下日志比较好)
