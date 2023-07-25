@@ -73,7 +73,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606>[20:05:00] 无所事事 </font>   | <font color=#BA55D3>  吹水/漫画/视频 </font> <font color=#87CEFA> [今天先让我死在床上] </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[21:07:00] 卫生间 </font>   | <font color=#BA55D3>  吹水/漫画/视频 </font> <font color=#87CEFA> [今天先让我死在床上] </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606>[21:51:00] Game times </font>   | <font color=#BA55D3> 异星旅人  </font> <font color=#87CEFA> </font>
 
 
 
