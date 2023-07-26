@@ -19,7 +19,7 @@ mathjax = "tex-mml"
 //手机端的体验?   没考虑过。
 
 
-[2023/7/25]	 
+[2023/7/25]	 颜色排版搞错了   似乎不是很问题    不改了
 -
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606>[00:38:00]   </font>| <font color=#BA55D3>  Game times! </font> <font color=#87CEFA>  COH,倒是其他人都晚上活跃 </font>  <font color=#87CEFA> [COH-约局] </font>
@@ -38,15 +38,17 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [18:22:00]  </font>| <font color=#BA55D3>  休息时间  </font> <font color=#87CEFA>  想想,去图书馆 </font> <font color=#87CEFA> [啊..姐点了外卖 那就吃了走吧] </font>
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:00:00]  </font>| <font color=#BA55D3>  进食ing  </font> <font color=#87CEFA> 老妈出去旅游了   但是外婆怎么还来这边了...好麻烦  </font> <font color=#87CEFA> [不好的消息] </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:00:00]  </font>| <font color=#BA55D3>  进食ing  </font> <font color=#87CEFA> 老出去旅游   但外婆怎么还来这边了...好麻烦  </font> <font color=#87CEFA> [不好的消息] </font>
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:30:00]  </font>| <font color=#BA55D3>  图书馆8:30关,看起来明天再去好了  </font> <font color=#87CEFA> 老妈出去旅游了   但是外婆怎么还来这边了...好麻烦  </font> <font color=#87CEFA> [不好的消息] </font>
-
-
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [20:00:00]  </font>| <font color=#BA55D3>  Game times  </font> <font color=#87CEFA> COHing↓ </font> <font color=#87CEFA> [有人约局] </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:30:00]  </font>|  <font color=#87CEFA> 图书馆8:30关,看起来明天再去了   </font> <font color=#87CEFA> [不好的消息] </font>
 
 
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [20:00:00]  </font>| <font color=#BA55D3>  Game times  </font> <font color=#87CEFA> COHing↓ </font> <font color=#87CEFA> [有人约局] </font>
 
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:17:00]  </font>| <font color=#BA55D3>  休息  </font> <font color=#87CEFA> 盯屏幕一天了,头晕 </font> <font color=#87CEFA> [补日志,回消息&晚点有作业] </font>
+
+来自12:00:00:  闹钟30min
 
 
 [2023/7/25]	 很糟糕
