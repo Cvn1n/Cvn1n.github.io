@@ -18,6 +18,37 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
+
+[2023/7/25]	 
+-
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606>[00:38:00]   </font>| <font color=#BA55D3>  Game times! </font> <font color=#87CEFA>  COH,倒是其他人都晚上活跃 </font>  <font color=#87CEFA> [COH-约局] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[03:05:00]  </font>| <font color=#BA55D3>  点外卖&吹水 </font> <font color=#87CEFA>  价格意外的低,不是很饿 吃不完当早饭 </font> <font color=#87CEFA> [豆浆-葱香油条-荷叶糯米鸡120g-车仔面XO酱180g-马拉糕x1] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606>[03:57:00]  </font>| <font color=#BA55D3>  进食时间 </font> <font color=#87CEFA> 看来是吃不完了，可以留着明天了  </font> <font color=#87CEFA> [顺带观战个对局&吹水] </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606>[05:00:00]  </font>| <font color=#BA55D3>  躺床上了 </font> <font color=#87CEFA>  吹水/看手机  </font> <font color=#87CEFA> [现在是 烂人时间] </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[05:30:00]  </font>| <font color=#BA55D3>  睡觉 </font> <font color=#87CEFA>  起得早的话去一趟图书馆  </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [15:28:00]  </font>| <font color=#BA55D3> 起床  </font> <font color=#87CEFA>  11点就醒了 梦挺有意思 就回笼觉 睡睡醒醒几次现在是睡不下去了 </font> <font color=#87CEFA> [常态化懒狗时间] </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [15:30:00]  </font>| <font color=#BA55D3>  Game times!  </font> <font color=#87CEFA>  鸽了朋友两三天了,再不来得荒废了 </font> <font color=#87CEFA> [ASTRONEER ing↓ ] </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [18:22:00]  </font>| <font color=#BA55D3>  休息时间  </font> <font color=#87CEFA>  想想,去图书馆 </font> <font color=#87CEFA> [啊..姐点了外卖 那就吃了走吧] </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:00:00]  </font>| <font color=#BA55D3>  进食ing  </font> <font color=#87CEFA> 老妈出去旅游了   但是外婆怎么还来这边了...好麻烦  </font> <font color=#87CEFA> [不好的消息] </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:30:00]  </font>| <font color=#BA55D3>  图书馆8:30关,看起来明天再去好了  </font> <font color=#87CEFA> 老妈出去旅游了   但是外婆怎么还来这边了...好麻烦  </font> <font color=#87CEFA> [不好的消息] </font>
+
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [20:00:00]  </font>| <font color=#BA55D3>  Game times  </font> <font color=#87CEFA> COHing↓ </font> <font color=#87CEFA> [有人约局] </font>
+
+
+
+
+
 [2023/7/25]	 很糟糕
 -
 
