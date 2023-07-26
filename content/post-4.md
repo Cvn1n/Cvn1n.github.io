@@ -63,7 +63,7 @@ mathjax = "tex-mml"
 
 <font color=red> Ⅰ  [03:10:00]  前几天觉得不对劲没找到是哪里， 现在发现了，  左手手臂受限 很大范围，右手也有点，  往后就是肌肉撕裂的那种痛。肩部不时持续的疼痛，随吸气加深，胸口也很奇怪。   也许是那天健身房过度了?       明天得去医院看看 ， </font>
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[04:00:00] 亢奋 </font>   | <font color=#BA55D3>睡不着 这就是 "过了某个点就不困了"吗</font> <font color=#87CEFA> [看手机] </font>
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606>[04:00:00] 亢奋 </font>   | <font color=#BA55D3>睡不着  "过了某个点就不困了" </font> <font color=#87CEFA> [看手机] </font>
 
 <font color=#556B2F> Ⅷ </font> <font color=#0a9606>[04:00:00] Game times </font>   | <font color=#BA55D3>毕竟无所事事，这个点了索性不睡了，早上要跑医院"</font>  <font color=#87CEFA> [COHing&直播] </font>
 
