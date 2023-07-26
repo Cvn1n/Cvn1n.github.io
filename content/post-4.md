@@ -1,7 +1,7 @@
 +++
-title = "[2023-07-04]-[2023-07-25]日志 "
+title = "[2023-07-04]-[2023-07-26]日志 "
 template = "page.html"
-date = 2023-07-25T09:00:00Z
+date = 2023-07-26T09:00:00Z
 [taxonomies]
 tags = ["日志"]
 [extra]
@@ -19,7 +19,7 @@ mathjax = "tex-mml"
 //手机端的体验?   没考虑过。
 
 
-[2023/7/25]	 颜色排版搞错了   似乎不是很问题    不改了
+[2023/7/26]	 颜色排版搞错了   似乎不是很问题    不改了
 -
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606>[00:38:00]   </font>| <font color=#BA55D3>  Game times! </font> <font color=#87CEFA>  COH,倒是其他人都晚上活跃 </font>  <font color=#87CEFA> [COH-约局] </font>
