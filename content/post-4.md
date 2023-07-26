@@ -32,7 +32,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅷ </font> <font color=#0a9606>[05:30:00]  </font>| <font color=#BA55D3>  睡觉 </font> <font color=#87CEFA>  起得早的话去一趟图书馆  </font>
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [15:28:00]  </font>| <font color=#BA55D3> 起床  </font> <font color=#87CEFA>  11点就醒了 梦挺有意思 就回笼觉 睡睡醒醒几次现在是睡不下去了 </font> <font color=#87CEFA> [常态化懒狗时间] </font>
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [15:28:00]  </font>| <font color=#BA55D3> 起床  </font> <font color=#87CEFA>  11点就醒了 想做梦做完,回笼觉 睡睡醒醒几次现在是睡不下去了 </font> <font color=#87CEFA> [常态化懒狗时间] </font>
 
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [15:30:00]  </font>| <font color=#BA55D3>  Game times!  </font> <font color=#87CEFA>  鸽了朋友两三天了,再不来得荒废了 </font> <font color=#87CEFA> [ASTRONEER ing↓ ] </font>
 
