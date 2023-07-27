@@ -18,10 +18,19 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
-[2023/7/27] 左手差不多能动 右手和胸口也好很多  至少现在可以往后活动了   应该是肌肉拉伤  再放养两天看看
+[2023/7/27] 作息调整ing  通宵了
 -
 
-[06:25:00]  打了7把COH  
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:25:00] </font> <font color=#0a9606>  End times  </font> |  <font color=#BA55D3> 人要打懵逼了,咖啡喝完了  饿，头还混  </font> 	<font color=#87CEFA> [感觉..是个错误的调节方式]  </font>
+
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [06:30:00] </font> <font color=#0a9606>  杂言  </font> |  <font color=#BA55D3>左手居然能动了，前天还一点不能往后，现在好多了，活动范围至少大了七八十度。 </font> 	<font color=#87CEFA> [看来只是肌肉拉伤]  </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [06:38:00] </font> <font color=#0a9606>  杂言x2  </font> |  <font color=#BA55D3>刚刚活动着拉了下试探范围 现在右边肋骨边上痛了， 还有左边肩膀的肌肉 </font> 	<font color=#87CEFA> [但是怎么感觉萎缩了..是不是单纯胖了]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:46:35] </font> <font color=#0a9606>  点外卖  </font> |  <font color=#BA55D3>肚子好饿 葱香油条+灌汤小笼包x6+鸡肉生煎包x3+皮蛋瘦肉粥  </font> 	<font color=#87CEFA> [-31.4r   糟糕  豆浆忘记点了]  </font>
+
+
 
 
 
@@ -32,19 +41,20 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [16:50:10] </font> <font color=#0a9606>  出发  </font> <font color=#87CEFA> 进食问题..便利店随便整点先  然后等夜宵  明天吃早饭 </font>
 
-<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [17:11:10] </font> <font color=#0a9606>  便利店  </font> <font color=#87CEFA> 八宝粥,牛肉乾棒,COSTA </font>
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [17:11:10] </font> <font color=#0a9606>  便利店  </font> <font color=#87CEFA> 八宝粥,牛肉乾棒,COSTA </font> <font color=#87CEFA> [-22r] </font>
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:33:00] </font> <font color=#BA55D3> 我怀疑我九年教育没学过英语 </font> 	<font color=#87CEFA> [不想学了] </font>
-
-
-
-<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [17:11:10] </font> <font color=#0a9606>  便利店  </font> <font color=#87CEFA> 八宝粥,牛肉乾棒,COSTA </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:33:00] </font> <font color=#0a9606>  作业ing  </font> <font color=#BA55D3>  我怀疑我九年教育没学过英语 </font> 	<font color=#87CEFA> [17:25左右开始的] </font>
 
 
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:27:10] </font> <font color=#0a9606>  清馆  </font> <font color=#87CEFA> 唔还行 提交了两份，十来页，再来一天应该就全面跟上进度了  </font><font color=#87CEFA> [结果咖啡喝完了...] </font>
+
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:36:49] </font> <font color=#0a9606>  便利店x2 </font> <font color=#87CEFA> COSTA+康师傅红烧排骨面 -12.5r </font> <font color=#87CEFA> [补上了！咖啡] </font>
 
 
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:36:49] </font> <font color=#0a9606>  便利店x2 </font> <font color=#87CEFA> COSTA+康师傅红烧排骨面 -12.5r </font> <font color=#87CEFA> [补上了！咖啡] </font>
 
 
+<font color=#556B2F> Ⅸ  </font> <font color=#0a9606> [20:50:00] </font> <font color=#0a9606>  Game times! </font> <font color=#87CEFA> 大概准备玩通宵吧 -极好的时间消磨方式 </font> <font color=#87CEFA> [结果至少有7个hour] </font>  ↓
 
 
 
