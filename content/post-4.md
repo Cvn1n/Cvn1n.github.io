@@ -19,6 +19,13 @@ mathjax = "tex-mml"
 //手机端的体验?   没考虑过。
 
 
+[2023/7/26] 啊..居然11个小时	需要调整作息,今晚去准备个咖啡,然后明天11点睡觉 早上7点的闹钟.
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:33:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 朋友那边的开的档下先一天 </font> 	<font color=#87CEFA> [准备去图书馆] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:55:00] </font> <font color=#0a9606>  出发  </font> <font color=#87CEFA> 进食问题..便利店随便整点先  然后等夜宵  明天吃早饭 </font>
+
+
 [2023/7/26]	 颜色排版搞错了   似乎不是很问题    不改了
 -
 
