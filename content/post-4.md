@@ -18,12 +18,34 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
+[2023/7/27] 左手差不多能动 右手和胸口也好很多  至少现在可以往后活动了   应该是肌肉拉伤  再放养两天看看
+-
+
+[06:25:00]  打了7把COH  
+
+
 
 [2023/7/26] 啊..居然11个小时	需要调整作息,今晚去准备个咖啡,然后明天11点睡觉 早上7点的闹钟.
+-
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:33:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 朋友那边的开的档下先一天 </font> 	<font color=#87CEFA> [准备去图书馆] </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:55:00] </font> <font color=#0a9606>  出发  </font> <font color=#87CEFA> 进食问题..便利店随便整点先  然后等夜宵  明天吃早饭 </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [16:50:10] </font> <font color=#0a9606>  出发  </font> <font color=#87CEFA> 进食问题..便利店随便整点先  然后等夜宵  明天吃早饭 </font>
+
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [17:11:10] </font> <font color=#0a9606>  便利店  </font> <font color=#87CEFA> 八宝粥,牛肉乾棒,COSTA </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:33:00] </font> <font color=#BA55D3> 我怀疑我九年教育没学过英语 </font> 	<font color=#87CEFA> [不想学了] </font>
+
+
+
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [17:11:10] </font> <font color=#0a9606>  便利店  </font> <font color=#87CEFA> 八宝粥,牛肉乾棒,COSTA </font>
+
+
+
+
+
+
+
 
 
 [2023/7/26]	 颜色排版搞错了   似乎不是很问题    不改了
