@@ -39,22 +39,22 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:33:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 朋友那边的开的档下先一天 </font> 	<font color=#87CEFA> [准备去图书馆] </font>
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [16:50:10] </font> <font color=#0a9606>  出发  </font> <font color=#87CEFA> 进食问题..便利店随便整点先  然后等夜宵  明天吃早饭 </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [16:50:10] </font> <font color=#0a9606>  出发  </font> <font color=#BA55D3> 进食问题..便利店随便整点先  然后等夜宵  明天吃早饭 </font>
 
-<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [17:11:10] </font> <font color=#0a9606>  便利店  </font> <font color=#87CEFA> 八宝粥,牛肉乾棒,COSTA </font> <font color=#87CEFA> [-22r] </font>
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [17:11:10] </font> <font color=#0a9606>  便利店  </font> <font color=#BA55D3> 八宝粥,牛肉乾棒,COSTA </font> <font color=#87CEFA> [-22r] </font>
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:33:00] </font> <font color=#0a9606>  作业ing  </font> <font color=#BA55D3>  我怀疑我九年教育没学过英语 </font> 	<font color=#87CEFA> [17:25左右开始的] </font>
 
 
-<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:27:10] </font> <font color=#0a9606>  清馆  </font> <font color=#87CEFA> 唔还行 提交了两份，十来页，再来一天应该就全面跟上进度了  </font><font color=#87CEFA> [结果咖啡喝完了...] </font>
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:27:10] </font> <font color=#0a9606>  清馆  </font> <font color=#BA55D3> 唔还行 提交了两份，十来页，再来一天应该就全面跟上进度了  </font><font color=#87CEFA> [结果咖啡喝完了...] </font>
 
-<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:36:49] </font> <font color=#0a9606>  便利店x2 </font> <font color=#87CEFA> COSTA+康师傅红烧排骨面 -12.5r </font> <font color=#87CEFA> [补上了！咖啡] </font>
-
-
-<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:36:49] </font> <font color=#0a9606>  便利店x2 </font> <font color=#87CEFA> COSTA+康师傅红烧排骨面 -12.5r </font> <font color=#87CEFA> [补上了！咖啡] </font>
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:36:49] </font> <font color=#0a9606>  便利店x2 </font> <font color=#BA55D3> COSTA+康师傅红烧排骨面 -12.5r </font> <font color=#87CEFA> [补上了！咖啡] </font>
 
 
-<font color=#556B2F> Ⅸ  </font> <font color=#0a9606> [20:50:00] </font> <font color=#0a9606>  Game times! </font> <font color=#87CEFA> 大概准备玩通宵吧 -极好的时间消磨方式 </font> <font color=#87CEFA> [结果至少有7个hour] </font>  ↓
+<font color=#556B2F> Ⅰ  </font> <font color=#0a9606> [20:36:49] </font> <font color=#0a9606>  便利店x2 </font> <font color=#BA55D3> COSTA+康师傅红烧排骨面 -12.5r </font> <font color=#87CEFA> [补上了！咖啡] </font>
+
+
+<font color=#556B2F> Ⅸ  </font> <font color=#0a9606> [20:50:00] </font> <font color=#0a9606>  Game times! </font> <font color=#BA55D3> 大概准备玩通宵吧 -极好的时间消磨方式 </font> <font color=#87CEFA> [至少有7个hour] </font>  ↓
 
 
 
