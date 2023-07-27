@@ -18,10 +18,10 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
-[2023/7/27] 作息调整ing  通宵了
+[2023/7/27] 作息调整ing  感觉..是个错误的调节方式
 -
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:25:00] </font> <font color=#0a9606>  End times  </font> |  <font color=#BA55D3> 人要打懵逼了,咖啡喝完了  饿，头还混  </font> 	<font color=#87CEFA> [感觉..是个错误的调节方式]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:25:00] </font> <font color=#0a9606>  End times  </font> |  <font color=#BA55D3> 人要打懵逼了,咖啡喝完了  饿，头还混  </font> 	<font color=#87CEFA> [唔——  感觉..我是不是应该先睡]  </font>
 
 
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [06:30:00] </font> <font color=#0a9606>  杂言  </font> |  <font color=#BA55D3>左手居然能动了，前天还一点不能往后，现在好多了，活动范围至少大了七八十度。 </font> 	<font color=#87CEFA> [看来只是肌肉拉伤]  </font>
