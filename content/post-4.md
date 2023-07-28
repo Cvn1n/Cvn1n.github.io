@@ -44,6 +44,9 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [20:00:53] </font> <font color=#0a9606>  到家 </font> |  <font color=#BA55D3>  听歌 吹水 休息
 </font> 	<font color=#87CEFA> [湿透了  晚点洗澡]  </font> 
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [22:04:20] </font> <font color=#0a9606>  睡觉 </font> |  <font color=#BA55D3>  晚安
+</font> 	<font color=#87CEFA> [说实话不是很困]  </font> 
+
 
 
 
