@@ -37,9 +37,12 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:16:11] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 晚饭-米-肉-菜 </font> 	<font color=#87CEFA> [快递没拿]  </font>
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:40:00 ] </font> <font color=#0a9606>  无所事事  </font> |  <font color=#BA55D3> 看手机 </font> 	<font color=#87CEFA> [十点就睡觉]  </font> 
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:40:00] </font> <font color=#0a9606>  无所事事  </font> |  <font color=#BA55D3> 看手机 </font> 	<font color=#87CEFA> [十点就睡觉]  </font> 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:43:55 ] </font> <font color=#0a9606>  出门 </font> |  <font color=#BA55D3>  忘记快递了，现在去拿机 </font> 	<font color=#87CEFA> [好大的雨..唔——  反正一点点路]  </font> 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:43:55] </font> <font color=#0a9606>  出门 </font> |  <font color=#BA55D3>  忘记快递了，现在去拿机 </font> 	<font color=#87CEFA> [好大的雨..唔——  反正一点点路]  </font> 
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [20:00:53] </font> <font color=#0a9606>  到家 </font> |  <font color=#BA55D3>  听歌 吹水 休息
+</font> 	<font color=#87CEFA> [湿透了  晚点洗澡]  </font> 
 
 
 
