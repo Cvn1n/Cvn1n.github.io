@@ -32,6 +32,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [11:44:44] </font> <font color=#0a9606>  休息  </font> |  <font color=#BA55D3> 累了 听歌 休息 </font> 	<font color=#87CEFA> [已经鼠标都定位不准了]  </font>
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [11:53:11] </font> <font color=#0a9606>  小睡  </font> |  <font color=#BA55D3> 闹钟  然后晚上十点睡觉</font> 	<font color=#87CEFA> [希望我醒的过来]  </font>
 
 
 
