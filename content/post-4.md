@@ -1,7 +1,7 @@
 +++
-title = "[2023-07-04]-[2023-07-26]日志 "
+title = "[2023-07-04]-[2023-07-28]日志 "
 template = "page.html"
-date = 2023-07-26T09:00:00Z
+date = 2023-07-28T09:00:00Z
 [taxonomies]
 tags = ["日志"]
 [extra]
@@ -18,7 +18,7 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
-[2023/7/27] 作息调整ing  感觉..是个错误的调节方式
+[2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:25:00] </font> <font color=#0a9606>  End times  </font> |  <font color=#BA55D3> 人要打懵逼了,咖啡喝完了  饿，头还昏  </font> 	<font color=#87CEFA> [唔——  感觉..我是不是应该先睡]  </font>
@@ -35,12 +35,19 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [11:53:11] </font> <font color=#0a9606>  小睡  </font> |  <font color=#BA55D3> 闹钟  然后晚上十点睡觉</font> 	<font color=#87CEFA> [希望我醒的过来]  </font>
 
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:16:11] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 晚饭-米-肉-菜 </font> 	<font color=#87CEFA> [快递没拿]  </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:40:00 ] </font> <font color=#0a9606>  无所事事  </font> |  <font color=#BA55D3> 看手机 </font> 	<font color=#87CEFA> [十点就睡觉]  </font> 
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:43:55 ] </font> <font color=#0a9606>  出门 </font> |  <font color=#BA55D3>  忘记快递了，现在去拿机 </font> 	<font color=#87CEFA> [好大的雨..唔——  反正一点点路]  </font> 
 
 
 
 
 
-[2023/7/26] 啊..居然11个小时	需要调整作息,今晚去准备个咖啡,然后明天11点睡觉 早上7点的闹钟.
+
+
+[2023/7/27] 啊..居然11个小时	需要调整作息,今晚去准备个咖啡,然后明天11点睡觉 早上7点的闹钟.
 -
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:33:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 朋友那边的开的档下先一天 </font> 	<font color=#87CEFA> [准备去图书馆] </font>
