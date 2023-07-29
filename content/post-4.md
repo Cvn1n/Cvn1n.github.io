@@ -43,6 +43,8 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [12:34:43] </font> <font color=#0a9606> 午休 </font> |  <font color=#BA55D3> 30min的午觉时间  </font> 	<font color=#87CEFA> [小睡一会]  </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:38:00] </font> <font color=#0a9606> 清醒 </font> |  <font color=#BA55D3> .....如你所见 </font> 	<font color=#87CEFA> [闹钟被我迷迷糊糊中及其熟练的关掉了三次]  </font>
+
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
 
