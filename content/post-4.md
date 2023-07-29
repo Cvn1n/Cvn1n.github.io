@@ -18,9 +18,15 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
-[2023/7/29] 好的开始
+[2023/7/30] 
 - 
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [00:16:00] </font> <font color=#0a9606>  Game times</font> |  <font color=#BA55D3>  突然有人约局 </font> 	<font color=#87CEFA> [晚点睡-COH ing]  </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:34:58] </font> <font color=#0a9606>  睡觉  </font> |  <font color=#BA55D3>  小插曲 </font> 	<font color=#87CEFA> [8点20的闹钟]  </font>
+
+[2023/7/29] 好的开始  但意外总有发生
+- 
 
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:37:00] </font> <font color=#0a9606>  睡觉  </font> |  <font color=#BA55D3>  结果还是拖到现在 </font> 	<font color=#87CEFA> [至少不是四点]  </font>
@@ -53,9 +59,8 @@ mathjax = "tex-mml"
  结果就成了三个人.   还好遇到个小学同学,打了会摸个鱼,混一圈回家了</font> 	<font color=#87CEFA> [顺带便利店-茶π+牛肉乾棒]  </font>
 
  <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [20:30:37] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3> ASTRONEER ing↓</font> 	<font color=#87CEFA> [SUPP-CVN1N-祭祀]  </font>
-
  
- <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [23:15:35] </font> <font color=#0a9606> End times </font> |  <font color=#BA55D3> 吹水,听歌,休息 </font> 	<font color=#87CEFA> [得洗个澡]  </font>
+ <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [23:15:35] </font> <font color=#0a9606> End times </font> |  <font color=#BA55D3> 吹水,听歌,休息 </font> 	<font color=#87CEFA> [也许准备休息?]  </font> <font color=#556B2F>
 
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
