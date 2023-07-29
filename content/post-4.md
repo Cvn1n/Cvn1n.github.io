@@ -31,11 +31,11 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:06:00] </font> <font color=#0a9606>  洗漱  </font> |  <font color=#BA55D3> 刷牙,洗脸完成,本来想洗澡 开了好会没热水 </font> 	<font color=#87CEFA> [麻烦事]  </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:07:00] </font> <font color=#0a9606>  琐事x2 ↓  </font> |  <font color=#BA55D3>亮机子,开歌,记日志,清垃圾,整理,回消息 </font> 	<font color=#87CEFA> [顺带向全世界宣布下睡醒了]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:07:00] </font> <font color=#0a9606> 琐事x2 ↓  </font> |  <font color=#BA55D3>亮机子,开歌,记日志,清垃圾,整理,回消息 </font> 	<font color=#87CEFA> [顺带向全世界宣布下睡醒了]  </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:21:00] </font> <font color=#0a9606>  早饭-外卖  </font> |  <font color=#BA55D3> 现在吃会不会有点晚  </font> 	<font color=#87CEFA> [常看的那家,毕竟是茶点店  得找找是适合早晨的 顺带 营养的(?)]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:21:00] </font> <font color=#0a9606> 早饭-外卖 </font> |  <font color=#BA55D3> 现在吃会不会有点晚  </font> 	<font color=#87CEFA> [常看的那家,毕竟是茶点店  得找找是适合早晨的 顺带 营养的(?)]  </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:46:08] </font> <font color=#0a9606>  下单完成  </font> |  <font color=#BA55D3> 小醋包,茶叶蛋,榨菜丝,牛肉饼,灌汤小笼包,皮蛋瘦肉粥,红枣枸杞红糖水  </font> 	<font color=#87CEFA> [结果花了20多分钟才付款,而且它居然没有豆浆，看起来还要半小时才能吃]  </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:46:08] </font> <font color=#0a9606> 下单完成 </font> |  <font color=#BA55D3> 小醋包,茶叶蛋,榨菜丝,牛肉饼,灌汤小笼包,皮蛋瘦肉粥,红枣枸杞红糖水  </font> 	<font color=#87CEFA> [结果花了20多分钟,还要等30min,它居然没豆浆]  </font>
 
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
