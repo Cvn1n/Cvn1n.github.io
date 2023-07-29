@@ -35,7 +35,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:21:00] </font> <font color=#0a9606> 早饭-外卖 </font> |  <font color=#BA55D3> 现在吃会不会有点晚  </font> 	<font color=#87CEFA> [常看的那家,毕竟是茶点店  得找找是适合早晨的 顺带 营养的(?)]  </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:46:08] </font> <font color=#0a9606> 下单完成 </font> |  <font color=#BA55D3> 小醋包,茶叶蛋,榨菜丝,牛肉饼,灌汤小笼包,皮蛋瘦肉粥,红枣枸杞红糖水  </font> 	<font color=#87CEFA> [结果花了20多分钟,还要等30min,它居然没豆浆]  </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:46:08] </font> <font color=#0a9606> 下单完成 </font> |  <font color=#BA55D3> 小醋包,茶叶蛋,榨菜丝,牛肉饼,灌汤小笼包,皮蛋瘦肉粥,红枣枸杞红糖水  </font> 	<font color=#87CEFA> [结果花了20多分钟它居然没豆浆]  </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [10:24:51] </font> <font color=#0a9606> 进食 </font> |  <font color=#BA55D3> 粥食好不方便的包装  </font> 	<font color=#87CEFA> [好快外卖]  </font>
 
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
