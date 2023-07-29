@@ -39,6 +39,10 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [10:24:51] </font> <font color=#0a9606> 进食 </font> |  <font color=#BA55D3> 粥食好不方便的包装  </font> 	<font color=#87CEFA> [好快外卖]  </font>
 
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [10:40:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3> COH  </font> 	<font color=#87CEFA> [娱乐]  </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [12:34:43] </font> <font color=#0a9606> 午休 </font> |  <font color=#BA55D3> 30min的午觉时间  </font> 	<font color=#87CEFA> [小睡一会]  </font>
+
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
 
