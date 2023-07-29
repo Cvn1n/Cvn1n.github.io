@@ -47,10 +47,10 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:04:00] </font> <font color=#0a9606> 晚饭</font> |  <font color=#BA55D3> 好吃不过饺子 </font> 	<font color=#87CEFA> [前面监护人喊过吃饭了还以为在做梦]  </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:14:00] </font> <font color=#0a9606> 外出-乒乓球</font> |  <font color=#BA55D3> 被邀请了,说实在不很想去 但不很好 </font> 	<font color=#87CEFA> [前前后后拒绝过好多次]  </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:06:00] </font> <font color=#0a9606> 晚饭</font> |  <font color=#BA55D3> 好吃不过饺子 </font> 	<font color=#87CEFA> [前面监护人喊过吃饭了还以为在做梦]  </font>
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:14:00] </font> <font color=#0a9606> 外出-乒乓球</font> |  <font color=#BA55D3> 被邀请了,说实在不是很想去 但不是很好 </font> 	<font color=#87CEFA> [前前后后拒绝好多回了]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [20:22:00] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3> 对方叫了朋友 
+ 结果就成了三个人.   还好遇到个小学同学,打了会摸个鱼,混一圈回家了</font> 	<font color=#87CEFA> [顺带便利店-茶π+牛肉乾棒]  </font>
 
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
