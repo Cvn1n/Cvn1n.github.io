@@ -18,6 +18,26 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
+[2023/7/29] 好的开始
+- 
+
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:37:00] </font> <font color=#0a9606>  睡觉  </font> |  <font color=#BA55D3>  结果还是拖到现在 </font> 	<font color=#87CEFA> [至少不是四点睡了]  </font>
+
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [08:20:00] </font> <font color=#0a9606>  醒了  </font> |  <font color=#BA55D3>  第三次闹钟让我意识到得醒醒了 </font> 	<font color=#87CEFA> [困,眼睛好干,找找眼药水 中午午睡]  </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [08:50:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 看了会视频回消息 </font> 	<font color=#87CEFA> [不能烂床上了]  </font>
+
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [09:06:00] </font> <font color=#0a9606>  洗漱  </font> |  <font color=#BA55D3> 刷牙,洗脸完成,本来想洗澡 但是开了好一会没有热水 </font> 	<font color=#87CEFA> [麻烦事情]  </font>
+
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [09:07:00] </font> <font color=#0a9606>  琐事x2 ↓  </font> |  <font color=#BA55D3>亮机子,开歌,记日志,清垃圾,整理,回消息 </font> 	<font color=#87CEFA> [顺带向全世界宣布下睡醒了]  </font>
+
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [09:21:00] </font> <font color=#0a9606>  早饭-外卖  </font> |  <font color=#BA55D3> 现在吃会不会有点晚  </font> 	<font color=#87CEFA> [常去的那家,毕竟是茶点店  得找找是适合早晨的 顺带 营养的(?)]  </font>
+
+
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [09:21:00] </font> <font color=#0a9606>  下单  </font> |  <font color=#BA55D3> 小醋包,茶叶蛋,榨菜丝,牛肉饼,灌汤小笼包,皮蛋瘦肉粥,红枣枸杞红糖水  </font> 	<font color=#87CEFA> [结果花了20多分钟才付款,而且它居然没有豆浆，看起来还要半小时才能吃]  </font>
+
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
 
@@ -44,10 +64,10 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [20:00:53] </font> <font color=#0a9606>  到家 </font> |  <font color=#BA55D3>  听歌 吹水 休息
 </font> 	<font color=#87CEFA> [湿透了  晚点洗澡]  </font> 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [22:04:20] </font> <font color=#0a9606>  睡觉 </font> |  <font color=#BA55D3>  晚安
-</font> 	<font color=#87CEFA> [说实话不是很困]  </font> 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [22:04:20] </font> <font color=#0a9606>  准备睡觉 </font> |  <font color=#BA55D3>  晚安
+</font> 	<font color=#87CEFA> [不是很困]  </font> 
 
-
+<font color=#556B2F> Ⅳ</font> <font color=#0a9606> [22:08:00] </font> <font color=#0a9606>  点心 </font> |  <font color=#BA55D3>  车仔面,饭团,豆浆,葱香油条 </font> 	<font color=#87CEFA> [米,面,豆浆,油条,好像不是很营养& -11.19r]  </font> 
 
 
 
