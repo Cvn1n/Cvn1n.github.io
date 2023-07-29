@@ -50,6 +50,8 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:06:00] </font> <font color=#0a9606> 晚饭</font> |  <font color=#BA55D3> 好吃不过饺子 </font> 	<font color=#87CEFA> [前面监护人喊过吃饭了还以为在做梦]  </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:14:00] </font> <font color=#0a9606> 外出-乒乓球</font> |  <font color=#BA55D3> 被邀请了,说实在不是很想去 但不是很好 </font> 	<font color=#87CEFA> [前前后后拒绝好多回了]  </font>
+
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
 
@@ -80,9 +82,6 @@ mathjax = "tex-mml"
 </font> 	<font color=#87CEFA> [不是很困]  </font> 
 
 <font color=#556B2F> Ⅳ</font> <font color=#0a9606> [22:08:00] </font> <font color=#0a9606>  点心 </font> |  <font color=#BA55D3>  车仔面,饭团,豆浆,葱香油条 </font> 	<font color=#87CEFA> [米,面,豆浆,油条,好像不是很营养& -11.19r]  </font> 
-
-
-
 
 
 [2023/7/27] 啊..居然11个小时	需要调整作息,今晚去准备个咖啡,然后明天11点睡觉 早上7点的闹钟.
