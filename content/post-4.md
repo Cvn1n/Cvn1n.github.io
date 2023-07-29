@@ -23,20 +23,19 @@ mathjax = "tex-mml"
 
 
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:37:00] </font> <font color=#0a9606>  睡觉  </font> |  <font color=#BA55D3>  结果还是拖到现在 </font> 	<font color=#87CEFA> [至少不是四点睡了]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:37:00] </font> <font color=#0a9606>  睡觉  </font> |  <font color=#BA55D3>  结果还是拖到现在 </font> 	<font color=#87CEFA> [至少不是四点]  </font>
 
-<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [08:20:00] </font> <font color=#0a9606>  醒了  </font> |  <font color=#BA55D3>  第三次闹钟让我意识到得醒醒了 </font> 	<font color=#87CEFA> [困,眼睛好干,找找眼药水 中午午睡]  </font>
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [08:20:00] </font> <font color=#0a9606>  醒了  </font> |  <font color=#BA55D3>  第三次的闹钟 得醒醒了 </font> 	<font color=#87CEFA> [困,眼睛干,找找眼药水 中午午睡]  </font>
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [08:50:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 看了会视频回消息 </font> 	<font color=#87CEFA> [不能烂床上了]  </font>
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [08:50:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3> 看了会视频回消息 </font> 	<font color=#87CEFA> [不能烂床上]  </font>
 
-<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [09:06:00] </font> <font color=#0a9606>  洗漱  </font> |  <font color=#BA55D3> 刷牙,洗脸完成,本来想洗澡 但是开了好一会没有热水 </font> 	<font color=#87CEFA> [麻烦事情]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:06:00] </font> <font color=#0a9606>  洗漱  </font> |  <font color=#BA55D3> 刷牙,洗脸完成,本来想洗澡 开了好会没热水 </font> 	<font color=#87CEFA> [麻烦事]  </font>
 
-<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [09:07:00] </font> <font color=#0a9606>  琐事x2 ↓  </font> |  <font color=#BA55D3>亮机子,开歌,记日志,清垃圾,整理,回消息 </font> 	<font color=#87CEFA> [顺带向全世界宣布下睡醒了]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:07:00] </font> <font color=#0a9606>  琐事x2 ↓  </font> |  <font color=#BA55D3>亮机子,开歌,记日志,清垃圾,整理,回消息 </font> 	<font color=#87CEFA> [顺带向全世界宣布下睡醒了]  </font>
 
-<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [09:21:00] </font> <font color=#0a9606>  早饭-外卖  </font> |  <font color=#BA55D3> 现在吃会不会有点晚  </font> 	<font color=#87CEFA> [常去的那家,毕竟是茶点店  得找找是适合早晨的 顺带 营养的(?)]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:21:00] </font> <font color=#0a9606>  早饭-外卖  </font> |  <font color=#BA55D3> 现在吃会不会有点晚  </font> 	<font color=#87CEFA> [常看的那家,毕竟是茶点店  得找找是适合早晨的 顺带 营养的(?)]  </font>
 
-
-<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [09:21:00] </font> <font color=#0a9606>  下单  </font> |  <font color=#BA55D3> 小醋包,茶叶蛋,榨菜丝,牛肉饼,灌汤小笼包,皮蛋瘦肉粥,红枣枸杞红糖水  </font> 	<font color=#87CEFA> [结果花了20多分钟才付款,而且它居然没有豆浆，看起来还要半小时才能吃]  </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:46:08] </font> <font color=#0a9606>  下单完成  </font> |  <font color=#BA55D3> 小醋包,茶叶蛋,榨菜丝,牛肉饼,灌汤小笼包,皮蛋瘦肉粥,红枣枸杞红糖水  </font> 	<font color=#87CEFA> [结果花了20多分钟才付款,而且它居然没有豆浆，看起来还要半小时才能吃]  </font>
 
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
