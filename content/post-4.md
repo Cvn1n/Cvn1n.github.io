@@ -52,6 +52,11 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [20:22:00] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3> 对方叫了朋友 
  结果就成了三个人.   还好遇到个小学同学,打了会摸个鱼,混一圈回家了</font> 	<font color=#87CEFA> [顺带便利店-茶π+牛肉乾棒]  </font>
 
+ <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [20:30:37] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3> ASTRONEER ing↓</font> 	<font color=#87CEFA> [SUPP-CVN1N-祭祀]  </font>
+
+ 
+ <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [23:15:35] </font> <font color=#0a9606> End times </font> |  <font color=#BA55D3> 吹水,听歌,休息 </font> 	<font color=#87CEFA> [得洗个澡]  </font>
+
 [2023/7/28] 作息调整ing  感觉..是个错误的调节方式
 -
 
