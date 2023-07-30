@@ -28,7 +28,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:40:00] </font> <font color=#0a9606> 外卖-寻找ing </font> |  <font color=#BA55D3> 好饿</font> 	<font color=#87CEFA> [最早的也都是要六点配送了] </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:01:00] </font> <font color=#0a9606> 外卖-下单 </font> |  <font color=#BA55D3> 结果下完单就六点了 豆浆-梅干菜包-温州瘦肉丸  </font> 	<font color=#87CEFA> [结果下完单就六点了,豆浆下单错了..无糖,等下自己加吧] </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:01:00] </font> <font color=#0a9606> 外卖-下单 </font> |  <font color=#BA55D3> 结果下完单就六点了 豆浆-梅干菜包-温州瘦肉丸 -19.6r  </font> 	<font color=#87CEFA> [结果下完单就六点了,豆浆下单错了..无糖,等下自己加吧] </font>
 
 
 
