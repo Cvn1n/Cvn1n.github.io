@@ -24,7 +24,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:09:00] </font> <font color=#0a9606> 睡觉</font> |  <font color=#BA55D3> 不设闹钟了 </font> 	<font color=#87CEFA> [起早了没事做]  </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:16:00] </font> <font color=#0a9606> 起床</font> |  <font color=#BA55D3> 这实在太奇怪了</font> 	<font color=#87CEFA> [突然就是醒了]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:16:00] </font> <font color=#0a9606> 起床</font> |  <font color=#BA55D3> 这实在太奇怪了 突然就是醒了</font> 	<font color=#87CEFA> [但是感觉不是很清醒] </font>
 
 
 
