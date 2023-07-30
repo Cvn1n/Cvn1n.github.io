@@ -20,7 +20,11 @@ mathjax = "tex-mml"
 
 [2023/7/31] 
 - 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [00:31:00] </font> <font color=#0a9606> 申诉完成</font> |  <font color=#BA55D3> 希望明天能处理好吧..</font> 	<font color=#87CEFA> [得准备睡觉了]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [00:31:00] </font> <font color=#0a9606> 申诉完成</font> |  <font color=#BA55D3> 希望明天能处理好吧 </font> 	<font color=#87CEFA> [得准备睡觉了]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:09:00] </font> <font color=#0a9606> 睡觉</font> |  <font color=#BA55D3> 不设闹钟了 </font> 	<font color=#87CEFA> [起早了没事做]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:16:00] </font> <font color=#0a9606> 起床</font> |  <font color=#BA55D3> 这实在太奇怪了</font> 	<font color=#87CEFA> [突然就是醒了]  </font>
 
 
 
