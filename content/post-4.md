@@ -41,6 +41,16 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [14:33:33] </font> <font color=#0a9606> 午睡  </font> |  <font color=#BA55D3>这次不会有意外了 唔 </font> 	<font color=#87CEFA> [50min预定]  </font>
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:02:33] </font> <font color=#0a9606> 清醒  </font> |  <font color=#BA55D3>来自庚辰的爱心叫床服务 </font> 	<font color=#87CEFA> [我要不要去买咖啡和褪黑素]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:06:33] </font> <font color=#0a9606> Game times  </font> |  <font color=#BA55D3>有朋友让我帮忙看看录像 </font> 	<font color=#87CEFA> [算是给新人做教学吧]  </font>
+
+<font color=#556B2F> Ⅳ  </font> <font color=#0a9606> [20:35:31] </font> <font color=#0a9606> 外卖下单  </font> |  <font color=#BA55D3> 牛肉刀削面 </font> 	<font color=#87CEFA> [这次..应该正常店家吧]  </font>
+
+<font color=#556B2F> Ⅳ  </font> <font color=#0a9606> [20:41:00] </font> <font color=#0a9606> 哨笛练习  </font> |  <font color=#BA55D3> uh..好难 </font> 	<font color=#87CEFA> [刚好家里没人]  </font>
+
+
+
 
 
 
