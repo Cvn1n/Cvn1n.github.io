@@ -37,6 +37,10 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:47:00] </font> <font color=#0a9606> 阔剑地雷  </font> |  <font color=#BA55D3> 头两次还行,今天只有豆浆是正常的,他的葱香油条,一般人咬不动，狗见了都摇头，还有这个 拿酱油醋冒充调料的肠粉  200g的含金量,香菇盖过牛肉的肠粉 </font> 	<font color=#87CEFA> [姜太公集团]  </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [11:30:0] </font> <font color=#0a9606> Game times  </font> |  <font color=#BA55D3> COH </font> 	<font color=#87CEFA> [和别人在连线]  </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [14:33:33] </font> <font color=#0a9606> 午睡  </font> |  <font color=#BA55D3>这次不会有意外了 唔 </font> 	<font color=#87CEFA> [50min预定]  </font>
+
 
 
 
