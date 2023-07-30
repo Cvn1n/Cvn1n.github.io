@@ -18,6 +18,13 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
+[2023/7/31] 
+- 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [00:31:00] </font> <font color=#0a9606> 申诉完成</font> |  <font color=#BA55D3> 希望明天能处理好吧..</font> 	<font color=#87CEFA> [得准备睡觉了]  </font>
+
+
+
+
 [2023/7/30] 
 - 
 
@@ -50,8 +57,10 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅳ  </font> <font color=#0a9606> [20:41:00] </font> <font color=#0a9606> 哨笛练习  </font> |  <font color=#BA55D3> uh..好难 </font> 	<font color=#87CEFA> [刚好家里没人]  </font>
 
 
+<font color=#556B2F> Ⅳ  </font> <font color=#0a9606> [22:05:00] </font> <font color=#0a9606> Game times   </font> |  <font color=#BA55D3>COH </font> 	<font color=#87CEFA> [消遣]  </font>
 
 
+<font color=#556B2F> Ⅳ  </font> <font color=#0a9606> [23:31:00] </font> <font color=#0a9606> Steam申述ing   </font> |  <font color=#BA55D3>被盗了,现在申诉渠道都没找到在哪</font> 	<font color=#87CEFA> [申诉常客了]  </font>
 
 
 
