@@ -35,6 +35,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:51:17] </font> <font color=#0a9606>  早餐-外卖-下单  </font> |  <font color=#BA55D3> 潮州牛肉肠粉200克,元气香浓豆浆,葱香油条,潮汕牛筋丸汤(6个)  </font> 	<font color=#87CEFA> [-24.19R]  </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:47:00] </font> <font color=#0a9606> 阔剑地雷  </font> |  <font color=#BA55D3> 头两次还行,今天只有豆浆是正常的,他的葱香油条,一般人咬不动，狗见了都摇头，还有这个 拿酱油醋冒充调料的肠粉  200g的含金量,香菇盖过牛肉的肠粉 </font> 	<font color=#87CEFA> [姜太公集团]  </font>
+
+
 
 
 
