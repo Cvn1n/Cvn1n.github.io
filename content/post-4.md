@@ -27,13 +27,13 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [03:28:00] </font> <font color=#0a9606>  睡觉  </font> |  <font color=#BA55D3>  突发情况  </font> 	<font color=#87CEFA> [8点20的闹钟]  </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [08/:20:00] </font> <font color=#0a9606>  睡梦中  </font> |  <font color=#BA55D3>  闹钟 </font> 	<font color=#87CEFA> [不排除睡梦中熟练的关掉了,但确实没有印象]  </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [08:20:00] </font> <font color=#0a9606>  睡梦中  </font> |  <font color=#BA55D3>  闹钟 </font> 	<font color=#87CEFA> [不排除睡梦中熟练的关掉了,但确实没有印象]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:28:00] </font> <font color=#0a9606>  睡梦中x2  </font> |  <font color=#BA55D3>  来自庚辰的十三声爱心叫床电话  </font> 	<font color=#87CEFA> [当然  完全没有听到]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:29:00] </font> <font color=#0a9606>  起床  </font> |  <font color=#BA55D3>  来自庚辰的第二通爱心叫床服务  </font> 	<font color=#87CEFA> [醒了!！！！每天起床喉咙都不舒服   然后  好饿]  </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:51:17] </font> <font color=#0a9606>  早餐-外卖-下单  </font> |  <font color=#BA55D3> 潮州牛肉肠粉200克,元气香浓豆浆,葱香油条,潮汕牛筋丸汤(6个)  </font> 	<font color=#87CEFA> [-24.19R]  </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:51:17] </font> <font color=#0a9606>  早餐-外卖-下单  </font> |  <font color=#BA55D3> 潮州牛肉肠粉200克,元气香浓豆浆,葱香油条,潮汕牛筋丸汤(6个)  </font> 	<font color=#87CEFA> [-24.19R]  </font>
 
 
 
