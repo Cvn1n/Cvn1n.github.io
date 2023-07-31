@@ -37,6 +37,9 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [17:05:05] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3> 到底为什么!!! </font> 	<font color=#87CEFA> [准备外出] </font>
 
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:27:00] </font> <font color=#0a9606> 外出 </font> |  <font color=#BA55D3> 作业 </font> 	<font color=#87CEFA> [图书馆] </font>A
+
+
 
 [2023/7/30] 
 - 
