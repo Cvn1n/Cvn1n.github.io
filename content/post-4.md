@@ -22,7 +22,7 @@ mathjax = "tex-mml"
 [2023/8/1] 
 - 
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:15:00] </font> <font color=#0a9606> 醒了 </font> |  <font color=#BA55D3> 这两天怎么回事.. </font> 	<font color=#87CEFA> [讲道理我应该继续睡的]  </font>
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:15:00] </font> <font color=#0a9606> 醒了 </font> |  <font color=#BA55D3> 这两天怎么回事.. </font> 	<font color=#87CEFA> [也许应该继续睡]  </font>
 
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [03:30:00] </font> <font color=#0a9606> 起床</font> |  <font color=#BA55D3> 睡不着 </font> 	<font color=#87CEFA> [要不先点份外卖]  </font>
 
