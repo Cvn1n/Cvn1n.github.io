@@ -39,7 +39,15 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:27:00] </font> <font color=#0a9606> 外出 </font> |  <font color=#BA55D3> 作业 </font> 	<font color=#87CEFA> [图书馆] </font>A
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:55:00] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3> 一定睡傻了 </font> 	<font color=#87CEFA> [周一图书馆不开放] </font>A
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:55:00] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3> 睡傻了 </font> 	<font color=#87CEFA> [周一图书馆不开放] </font>A
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [18:05:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3> COH </font> 	<font color=#87CEFA> [消遣] </font>A
+
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [20:15:00] </font> <font color=#0a9606> 吹水 </font> |  <font color=#BA55D3>聊天室ing </font> 	<font color=#87CEFA> [消遣] </font>A
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [21:17:00] </font> <font color=#0a9606> 洗澡 </font> |  <font color=#BA55D3>准备睡觉 </font> 	<font color=#87CEFA> [困] </font>A
+
 
 
 
