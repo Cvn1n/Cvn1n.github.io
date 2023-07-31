@@ -31,6 +31,11 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:01:00] </font> <font color=#0a9606> 外卖-下单 </font> |  <font color=#BA55D3> 结果下完单就六点了 豆浆-梅干菜包-温州瘦肉丸 -19.6r  </font> 	<font color=#87CEFA> [结果下完单就六点了,豆浆下单错了..无糖,等下自己加吧] </font>
 
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:08:00] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3> 困 </font> 	<font color=#87CEFA> [没设闹钟] </font>
+
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [17:05:05] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3> 到底为什么!!! </font> 	<font color=#87CEFA> [准备外出] </font>
+
 
 
 [2023/7/30] 
