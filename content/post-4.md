@@ -18,8 +18,17 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
+
+[2023/8/1] 
+- 
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:15:00] </font> <font color=#0a9606> 醒了 </font> |  <font color=#BA55D3> 这两天怎么回事.. </font> 	<font color=#87CEFA> [讲道理我应该继续睡的]  </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [03:30:00] </font> <font color=#0a9606> 起床</font> |  <font color=#BA55D3> 睡不着 </font> 	<font color=#87CEFA> [要不先点份外卖]  </font>
+
 [2023/7/31] 
 - 
+
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [00:31:00] </font> <font color=#0a9606> 申诉完成</font> |  <font color=#BA55D3> 希望明天能处理好吧 </font> 	<font color=#87CEFA> [得准备睡觉了]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:09:00] </font> <font color=#0a9606> 睡觉</font> |  <font color=#BA55D3> 不设闹钟了 </font> 	<font color=#87CEFA> [起早了没事做]  </font>
@@ -49,6 +58,7 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [21:17:00] </font> <font color=#0a9606> 洗澡 </font> |  <font color=#BA55D3>准备睡觉 </font> 	<font color=#87CEFA> [困] </font>A
 
 
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [23:40:00] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3> 无闹钟 </font> 	<font color=#87CEFA> [困] </font>A
 
 
 [2023/7/30] 
