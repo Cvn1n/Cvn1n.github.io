@@ -46,7 +46,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:20:00] </font> <font color=#0a9606>起床-杂事清理 </font> |  <font color=#BA55D3>垃圾清理,回消息</font> 	<font color=#87CEFA> [准备去图书馆]</font>
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [17:42:33] </font> <font color=#0a9606>外出 </font> |  <font color=#BA55D3>收拾完成</font> 	<font color=#87CEFA> [出发]</font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [17:42:33] </font> <font color=#0a9606>外出 </font> |  <font color=#BA55D3>收拾完成</font> 	<font color=#87CEFA> [出发]</font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:58:35] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3>听歌吹水休息</font> 	<font color=#87CEFA> [---]</font>
 
 
 
