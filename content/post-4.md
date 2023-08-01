@@ -26,6 +26,30 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [03:30:00] </font> <font color=#0a9606> 起床</font> |  <font color=#BA55D3> 睡不着 </font> 	<font color=#87CEFA> [要不先点份外卖]  </font>
 
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [03:46:00] </font> <font color=#0a9606> 外卖-下单(?)</font> |  <font color=#BA55D3>卷饼,黄瓜葱丝,碳烤肉，加多宝 </font> 	<font color=#87CEFA> [外卖超时了20多分钟]  </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [04:00:00] </font> <font color=#0a9606> Game times</font> |  <font color=#BA55D3> COH </font> 	<font color=#87CEFA> [消遣] 
+ </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:54:00] </font> <font color=#0a9606> 外卖-进食(?)</font> |  <font color=#BA55D3>卷饼,黄瓜葱丝,碳烤肉，加多宝 </font> 	<font color=#87CEFA> [外卖超时了10多分钟]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [07:00:00] </font> <font color=#0a9606>Steam申述流程 </font> |  <font color=#BA55D3>一起去网吧的也被盗了,帮忙走流程 </font> 	<font color=#87CEFA> [准备睡觉]  </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [08:00:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>到点就困 </font> 	<font color=#87CEFA> [摆烂了]</font>
+
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [12:49:00] </font> <font color=#0a9606>被闹醒 </font> |  <font color=#BA55D3>调整闹钟 再睡1h </font> 	<font color=#87CEFA> [回笼觉]</font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [13:49:00] </font> <font color=#0a9606>被闹醒 </font> |  <font color=#BA55D3>调整闹钟 再睡2h </font> 	<font color=#87CEFA> [回笼觉]</font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [15:49:00] </font> <font color=#0a9606>被闹醒 </font> |  <font color=#BA55D3>关闭闹钟</font> 	<font color=#87CEFA> [回笼觉]</font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:20:00] </font> <font color=#0a9606>起床-杂事清理 </font> |  <font color=#BA55D3>垃圾清理,回消息</font> 	<font color=#87CEFA> [准备去图书馆]</font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [17:42:33] </font> <font color=#0a9606>外出 </font> |  <font color=#BA55D3>收拾完成</font> 	<font color=#87CEFA> [出发]</font>
+
+
+
 [2023/7/31] 
 - 
 
