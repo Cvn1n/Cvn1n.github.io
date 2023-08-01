@@ -18,6 +18,10 @@ mathjax = "tex-mml"
 
 //手机端的体验?   没考虑过。
 
+[2023/8/2] 
+- 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:43:53] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3> 晚安全世界 </font> 	<font color=#87CEFA> [争取不看手机]  </font>
+
 
 [2023/8/1] 
 - 
@@ -44,9 +48,17 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:20:00] </font> <font color=#0a9606>起床-杂事清理 </font> |  <font color=#BA55D3>垃圾清理,回消息</font> 	<font color=#87CEFA> [准备去图书馆]</font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [17:42:33] </font> <font color=#0a9606>外出 </font> |  <font color=#BA55D3>收拾完成</font> 	<font color=#87CEFA> [出发]</font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [17:38:33] </font> <font color=#0a9606>外出 </font> |  <font color=#BA55D3>收拾完成</font> 	<font color=#87CEFA> [出发]</font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:58:35] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3>听歌吹水休息</font> 	<font color=#87CEFA> [---]</font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:00:00] </font> <font color=#0a9606>完成721 725 728英语作业 </font> |  <font color=#BA55D3>应该只剩下计算机专业的作业和数学没跟了</font> 	<font color=#87CEFA> [作业量-3]</font>
+
+<font color=#556B2F>Ⅶ </font> <font color=#0a9606> [19:28:35] </font> <font color=#0a9606> 完成计算机的发展史思维导图绘制上传 </font> |  <font color=#BA55D3>差点画不下</font> 	<font color=#87CEFA> [作业量-1]</font>
+
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [19:29:00] </font> <font color=#0a9606> 看书ing </font> |  <font color=#BA55D3>既然来图书馆了,总得做点什么</font> 	<font color=#87CEFA> [消遣]</font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [20:30:35] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3> COH </font> 	<font color=#87CEFA> [意外发己好像还有点天赋玩国防]</font>
 
 
 
