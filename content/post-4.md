@@ -30,7 +30,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:53:00] </font> <font color=#0a9606> 吹水ing </font> |  <font color=#BA55D3> 大部分睡觉了  </font> 	<font color=#87CEFA>[听歌]  </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:35:00] </font> <font color=#0a9606> 外出 </font> |  <font color=#BA55D3> 天亮了  </font> 	<font color=#87CEFA>[逛逛]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:35:00] </font> <font color=#0a9606> 外出 </font> |  <font color=#BA55D3> 天亮了  </font> 	<font color=#87CEFA>[早餐]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:55:00] </font> <font color=#0a9606> 进食-到家 </font> |  <font color=#BA55D3> 菜包,笋包,,牛肉包,豆浆  </font> 	<font color=#87CEFA>[-9]  </font>
 
 [2023/8/1] 
 - 
