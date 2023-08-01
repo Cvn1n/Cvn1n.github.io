@@ -22,7 +22,7 @@ mathjax = "tex-mml"
 - 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:43:53] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3> 晚安全世界 </font> 	<font color=#87CEFA> [争取不看手机]  </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [03:06:00] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3> 真好  准时准点3点醒早上8点准时准点困 下午5点再准时准点醒， 然后错过早饭中饭  晚饭随缘</font> 	<font color=#87CEFA>[好麻烦]  </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [03:06:00] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3> 准时准点3点醒早上8点准时准点困 下午5点再准时准点醒， 然后错过早饭中饭  晚饭随缘</font> 	<font color=#87CEFA>[好麻烦]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [03:07:00] </font> <font color=#0a9606> 吹水ing </font> |  <font color=#BA55D3> 聊天室</font> 	<font color=#87CEFA>[现在格外亢奋]  </font>
 
@@ -30,6 +30,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:53:00] </font> <font color=#0a9606> 吹水ing </font> |  <font color=#BA55D3> 大部分睡觉了  </font> 	<font color=#87CEFA>[听歌]  </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:35:00] </font> <font color=#0a9606> 外出 </font> |  <font color=#BA55D3> 天亮了  </font> 	<font color=#87CEFA>[逛逛]  </font>
 
 [2023/8/1] 
 - 
