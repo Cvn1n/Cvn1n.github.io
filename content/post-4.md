@@ -42,6 +42,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:24:00] </font> <font color=#0a9606> 休息 </font> |  <font color=#BA55D3>我的大拇指很碍事</font> 	<font color=#87CEFA>[然后困了]  </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:45:24] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3>定时1hour</font> 	<font color=#87CEFA>[不顾那咋样等会也得起来]  </font>
+
+
 [2023/8/1] 
 - 
 
