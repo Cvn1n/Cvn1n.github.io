@@ -16,7 +16,7 @@ mathjax = "tex-mml"
 
 //2023-07-04开始
 
-//手机端的体验?   没考虑过。
+//手机端体验?   没考虑过。
 
 [2023/8/2] 
 - 
@@ -33,6 +33,10 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:35:00] </font> <font color=#0a9606> 外出 </font> |  <font color=#BA55D3> 天亮了  </font> 	<font color=#87CEFA>[早餐]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:55:00] </font> <font color=#0a9606> 进食-到家 </font> |  <font color=#BA55D3> 菜包,笋包,,牛肉包,豆浆  </font> 	<font color=#87CEFA>[-9]  </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [06:40:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3> COH  </font> 	<font color=#87CEFA>[新rank:218]  </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [09:19:00] </font> <font color=#0a9606> End times </font> |  <font color=#BA55D3>吹水,休息,听歌 </font> 	<font color=#87CEFA>[今日不宜COH Rank:258]  </font>
 
 [2023/8/1] 
 - 
