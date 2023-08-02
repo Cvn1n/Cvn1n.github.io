@@ -38,13 +38,32 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [09:19:00] </font> <font color=#0a9606> End times </font> |  <font color=#BA55D3>吹水,休息,听歌 </font> 	<font color=#87CEFA>[今日不宜COH Rank:258]  </font>
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [09:23:00] </font> <font color=#0a9606> 哨笛练习 </font> |  <font color=#BA55D3>友谊天长地久</font> 	<font color=#87CEFA>[消遣]  </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [09:23:00] </font> <font color=#0a9606> 哨笛练习 </font> |  <font color=#BA55D3>友谊地久天长</font> 	<font color=#87CEFA>[消遣]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:24:00] </font> <font color=#0a9606> 休息 </font> |  <font color=#BA55D3>我的大拇指很碍事</font> 	<font color=#87CEFA>[然后困了]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:45:24] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3>定时1hour</font> 	<font color=#87CEFA>[不顾那咋样等会也得起来]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:04:24] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3>果然   五点</font> 	<font color=#87CEFA>[生物钟]  </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:10:24] </font> <font color=#0a9606> 哨笛练习 </font> |  <font color=#BA55D3>友谊地久天长</font> 	<font color=#87CEFA>[肺活量不够]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:40:24] </font> <font color=#0a9606>Game tiems </font> |  <font color=#BA55D3> CSGO </font> 	<font color=#87CEFA>[Rush]  </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [18:54:00] </font> <font color=#0a9606>晚餐时间 </font> |  <font color=#BA55D3> 米 肉 </font> 	<font color=#87CEFA>[极简主义]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:07:14] </font> <font color=#0a9606>换纱窗 </font> |  <font color=#BA55D3>  唔——拧螺丝,贴魔术贴,粘纱窗  </font> 	<font color=#87CEFA>[家里人跑出去了]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:44:02] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3> ASTRONEER </font> 	<font color=#87CEFA>[跑图 找奇石 激活  还有好久通关]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:00:00] </font> <font color=#0a9606> 坏消息 </font> |  <font color=#BA55D3> ASTRONEER卡bug了,现在被迫回档，等于今天一天白干 </font> 	<font color=#87CEFA>[换游戏唔..]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:03:00] </font> <font color=#0a9606> steam账户秘钥更改流程 </font> |  <font color=#BA55D3> 张忘记了账号密码,又卡在了人机验证</font> 	<font color=#87CEFA>[好麻烦...]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:48:09] </font> <font color=#0a9606> 家庭共享流程 </font> |  <font color=#BA55D3> 得给他整个共享 </font> 	<font color=#87CEFA>[麻烦事情]  </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [22:42:25] </font> <font color=#0a9606> End times </font> |  <font color=#BA55D3> 吹水休息听歌</font> 	<font color=#87CEFA>[准备睡觉]  </font>
+
 
 
 [2023/8/1] 
