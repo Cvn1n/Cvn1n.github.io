@@ -18,8 +18,17 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+[2023/8/3] 
+- 
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [01:21:00] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3>晚安 </font> 	<font color=#87CEFA> [睡了4个hour左右]  </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [05:23:25] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3>有进步了,但是还是睡眠不足.. 但是应该足够我倒中午 </font> 	<font color=#87CEFA> [睡了4个hour左右]  </font>
+
+
 [2023/8/2] 
 - 
+
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:43:53] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3> 晚安全世界 </font> 	<font color=#87CEFA> [争取不看手机]  </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [03:06:00] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3> 准时准点3点醒早上8点准时准点困 下午5点再准时准点醒， 然后错过早饭中饭  晚饭随缘</font> 	<font color=#87CEFA>[好麻烦]  </font>
@@ -63,6 +72,8 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:48:09] </font> <font color=#0a9606> 家庭共享流程 </font> |  <font color=#BA55D3> 得给他整个共享 </font> 	<font color=#87CEFA>[麻烦事情]  </font>
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [22:42:25] </font> <font color=#0a9606> End times </font> |  <font color=#BA55D3> 吹水休息听歌</font> 	<font color=#87CEFA>[准备睡觉]  </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [23:45:25] </font> <font color=#0a9606> 合作预定排练草案 </font> |  <font color=#BA55D3> 明天中午11点预定了一场22 COH,和队友提前做好作战计划</font> 	<font color=#87CEFA>[有点悬]  </font>
 
 
 
