@@ -25,6 +25,12 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [05:23:25] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3>有进步了,但是还是睡眠不足.. 但是应该足够我倒中午 </font> 	<font color=#87CEFA> [睡了4个hour左右]  </font>
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [05:24:00] </font> <font color=#0a9606> 杂事处理 </font> |  <font color=#BA55D3>眼药水,垃圾清理,回消息.清理桌面</font> 	<font color=#87CEFA> [睡了4个hour左右]  </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [05:30:00] </font> <font color=#0a9606> 新闻-三立LIVE新聞-台湾台 </font> |  <font color=#BA55D3>B站也短视频化了 </font> 	<font color=#87CEFA> [烂风气]  </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [05:55:20] </font> <font color=#0a9606> 外出-早餐 </font> |  <font color=#BA55D3>饿了,准备出去买早餐 </font> 	<font color=#87CEFA> [出发]  </font>
+
 
 [2023/8/2] 
 - 
