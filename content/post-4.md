@@ -74,8 +74,6 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:37:38] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3>好累  休息 吹水好吧 </font> 	<font color=#87CEFA> [无所事事了]   </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:37:38] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3>好累  休息 吹水好吧 </font> 	<font color=#87CEFA> [无所事事了]   </font>
-
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:38:01] </font> <font color=#0a9606> 远程施救 </font> |  <font color=#BA55D3> 有人要买网卡问推荐,但现在不知道主板型号 </font> 	<font color=#87CEFA> [指导下载图吧工具箱ing]   </font>
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:39:58] </font> <font color=#0a9606> 领游戏ing </font> |  <font color=#BA55D3> 来自好友的消息"帝国时代三重制版免费了" </font> 	<font color=#87CEFA> [入库ing&PUBG下载ing]   </font>
