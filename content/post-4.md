@@ -31,6 +31,67 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [05:55:20] </font> <font color=#0a9606> 外出-早餐 </font> |  <font color=#BA55D3>饿了,准备出去买早餐 </font> 	<font color=#87CEFA> [出发]  </font>
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [06:08:10] </font> <font color=#0a9606> 早餐-付款 </font> |  <font color=#BA55D3>豆腐包x1,菜包x1,牛肉包x1,豆浆 </font> 	<font color=#87CEFA> [-9r]  </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:18:00] </font> <font color=#0a9606> 看新闻&吃早饭 </font> |  <font color=#BA55D3>差点吃不完,下次两包子够了</font> 	<font color=#87CEFA> [饱食度+10]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [06:31:50] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>COH 22排练</font> 	<font color=#87CEFA> [看起来没希望了...当练习吧]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [07:46:23] </font> <font color=#0a9606> 早饭时间 </font> |  <font color=#BA55D3>家里喊吃早饭了... 我以为不会烧留着当中饭吧</font> 	<font color=#87CEFA> [获得:蒸饺子一锅]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:25:11] </font> <font color=#0a9606> 准备午睡 </font> |  <font color=#BA55D3>躺下了 但是在刷手机</font> 	<font color=#87CEFA> [睡眠时间 -(?)]   </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [10:00:00] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3>累了</font> 	<font color=#87CEFA> [睡眠时间 (?)]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [11:00:00] </font> <font color=#0a9606> 闹钟 </font> |  <font color=#BA55D3>好困...  但是约了局..  推20分钟吧</font> 	<font color=#87CEFA> [困成狗了]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [11:19:00] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3>唔  组织一下人</font> 	<font color=#87CEFA> [COH 2v2友情赛]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [11:34:45] </font> <font color=#0a9606> 远程救援 </font> |  <font color=#BA55D3>怎么会有人,跟着提示走个流程都不会的啊..</font> 	<font color=#87CEFA> [无法理解!!!]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [11:48:44] </font> <font color=#0a9606> 开始 </font> |  <font color=#BA55D3>从排练看起来 就不是能打的样子( </font> 	<font color=#87CEFA> [当练习了]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [12:53:19] </font> <font color=#0a9606> 录像分析 </font> |  <font color=#BA55D3>刚刚打完,给队友讲讲录像吧 </font> 	<font color=#87CEFA> [当练习]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [13:28:17] </font> <font color=#0a9606> 中饭</font> |  <font color=#BA55D3>早饭的饺子,uh—— 加点水 热一下  然后  自己直接可以吃了吧 </font> 	<font color=#87CEFA> [唔 还行 难得吃中饭]   </font>
+
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [13:48:04] </font> <font color=#0a9606> COH 1v1</font> |  <font color=#BA55D3>唔 很长时间没和张打过了 </font> 	<font color=#87CEFA> [Game times]   </font>
+
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [14:30:09] </font> <font color=#0a9606> 去医院 </font> |  <font color=#BA55D3>结束对局!  要去洗牙 </font> 	<font color=#87CEFA> [出发]   </font>
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [14:30:09] </font> <font color=#0a9606> 去医院 </font> |  <font color=#BA55D3>结束对局!  要去洗牙 </font> 	<font color=#87CEFA> [出发]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [14:37:17] </font> <font color=#0a9606> 电瓶车上 </font> |  <font color=#BA55D3>下雨了  大雨,湿了</font> 	<font color=#87CEFA> [好天气]   </font>
+
+<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [15:20:52] </font> <font color=#0a9606> 洗牙ing </font> |  <font color=#BA55D3>一嘴血..吐出来和黑的一样,疼..</font> 	<font color=#87CEFA> [烂牙,快结束了]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [15:31:52] </font> <font color=#0a9606> 洗牙结束 </font> |  <font color=#BA55D3>结石干净了,但是牙龈周围一圈全都在出血( </font> 	<font color=#87CEFA> [一嘴血腥味好奇怪]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:33:08] </font> <font color=#0a9606> 电瓶车上 </font> |  <font color=#BA55D3>回家ing,回消息 </font> 	<font color=#87CEFA> [没雨了]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:37:38] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3>好累  休息 吹水好吧 </font> 	<font color=#87CEFA> [无所事事了]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:37:38] </font> <font color=#0a9606> 到家 </font> |  <font color=#BA55D3>好累  休息 吹水好吧 </font> 	<font color=#87CEFA> [无所事事了]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:38:01] </font> <font color=#0a9606> 远程施救 </font> |  <font color=#BA55D3> 有人要买网卡问推荐,但现在不知道主板型号 </font> 	<font color=#87CEFA> [指导下载图吧工具箱ing]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:39:58] </font> <font color=#0a9606> 领游戏ing </font> |  <font color=#BA55D3> 来自好友的消息"帝国时代三重制版免费了" </font> 	<font color=#87CEFA> [入库ing&PUBG下载ing]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [16:17:18] </font> <font color=#0a9606> 远程施救ing </font> |  <font color=#BA55D3> 网卡挑选ing </font> 	<font color=#87CEFA> [说实话..具体差别  一般人用不出来吧]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [16:17:18] </font> <font color=#0a9606> 远程施救ing-2 </font> |  <font color=#BA55D3> 网卡挑选ing </font> 	<font color=#87CEFA> [说实话..具体差别  一般人用不出来吧]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [17:10:40] </font> <font color=#0a9606>杂事清理 </font> |  <font color=#BA55D3> 回消息 听歌 吹水 补日志 房间清理 </font> 	<font color=#87CEFA> [琐事]   </font>
+
+
+
+
+
+
+
 
 [2023/8/2] 
 - 
