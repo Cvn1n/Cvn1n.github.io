@@ -18,6 +18,11 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+[2023/8/4] 
+- 
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [2:00:00] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>讲道理应该睡觉了</font> 	<font color=#87CEFA> [消吹水听歌休息]   </font>
+
 [2023/8/3] 
 - 
 
@@ -83,6 +88,17 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [16:17:18] </font> <font color=#0a9606> 远程施救ing-2 </font> |  <font color=#BA55D3> 网卡挑选ing </font> 	<font color=#87CEFA> [说实话..具体差别  一般人用不出来吧]   </font>
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [17:10:40] </font> <font color=#0a9606>杂事清理 </font> |  <font color=#BA55D3> 回消息 听歌 吹水 补日志 房间清理 </font> 	<font color=#87CEFA> [琐事]   </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [17:20:40] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>就睡一会(确信)</font> 	<font color=#87CEFA> [好困]   </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [22:10:40] </font> <font color=#0a9606>起床 </font> |  <font color=#BA55D3>早安——诶? 没有早上吗</font> 	<font color=#87CEFA> [还以为早上6点了]   </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [22:20:40] </font> <font color=#0a9606>起床 </font> |  <font color=#BA55D3>早安——诶? 没有早上吗</font> 	<font color=#87CEFA> [还以为早上6点了]   </font>
+
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [22:20:40] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>消遣时间</font> 	<font color=#87CEFA> [现在好精神]   </font>
+
+
 
 
 
