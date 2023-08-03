@@ -21,7 +21,25 @@ mathjax = "tex-mml"
 [2023/8/4] 
 - 
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [2:00:00] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>讲道理应该睡觉了</font> 	<font color=#87CEFA> [消吹水听歌休息]   </font>
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:00:00] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>讲道理应该睡觉了</font> 	<font color=#87CEFA> [消吹水听歌休息]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:02:00] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>  好多人 </font> 	<font color=#87CEFA> [等会就睡觉]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:40:00] </font> <font color=#0a9606>搬被子 </font> |  <font color=#BA55D3>想睡电脑桌前</font> 	<font color=#87CEFA> [因为床上没有计算机唔]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [03:00:00] </font> <font color=#0a9606>电脑桌前 </font> |  <font color=#BA55D3>睡不着..  吹水,看视频</font> 	<font color=#87CEFA> [有点饿]   </font>
+
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> 0[4:00:00] </font> <font color=#0a9606>吹水&看视频 </font> |  <font color=#BA55D3>好饿!!!!!</font> 	<font color=#87CEFA> [还有一个小时]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [04:30:00] </font> <font color=#0a9606>吹水&看视频 </font> |  <font color=#BA55D3>肠道是空虚的</font> 	<font color=#87CEFA> [30min倒计时]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [05:00:00] </font> <font color=#0a9606>外出-早餐 </font> |  <font color=#BA55D3> 包子——世界上最伟大的发明  廉价 营养 管饱 还方便吃</font> 	<font color=#87CEFA> [开饭开饭!]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [05:10:00] </font> <font color=#0a9606>早餐-付款 </font> |  <font color=#BA55D3> 豆腐包x1 粉丝包x1 牛肉包x1 豆浆x1</font> 	<font color=#87CEFA> [-9.5r]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [05:21:00] </font> <font color=#0a9606>到家-进食&视频 </font> |  <font color=#BA55D3>《三国演义》</font> 	<font color=#87CEFA> [唔——饱了就会困]   </font>
+
 
 [2023/8/3] 
 - 
