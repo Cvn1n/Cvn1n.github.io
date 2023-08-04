@@ -1,7 +1,7 @@
 +++
-title = "[2023-07-04]-[2023-08-04]日志 "
+title = "[2023-07-05]-[2023-08-04]日志 "
 template = "page.html"
-date = 2023-08-04T09:00:00Z
+date = 2023-08-05T09:00:00Z
 [taxonomies]
 tags = ["日志"]
 [extra]
@@ -17,6 +17,10 @@ mathjax = "tex-mml"
 //2023-07-04开始
 
 //手机端体验?   没考虑过。
+
+[2023/8/5] 
+- 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:36:00] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>依然在吹水&补日志</font> 	<font color=#87CEFA> [刚刚看见时间!!!]   </font>
 
 [2023/8/4] 
 - 
@@ -55,8 +59,35 @@ mathjax = "tex-mml"
 </font>
 
 
-<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [15:15:00] </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>好无聊</font> 	<font color=#87CEFA> [完全不知道做什么] 
-</font>
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [15:15:00] </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>好无聊</font> 	<font color=#87CEFA> [完全不知道做什么] </font>
+
+------
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:40:00] </font> <font color=#0a9606>小睡一会 </font> |  <font color=#BA55D3>23min闹钟</font> 	<font color=#87CEFA> [等下约了游戏] </font>
+
+<font color=#556B2F> Ⅲ </font> <font color=#0a9606> [17:03:00] </font> <font color=#0a9606>醒了 </font> |  <font color=#BA55D3>23min闹钟</font> 	<font color=#87CEFA> [等下约了游戏] </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [17:11:35] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3> 异星旅人 </font> 	<font color=#87CEFA> [解锁地心ing,早日通关] </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [18:17:59] </font> <font color=#0a9606>晚饭ing </font> |  <font color=#BA55D3> 米 肉 土豆 </font> 	<font color=#87CEFA> [吃完写作业] </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [19:10:00] </font> <font color=#0a9606>图书馆</font> |  <font color=#BA55D3>看起来  有思维导图要做 </font> 	<font color=#87CEFA> [8点30就要关了..  好像不是很来得及] </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [20:22:00] </font> <font color=#0a9606>收拾</font> |  <font color=#BA55D3>响起来了  清馆音乐 </font> 	<font color=#87CEFA> [作业量-2 明天再1个hour应该能解决了吧] </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [20:35:00] </font> <font color=#0a9606>拿快递</font> |  <font color=#BA55D3>唔——6个包裹拿不下</font> 	<font color=#87CEFA> [先放车库吧] </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [20:45:00] </font> <font color=#0a9606>出车库</font> |  <font color=#BA55D3>快递里有给别人的电源和硬盘 刚好去一趟他家 顺带拿一下借出去的显示器之类的东西</font> 	<font color=#87CEFA> [有点重...] </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [09:15:30] </font> <font color=#0a9606>到达目的地</font> |  <font color=#BA55D3>运动量满了</font> 	<font color=#87CEFA> [1.5公里往上了吧] </font>
+
+<font color=#556B2F> Ⅱ </font> <font color=#0a9606> [09:20:46] </font> <font color=#0a9606>回家</font> |  <font color=#BA55D3>要拿的东西还变多了唔</font> 	<font color=#87CEFA> [重...] </font>
+
+<font color=#556B2F> Ⅱ </font> <font color=#0a9606> [10:54:00] </font> <font color=#0a9606>到家</font> |  <font color=#BA55D3>零食&吹水&指导硬盘分区ing(微PE,分区助手)&指导家庭组共享&指导翻墙</font> 	<font color=#87CEFA> [常有的事情] </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [11:59:00] </font> <font color=#0a9606>依然持续吹水ing</font> |  <font color=#BA55D3>吹水</font> 	<font color=#87CEFA> [此时还完全没有注意时间] </font>
+
 
 
 [2023/8/3] 
