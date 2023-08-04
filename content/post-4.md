@@ -51,7 +51,11 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [14:27:00] </font> <font color=#0a9606>起床 </font> |  <font color=#BA55D3>中饭没吃</font> 	<font color=#87CEFA> [------] 
 </font>
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [15:15:00] </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>好无聊</font> 	<font color=#87CEFA> [完全不知道做什么] 
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [14:50:00] </font> <font color=#0a9606>中饭 </font> |  <font color=#BA55D3>饺子x2  不明糕状食物x2(100g?) </font> 	<font color=#87CEFA> [------] 
+</font>
+
+
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [15:15:00] </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>好无聊</font> 	<font color=#87CEFA> [完全不知道做什么] 
 </font>
 
 
