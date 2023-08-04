@@ -40,6 +40,17 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [05:21:00] </font> <font color=#0a9606>到家-进食&视频 </font> |  <font color=#BA55D3>《三国演义》</font> 	<font color=#87CEFA> [唔——饱了就会困]   </font>
 
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [07:03:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>晚安</font> 	<font color=#87CEFA> [------]</font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [12:20:00] </font> <font color=#0a9606>醒了 </font> |  <font color=#BA55D3>困</font> 	<font color=#87CEFA> [------] 
+</font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [12:21:00] </font> <font color=#0a9606>看手机 </font> |  <font color=#BA55D3>视频&消息</font> 	<font color=#87CEFA> [------] 
+</font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [14:27:00] </font> <font color=#0a9606>起床 </font> |  <font color=#BA55D3>中饭没吃</font> 	<font color=#87CEFA> [------] 
+</font>
+
 
 [2023/8/3] 
 - 
