@@ -38,8 +38,21 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [13:30:00] </font> <font color=#0a9606>哨笛练习 </font> |  <font color=#BA55D3>友谊地久天长</font> 	<font color=#87CEFA> [怎么换气...]   </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [13:58:17] </font> <font color=#0a9606>写作业 </font> |  <font color=#BA55D3>啊 可以喝了</font> 	<font color=#87CEFA> [空调ing]   </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [13:58:17] </font> <font color=#0a9606> 准备写作业 </font> |  <font color=#BA55D3>啊 可以喝了</font> 	<font color=#87CEFA> [空调ing]   </font>
 
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [13:58:17] </font> <font color=#0a9606>看视频 </font> |  <font color=#BA55D3>记得因为要拿笔所以趴床上了,顺带又看了下手机</font> 	<font color=#87CEFA> [某人已经完全忘记掉了什么事情]   </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [14:05:00] </font> <font color=#0a9606>装显示器(借出去快一个月了) </font> |  <font color=#BA55D3>记得因为要拿笔所以趴床上了,顺带又看了下手机</font> 	<font color=#87CEFA> [某人已经完全忘记掉了什么事情]   </font>
+
+<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [14:15:00] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>彻底失忆了</font> 	<font color=#87CEFA> [无所谓了,毕竟一个小时能解决的东西]   </font>
+
+<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [16:05:00] </font> <font color=#0a9606>花园-小号创建 </font> |  <font color=#BA55D3>总得有个账号可以出去玩</font> 	<font color=#87CEFA> [唔——可以绑谷歌邮箱注册]   </font>
+
+<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [16:10:00] </font> <font color=#0a9606>吹水&资料完善 </font> |  <font color=#BA55D3>好麻烦</font> 	<font color=#87CEFA> [ctrl+c  ctrl+v]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [16:23:00] </font> <font color=#0a9606>垃圾站修整 </font> |  <font color=#BA55D3>删删改改了些东西</font> 	<font color=#87CEFA> [小修整,顺带补日志]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:09:00] </font> <font color=#0a9606>准备写作业 </font> |  <font color=#BA55D3> 想起来了 </font> 	<font color=#87CEFA> [开动开动]   </font>
 
 [2023/8/4] 
 - 
