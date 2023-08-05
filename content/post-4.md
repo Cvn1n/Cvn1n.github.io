@@ -32,6 +32,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [11:30:00] </font> <font color=#0a9606>吹水时间 </font> |  <font color=#BA55D3>等下要写作业...</font> 	<font color=#87CEFA> [想要喝的]   </font>
 
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [13:03:00] </font> <font color=#0a9606>仍然在吹水&听歌 </font> |  <font color=#BA55D3>记得要写作业来着</font> 	<font color=#87CEFA> [再晚点..]   </font>
+
+
 
 [2023/8/4] 
 - 
@@ -95,7 +98,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅱ </font> <font color=#0a9606> [09:20:46] </font> <font color=#0a9606>回家</font> |  <font color=#BA55D3>要拿的东西还变多了唔</font> 	<font color=#87CEFA> [重...] </font>
 
-<font color=#556B2F> Ⅱ </font> <font color=#0a9606> [10:54:00] </font> <font color=#0a9606>到家</font> |  <font color=#BA55D3>零食&吹水&指导硬盘分区ing(微PE,分区助手)&指导家庭组共享&指导翻墙</font> 	<font color=#87CEFA> [常有的事情] </font>
+<font color=#556B2F> Ⅱ </font> <font color=#0a9606> [10:54:00] </font> <font color=#0a9606>到家</font> |  <font color=#BA55D3>零食&吹水&指导硬盘分区ing(微PE,分区助手)&指导家庭组共享&指导Clash使用</font> 	<font color=#87CEFA> [常有的事情] </font>
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [11:59:00] </font> <font color=#0a9606>依然持续吹水ing</font> |  <font color=#BA55D3>吹水</font> 	<font color=#87CEFA> [此时还完全没有注意时间] </font>
 
