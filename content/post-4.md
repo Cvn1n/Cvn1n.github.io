@@ -62,6 +62,15 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [17:56:20] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>但是  困了，醒了再写 </font> 	<font color=#87CEFA> [定时30min]   </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:00:00] </font> <font color=#0a9606>起床 </font> |  <font color=#BA55D3>......</font> 	<font color=#87CEFA> [好,没事  现在写]   </font>
+
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [21:00:55] </font> <font color=#0a9606>援助 </font> |  <font color=#BA55D3>大概是网卡不会用,steam微信支付受限,还有些不敢删的文件 </font> 	<font color=#87CEFA> [作业失忆]   </font>
+
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [21:30:15] </font> <font color=#0a9606>准备吃的 </font> |  <font color=#BA55D3>大概是新买的网卡不会用,steam微信支付受限,还有不知道怎么清理桌面之类的问题 </font> 	<font color=#87CEFA> [作业失忆]   </font>
+
+
 
 [2023/8/4] 
 - 
