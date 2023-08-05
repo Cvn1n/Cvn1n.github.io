@@ -18,8 +18,22 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+[2023/8/6] 
+- 
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [00:23:00] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>作业完成了</font> 	<font color=#87CEFA> [听歌&吹水&摸鱼]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [01:04:55] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>英雄连</font> 	<font color=#87CEFA> [22-H----]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [03:14:49] </font> <font color=#0a9606>外卖-下单 </font> |  <font color=#BA55D3>炭烤鸡整只 炼乳馒头4个 蘸料 加多宝 雪碧</font> 	<font color=#87CEFA> [H--- 请了一顿 35r]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [06:23:56] </font> <font color=#0a9606>外出 </font> |  <font color=#BA55D3>家里人要去抬一台机器  被喊过去充人手了</font> 	<font color=#87CEFA> [应该马上回来]   </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [07:10:00] </font> <font color=#0a9606>到家-琐事除杂 </font> |  <font color=#BA55D3>休息,听歌，吹水，清垃圾，整理</font> 	<font color=#87CEFA> [准备睡觉了]   </font>
+
 [2023/8/5] 
 - 
+
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:36:00] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>依然在吹水&补日志</font> 	<font color=#87CEFA> [刚刚看见时间!!!]   </font>
 
 <font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:36:00] </font> <font color=#0a9606>泡泡面ing </font> |  <font color=#BA55D3>袋装  好麻烦</font> 	<font color=#87CEFA> [果然便宜和速食不能兼容吗]   </font>
