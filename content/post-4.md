@@ -34,6 +34,11 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [13:03:00] </font> <font color=#0a9606>仍然在吹水&听歌 </font> |  <font color=#BA55D3>记得要写作业来着</font> 	<font color=#87CEFA> [再晚点..]   </font>
 
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [13:10:00] </font> <font color=#0a9606>冲剂奶茶-烧水 </font> |  <font color=#BA55D3>香约 烫</font> 	<font color=#87CEFA> [困]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [13:30:00] </font> <font color=#0a9606>哨笛练习 </font> |  <font color=#BA55D3>友谊地久天长</font> 	<font color=#87CEFA> [怎么换气...]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [13:58:17] </font> <font color=#0a9606>写作业 </font> |  <font color=#BA55D3>啊 可以喝了</font> 	<font color=#87CEFA> [空调ing]   </font>
 
 
 [2023/8/4] 
