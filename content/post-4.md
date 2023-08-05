@@ -68,8 +68,11 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [21:00:55] </font> <font color=#0a9606>援助 </font> |  <font color=#BA55D3>大概是网卡不会用,steam微信支付受限,还有些不敢删的文件 </font> 	<font color=#87CEFA> [作业失忆]   </font>
 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [21:30:15] </font> <font color=#0a9606>准备吃的 </font> |  <font color=#BA55D3>大概是新买的网卡不会用,steam微信支付受限,还有不知道怎么清理桌面之类的问题 </font> 	<font color=#87CEFA> [作业失忆]   </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [21:30:15] </font> <font color=#0a9606>准备吃的 </font> |  <font color=#BA55D3>泡面+香肠 </font> 	<font color=#87CEFA> [-5.5r]   </font>
 
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [22:26:00] </font> <font color=#0a9606>作业ing </font> |  <font color=#BA55D3>计算机知识-1.1.4计算机的应用和分类思维导图绘制 </font> 	<font color=#87CEFA> [开动了..]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [23:33:00] </font> <font color=#0a9606>休息 </font> |  <font color=#BA55D3>听歌吹水</font> 	<font color=#87CEFA> [开动了..]   </font>
 
 
 [2023/8/4] 
