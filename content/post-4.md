@@ -52,7 +52,16 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [16:23:00] </font> <font color=#0a9606>垃圾站修整 </font> |  <font color=#BA55D3>删删改改了些东西</font> 	<font color=#87CEFA> [小修整,顺带补日志]   </font>
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:09:00] </font> <font color=#0a9606>准备写作业 </font> |  <font color=#BA55D3> 想起来了 </font> 	<font color=#87CEFA> [开动开动]   </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:09:00] </font> <font color=#0a9606>准备写作业 </font> |  <font color=#BA55D3> 想起来了 </font> 	<font color=#87CEFA> [开动开动]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:10:00] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>沉浸式体验 </font> 	<font color=#87CEFA> [有人又忘记了什么]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:20:00] </font> <font color=#0a9606>按键精灵使用ing </font> |  <font color=#BA55D3>得做个脚本把大号的表情包全部转移到小号去 </font> 	<font color=#87CEFA> [拒绝手动]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [17:45:00] </font> <font color=#0a9606>完成 </font> |  <font color=#BA55D3>是不是要写作业来着.. </font> 	<font color=#87CEFA> [想起来了]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [17:56:20] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>但是  困了，醒了再写 </font> 	<font color=#87CEFA> [定时30min]   </font>
+
 
 [2023/8/4] 
 - 
