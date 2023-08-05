@@ -22,6 +22,17 @@ mathjax = "tex-mml"
 - 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:36:00] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>依然在吹水&补日志</font> 	<font color=#87CEFA> [刚刚看见时间!!!]   </font>
 
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:36:00] </font> <font color=#0a9606>泡泡面ing </font> |  <font color=#BA55D3>袋装  好麻烦</font> 	<font color=#87CEFA> [果然便宜和速食不能兼容吗]   </font>
+
+<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [03:20:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>晚安全世界</font> 	<font color=#87CEFA> [空调定时0.5hour]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [11:20:00] </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>中午好</font> 	<font color=#87CEFA> [早饭没得吃了]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [11:25:00] </font> <font color=#0a9606>午饭 </font> |  <font color=#BA55D3>白切鸡,蒸饺,酱油醋</font> 	<font color=#87CEFA> [唔——简单吃了几块,但毕竟是冷的]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [11:30:00] </font> <font color=#0a9606>吹水时间 </font> |  <font color=#BA55D3>等下要写作业...</font> 	<font color=#87CEFA> [想要喝的]   </font>
+
+
 [2023/8/4] 
 - 
 
