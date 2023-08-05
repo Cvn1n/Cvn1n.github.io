@@ -16,7 +16,7 @@ mathjax = "tex-mml"
 
 本来在看花园
 
-[![pCoHfHg.png](https://s1.ax1x.com/2023/07/18/pCoHfHg.png)](https://imgse.com/i/pCoHfHg)
+![image.png](https://s2.loli.net/2023/08/05/AiVFBKCdgUtDuxw.png)
 
 
 如你所见  被电线杆偷袭了
