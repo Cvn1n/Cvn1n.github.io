@@ -18,6 +18,13 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+[2023/8/7] 
+- 
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:08:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>PUBG ing</font> 	<font color=#87CEFA> [丢包严重]   </font
+
+<font color=red> Ⅰ  [01:43:00]  我那份电源好像炸了,现在似乎主板不亮,爆火花了。  得过去看看主板生死了  不知道这卖家那边要怎么处理 </font>
+
 [2023/8/6] 
 - 
 
@@ -29,7 +36,18 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [06:23:56] </font> <font color=#0a9606>外出 </font> |  <font color=#BA55D3>家里人要去抬一台机器  被喊过去充人手了</font> 	<font color=#87CEFA> [应该马上回来]   </font>
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [07:10:00] </font> <font color=#0a9606>到家-琐事除杂 </font> |  <font color=#BA55D3>休息,听歌，吹水，清垃圾，整理</font> 	<font color=#87CEFA> [准备睡觉了]   </font>
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [07:10:00] </font> <font color=#0a9606>到家-琐事除杂 </font> |  <font color=#BA55D3>休息,听歌，吹水，清垃圾，整理</font> 	<font color=#87CEFA> [准备睡觉]   </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [17:30:00] </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>睡了好久</font> 	<font color=#87CEFA> [准备晚饭]   </font>
+
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:30:00] </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>睡了好久</font> 	<font color=#87CEFA> [准备晚饭]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:14:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>ASTRONEER</font> 	<font color=#87CEFA> [三人连线ing]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [23:22:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [2v2人机带新手ing] </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [23:22:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [2v2人机带新手ing] </font>
 
 [2023/8/5] 
 - 
