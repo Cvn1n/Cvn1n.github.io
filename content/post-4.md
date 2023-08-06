@@ -23,7 +23,26 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:08:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>PUBG ing</font> 	<font color=#87CEFA> [丢包严重]   </font
 
-<font color=red> Ⅰ  [01:43:00]  我那份电源好像炸了,现在似乎主板不亮,爆火花了。  得过去看看主板生死了  不知道这卖家那边要怎么处理 </font>
+<font color=red> Ⅰ  [01:43:00]  帮人买的电源炸了 说是先报火花然后黑机 及时断电 有焦味。  现在点不亮。   至少要先过去下看看主板生死    还好还没确认收货  （这才到手没两天）
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [01:56:41] </font> <font color=#0a9606>收拾东西 </font> |  <font color=#BA55D3>要带个电源过去，螺丝刀，板U手里没有..内存和显卡应该不容易波及。</font> 	<font color=#87CEFA> [希望只是电源寄了吧]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:30:00] </font> <font color=#0a9606>到对面家了 </font> |  <font color=#BA55D3>唔——卧室还有焦味。光闻到就可以确定电源寄了</font> 	<font color=#87CEFA> [测试ing]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:35:00] </font> <font color=#0a9606>测试ing </font> |  <font color=#BA55D3>确实主板没反应 换电源 </font> 	<font color=#87CEFA> [测试ing]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [03:01:26] </font> <font color=#0a9606>外卖-下单 </font> |  <font color=#BA55D3>可乐薯条汉堡炸鸡 </font> 	<font color=#87CEFA> [可乐薯条汉堡炸鸡]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [03:02:26] </font> <font color=#0a9606>亮机 </font> |  <font color=#BA55D3>点亮了  看起来是小事情了  得找商家退款+差评  当时居然没注意那些评论,不然应该不会下单了 </font> 	<font color=#87CEFA> [顺带要帮忙调一下小超频]   </font>
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [03:51:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>拳皇97  找资源ing </font> 	<font color=#87CEFA> [后来玩到了天亮]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:20:00] </font> <font color=#0a9606>回家 </font> |  <font color=#BA55D3>被送了一程 </font> 	<font color=#87CEFA> [十来分钟就到家了]   </font>
+
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [06:45:00] </font> <font color=#0a9606>琐事除杂 </font> |  <font color=#BA55D3>垃圾清理&回消息&补日志%整理 </font> 	<font color=#87CEFA> [日常]   </font>
+
+
 
 [2023/8/6] 
 - 
