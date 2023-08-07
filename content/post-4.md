@@ -20,7 +20,9 @@ mathjax = "tex-mml"
 
 [2023/8/8] 
 - 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:42:05] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [启动]   </font
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:42:05] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [启动]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:42:46] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有2个小时27分钟]   </font>
 
 
 [2023/8/7] 
