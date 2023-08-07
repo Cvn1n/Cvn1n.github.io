@@ -70,6 +70,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:09:00] </font> <font color=#0a9606>吹水时间 </font> |  <font color=#BA55D3>聊天室ing</font> 	<font color=#87CEFA> [有点饿来着]   </font>
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [22:24:00] </font> <font color=#0a9606>换网线 </font> |  <font color=#BA55D3>网卡PUBG丢包能到6%,还有雷神减速器</font> 	<font color=#87CEFA> [网线应该抖动没那么大]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [22:31:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>PUBG ing</font> 	<font color=#87CEFA> [娱乐]   </font>
 
 
 
