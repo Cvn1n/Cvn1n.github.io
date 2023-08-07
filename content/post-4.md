@@ -24,7 +24,13 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:42:46] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有2个小时27分钟]   </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [03:16:00] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有1个小时43分钟]   </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [03:10:00] </font> <font color=#0a9606>仍在吹水ing </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有1个小时43分钟]   </font>
+
+<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [03:16:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有1个小时43分钟]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [05:18:59] </font> <font color=#0a9606>早餐-出门 </font> |  <font color=#BA55D3>牛肉包,豆腐包, 粉丝包 </font> 	<font color=#87CEFA> [进食ing]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [06:15:24] </font> <font color=#0a9606>休息 </font> |  <font color=#BA55D3>吹水,作业,休息 </font> 	<font color=#87CEFA> [忙碌ing]   </font>
 
 
 [2023/8/7] 
