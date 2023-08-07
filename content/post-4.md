@@ -23,7 +23,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:08:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>PUBG ing</font> 	<font color=#87CEFA> [丢包严重]   </font
 
-<font color=red> Ⅰ  [01:43:00]  帮人买的电源炸了 说是先报火花然后黑机 及时断电 有焦味。  现在点不亮。   至少要先过去下看看主板生死    还好还没确认收货  （这才到手没两天）
+<font color=red> Ⅰ  [01:43:00]  帮人买的电源炸了 说是先报火花然后黑机 及时断电 有焦味。  现在点不亮。   至少要先过去下看看主板生死    还好还没确认收货  （这才到手没两天） </font>
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [01:56:41] </font> <font color=#0a9606>收拾东西 </font> |  <font color=#BA55D3>要带个电源过去，螺丝刀，板U手里没有..内存和显卡应该不容易波及。</font> 	<font color=#87CEFA> [希望只是电源寄了吧]   </font>
 
@@ -41,6 +41,35 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [05:20:00] </font> <font color=#0a9606>回家 </font> |  <font color=#BA55D3>被送了一程 </font> 	<font color=#87CEFA> [十来分钟就到家了]   </font>
 
 <font color=#556B2F> Ⅷ </font> <font color=#0a9606> [06:45:00] </font> <font color=#0a9606>琐事除杂 </font> |  <font color=#BA55D3>垃圾清理&回消息&补日志%整理 </font> 	<font color=#87CEFA> [日常]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [09:05:26] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>要死了</font> 	<font color=#87CEFA> [设置闹钟12:59]   </font>
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [12:59:00] </font> <font color=#0a9606>被闹醒x1 </font> |  <font color=#BA55D3>困,再睡会</font> 	<font color=#87CEFA> [关闭闹钟]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [13:29:00] </font> <font color=#0a9606>被闹醒x2 </font> |  <font color=#BA55D3>好困,继续睡</font> 	<font color=#87CEFA> [关闭闹钟]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [14:31:00] </font> <font color=#0a9606>被闹醒x3 </font> |  <font color=#BA55D3>不知道甚么时候的闹钟</font> 	<font color=#87CEFA> [关闭闹钟]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:30:00] </font> <font color=#0a9606>被闹醒x4 </font> |  <font color=#BA55D3>每天固定的闹钟,但是   继续睡觉</font> 	<font color=#87CEFA> [关闭闹钟]   </font>
+
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x5 </font> |  <font color=#BA55D3>姐姐买了一袋零食给我打了声招呼来着</font> 	<font color=#87CEFA> [睡觉]   </font>
+
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x6 </font> |  <font color=#BA55D3>好像是家里人喊晚饭</font> 	<font color=#87CEFA> [继续睡]   </font>
+
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x7 </font> |  <font color=#BA55D3>好像是家里人喊晚饭</font> 	<font color=#87CEFA> [睡觉]   </font>
+
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x8 </font> |  <font color=#BA55D3>作业之类的事情</font> 	<font color=#87CEFA> [睡觉]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [19:15:00] </font> <font color=#0a9606>醒x9 </font> |  <font color=#BA55D3>其实想做梦做到明天，但是睡不去了</font> 	<font color=#87CEFA> [早安]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [19:20:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COHing</font> 	<font color=#87CEFA> [娱乐]   </font>
+
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [21:21:00] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>哨笛ing</font> 	<font color=#87CEFA> [娱乐]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:09:00] </font> <font color=#0a9606>吹水时间 </font> |  <font color=#BA55D3>聊天室ing</font> 	<font color=#87CEFA> [有点饿来着]   </font>
+
 
 
 
