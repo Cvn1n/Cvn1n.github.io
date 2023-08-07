@@ -18,6 +18,11 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+[2023/8/8] 
+- 
+<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:42:05] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [启动]   </font
+
+
 [2023/8/7] 
 - 
 
