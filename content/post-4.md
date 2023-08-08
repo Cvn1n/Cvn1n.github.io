@@ -43,7 +43,19 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [12:36:00] </font> <font color=#0a9606>睡前闲聊 </font> |  <font color=#BA55D3>聊天室ing </font> 	<font color=#87CEFA> [应该要睡觉来着]   </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [13:01:00] </font> <font color=#0a9606>写作业 </font> |  <font color=#BA55D3>突然好像也不是很困了,先写作业 </font> 	<font color=#87CEFA> [看起来不知道晚上有没有时间了]   </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [13:01:00] </font> <font color=#0a9606>写作业/吹水/视频 </font> |  <font color=#BA55D3>突然好像也不是很困了,先写作业,顺带摸个鱼 </font> 	<font color=#87CEFA> [看起来不知道晚上有没有时间了]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [15:35:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>凌晨再写了 </font> 	<font color=#87CEFA> [晚安]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:46:34] </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>应该说是被吵醒了  然后就睡不着了 </font> 	<font color=#87CEFA> [起床]   </font>
+
+
+<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [19:50:00] </font> <font color=#0a9606> 晚饭 </font> |  <font color=#BA55D3>茭白+米饭</font> 	<font color=#87CEFA> [油]   </font>
+
+
+<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [20:30:00] </font> <font color=#0a9606>洗澡 </font> |  <font color=#BA55D3>  </font> 	<font color=#87CEFA> [起床]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:02:00] </font> <font color=#0a9606> 换完衣服-桌前 </font> |  <font color=#BA55D3>写作业&吹水&听歌</font> 	<font color=#87CEFA> [顺带琐事除杂]   </font>
 
 
 
