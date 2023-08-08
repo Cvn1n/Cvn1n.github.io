@@ -32,6 +32,20 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [06:15:24] </font> <font color=#0a9606>休息 </font> |  <font color=#BA55D3>吹水,作业,休息 </font> 	<font color=#87CEFA> [忙碌ing]   </font>
 
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [07:54:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>困 </font> 	<font color=#87CEFA> [设置闹钟8:40]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [08:40:00] </font> <font color=#0a9606>睡着(确信) </font> |  <font color=#BA55D3>应该睡的很死,印象中没有听到闹钟 </font> 	<font color=#87CEFA> [没有做梦]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:48:00] </font> <font color=#0a9606>醒 </font> |  <font color=#BA55D3>电源要退货,快递员的第二通电话+门铃获得胜利 </font> 	<font color=#87CEFA> [第一通响铃7声 第二通不知道,但是醒了]   </font>
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [12:32:00] </font> <font color=#0a9606>中饭 </font> |  <font color=#BA55D3>米肉豆腐 </font> 	<font color=#87CEFA> [看着就好多油...]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [12:36:00] </font> <font color=#0a9606>睡前闲聊 </font> |  <font color=#BA55D3>聊天室ing </font> 	<font color=#87CEFA> [应该要睡觉来着]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [13:01:00] </font> <font color=#0a9606>写作业 </font> |  <font color=#BA55D3>突然好像也不是很困了,先写作业 </font> 	<font color=#87CEFA> [看起来不知道晚上有没有时间了]   </font>
+
+
 
 [2023/8/7] 
 - 
@@ -72,11 +86,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x6 </font> |  <font color=#BA55D3>好像是家里人喊晚饭</font> 	<font color=#87CEFA> [继续睡]   </font>
 
-<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x7 </font> |  <font color=#BA55D3>好像是家里人喊晚饭</font> 	<font color=#87CEFA> [睡觉]   </font>
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x7 </font> |  <font color=#BA55D3>作业之类的事情</font> 	<font color=#87CEFA> [睡觉]   </font>
 
-<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x8 </font> |  <font color=#BA55D3>作业之类的事情</font> 	<font color=#87CEFA> [睡觉]   </font>
-
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [19:15:00] </font> <font color=#0a9606>醒x9 </font> |  <font color=#BA55D3>其实想做梦做到明天，但是睡不去了</font> 	<font color=#87CEFA> [早安]   </font>
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [19:15:00] </font> <font color=#0a9606>醒x8 </font> |  <font color=#BA55D3>其实想做梦做到明天，但是睡不去了</font> 	<font color=#87CEFA> [早安]   </font>
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [19:20:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COHing</font> 	<font color=#87CEFA> [娱乐]   </font>
 
