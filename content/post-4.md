@@ -24,6 +24,29 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:30:00] </font> <font color=#0a9606>作业ing </font> |  <font color=#BA55D3>好困..以后家里要准备点咖啡</font> 	<font color=#87CEFA> [放音乐ing]   </font>
 
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [03:30:00] </font> <font color=#0a9606>吹水&听歌&看视频 </font> |  <font color=#BA55D3>还剩下计算机相关的背诵过关+英语订正</font> 	<font color=#87CEFA> [就这样到了天亮]   </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [07:44:00] </font> <font color=#0a9606>早餐 </font> |  <font color=#BA55D3>瘦肉丸(?)  更像面疙瘩吧..</font> 	<font color=#87CEFA> [面粉——唔  能量好像也挺够]   </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [07:50:00] </font> <font color=#0a9606>吹水 </font> |  <font color=#BA55D3>晚点要睡觉</font> 	<font color=#87CEFA> [吃饱就困]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [09:06:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>闹钟设置</font> 	<font color=#87CEFA> [4个hour,但是大概醒了会继续睡]   </font>
+
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x1 </font> |  <font color=#BA55D3>记得是..问作业的吧大概</font> 	<font color=#87CEFA> [然后继续睡了]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [16:07:00] </font> <font color=#0a9606>起床</font> |  <font color=#BA55D3>家里姐姐借机子</font> 	<font color=#87CEFA> [---]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [16:09:00] </font> <font color=#0a9606>整理房间</font> |  <font color=#BA55D3>至少地上和床上清出来先</font> 	<font color=#87CEFA> [顺带- 聊天室吹水]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:32:00] </font> <font color=#0a9606>外出-便利店</font> |  <font color=#BA55D3>征用结束，晚饭吃桶面来着要去买</font> 	<font color=#87CEFA> [淋雨ing]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:46:00] </font> <font color=#0a9606>无所事事</font> |  <font color=#BA55D3>吹水&视频</font> 	<font color=#87CEFA> [--]   </font>
+
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:55:00] </font> <font color=#0a9606>晚餐</font> |  <font color=#BA55D3>鸡蛋+康师傅金汤肥牛+火腿肠</font> 	<font color=#87CEFA> [--]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [18:23:00] </font> <font color=#0a9606>无所事事x2</font> |  <font color=#BA55D3>吹水/补日志/摸鱼</font> 	<font color=#87CEFA> [困,准备睡觉]   </font>
+
+
 
 [2023/8/8] 
 - 
