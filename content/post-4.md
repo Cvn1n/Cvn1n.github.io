@@ -18,6 +18,18 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+[2023/8/10] 
+- 
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:00:01] </font> <font color=#0a9606>game times </font> |  <font color=#BA55D3>还在进行中</font> 	<font color=#87CEFA> [没想好几点睡觉]   </font
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:08:12] </font> <font color=#0a9606>进食&game times </font> |  <font color=#BA55D3>皮蛋瘦肉粥(吃不完)</font> 	<font color=#87CEFA> [游戏ing]   </font
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:03:59] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>聊天室</font> 	<font color=#87CEFA> [吃不完]   </font
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:03:59] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>房间里有些好奇怪的人..现在网络流行抽象派?</font> 	<font color=#87CEFA> [早点睡觉好了]   </font>
+
+
 [2023/8/9] 
 - 
 
@@ -44,7 +56,10 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:55:00] </font> <font color=#0a9606>晚餐</font> |  <font color=#BA55D3>鸡蛋+康师傅金汤肥牛+火腿肠</font> 	<font color=#87CEFA> [--]   </font>
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [18:23:00] </font> <font color=#0a9606>无所事事x2</font> |  <font color=#BA55D3>吹水/补日志/摸鱼</font> 	<font color=#87CEFA> [困,准备睡觉]   </font>
+<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [18:20:00] </font> <font color=#0a9606>吹水ing</font> |  <font color=#BA55D3>聊天室</font> 	<font color=#87CEFA> [--]   </font>
+
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [20:24:31] </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>COH,CS</font> 	<font color=#87CEFA> [和别人连麦ing]   </font>
 
 
 
