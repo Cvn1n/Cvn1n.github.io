@@ -29,6 +29,11 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:12:58] </font> <font color=#0a9606>准备睡觉 </font> |  <font color=#BA55D3>房间里有些好奇怪的人..现在网络流行抽象派?</font> 	<font color=#87CEFA> [早点睡觉好了]   </font>
 
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [05:00:30] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [在连线聊天之类的]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:11:05] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>唔—— 又是没睡觉的一天</font> 	<font color=#87CEFA> [---]   </font>
+
+
 
 [2023/8/9] 
 - 
