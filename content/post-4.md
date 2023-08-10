@@ -34,6 +34,19 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:11:05] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>唔—— 又是没睡觉的一天</font> 	<font color=#87CEFA> [---]   </font>
 
 
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:50:00] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3>晚安</font> 	<font color=#87CEFA> [---]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:25:00] </font> <font color=#0a9606> 醒 </font> |  <font color=#BA55D3>居然是自然醒</font> 	<font color=#87CEFA> [再躺一会]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:42:00] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3>回消息</font> 	<font color=#87CEFA> [QQ/微信/聊天室]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:44:00] </font> <font color=#0a9606> 进食 </font> |  <font color=#BA55D3>青菜都是油光发亮的</font> 	<font color=#87CEFA> [晚点点份外卖]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [20:40:00] </font> <font color=#0a9606> 无所事事-电脑桌前 </font> |  <font color=#BA55D3>聊天/看视频</font> 	<font color=#87CEFA> [-----]   </font>
+
+
+
+
 
 [2023/8/9] 
 - 
