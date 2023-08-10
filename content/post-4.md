@@ -1,7 +1,7 @@
 +++
-title = "[2023-07-05]-[2023-08-09]日志 "
+title = "[2023-07-05]-[2023-08-011]日志 "
 template = "page.html"
-date = 2023-08-09T09:00:00Z
+date = 2023-08-11T09:00:00Z
 [taxonomies]
 tags = ["日志"]
 [extra]
@@ -17,6 +17,11 @@ mathjax = "tex-mml"
 //2023-07-04开始
 
 //手机端体验?   没考虑过。
+
+[2023/8/11] 
+- 
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:47:10] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>吹水摸鱼准备睡觉</font> 	<font color=#87CEFA> [早睡]   </font
 
 [2023/8/10] 
 - 
@@ -43,6 +48,13 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:44:00] </font> <font color=#0a9606> 进食 </font> |  <font color=#BA55D3>青菜都是油光发亮的</font> 	<font color=#87CEFA> [晚点点份外卖]   </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [20:40:00] </font> <font color=#0a9606> 无所事事-电脑桌前 </font> |  <font color=#BA55D3>聊天/看视频</font> 	<font color=#87CEFA> [-----]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [21:38:30] </font> <font color=#0a9606> 外卖-路途ing </font> |  <font color=#BA55D3>肉松滑蛋粥</font> 	<font color=#87CEFA> [-15r]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:45:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>CS:GO</font> 	<font color=#87CEFA> [H---]   </font>
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [23:46:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [H---]   </font>
+
 
 
 
