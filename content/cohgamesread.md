@@ -11,14 +11,12 @@ mathjax = "tex-mml"
 
 <!-- more -->
 
+ <font color=#BA55D3>1.:[兰格里斯下路开局:英军打PE    油开  伞兵坑步兵防守 转装甲主力进攻](https://www.bilibili.com/video/BV1b4411a7Q7/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=8e6162f3b61b1536e99d76d7b44e98ec) </font> 
 
-1.包含两场:
+英军:首发草帽  第一队侦查占右边缘油料[抢油速二本-斯图亚特]    [三草帽+1中尉过渡到下一阶段] | 中期: 二本首发工兵Piat+伞兵坑+气枪榴弹      双斯图亚特[步兵改占点 蹲坑守点,进攻主力交给装甲]    
 
- <font color=#BA55D3>a:兰格里斯下路开局:英军打PE </font> 
-打法: <font color=Blue>首发草帽 </font>  | <font color=Markdown>第一队侦查占右边缘油料 </font>  | <font color=#A9A9A9>[抢油速二本-斯图亚特] </font>
+PE:前期:双小车开局[占点骚扰压制资源 拉散敌军部队]  一本 SC玩具车海[强压英军]   过渡到ac  | 中期:做四本 发霍奇基斯
 
-
-兰格里斯 vs PE  
 
 
 
