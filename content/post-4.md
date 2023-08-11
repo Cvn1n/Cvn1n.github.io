@@ -1,7 +1,7 @@
 +++
-title = "[2023-07-05]-[2023-08-011]日志 "
+title = "[2023-07-05]-[2023-08-12]日志 "
 template = "page.html"
-date = 2023-08-11T09:00:00Z
+date = 2023-08-12T09:00:00Z
 [taxonomies]
 tags = ["日志"]
 [extra]
@@ -17,6 +17,14 @@ mathjax = "tex-mml"
 //2023-07-04开始
 
 //手机端体验?   没考虑过。
+
+[2023/8/12] 
+-
+
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x3 </font> |  <font color=#BA55D3>来自手机震动也许</font> 	<font color=#87CEFA> [问作业来了]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:53:00] </font> </font> <font color=#0a9606>醒x4 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [早安]   </font>
+
 
 [2023/8/11] 
 - 
@@ -62,8 +70,9 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:12:48] </font> <font color=#0a9606>洗澡结束-睡觉 </font> |  <font color=#BA55D3>晚安</font> 	<font color=#87CEFA> [希望明天醒吧]   </font>
 
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x1 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [梦境续费ing]   </font>
 
-
+<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x2 </font> |  <font color=#BA55D3>家里哥哥破门而入</font> 	<font color=#87CEFA> [问作业来了]   </font>
 
 [2023/8/10] 
 - 
