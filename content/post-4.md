@@ -21,12 +21,47 @@ mathjax = "tex-mml"
 [2023/8/11] 
 - 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:47:10] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>吹水摸鱼准备睡觉</font> 	<font color=#87CEFA> [早睡]   </font
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:47:10] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>吹水摸鱼准备睡觉</font> 	<font color=#87CEFA> [早睡]   </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [02:59:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [有人找我玩来着]   </font
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [02:59:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [有人找我玩来着]   </font>
 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:21:39] </font> <font color=#0a9606>准备睡觉 </font> |  <font color=#BA55D3>早起</font> 	<font color=#87CEFA> [总有一天能把作息调回来]   </font
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:21:39] </font> <font color=#0a9606>准备睡觉 </font> |  <font color=#BA55D3>准备 </font> 	<font color=#87CEFA> [结果通宵了]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:23:00] </font> <font color=#0a9606>吹水 </font> |  <font color=#BA55D3>摸鱼 </font> 	<font color=#87CEFA> [无所事事ing]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [05:51:57] </font> <font color=#0a9606>外出-买早饭 </font> |  <font color=#BA55D3>豆腐包,牛肉包,菜包,豆浆 </font> 	<font color=#87CEFA> [空余时间都在吹水]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [09:59:08] </font> <font color=#0a9606>外出-同学家 </font> |  <font color=#BA55D3>不时蓝屏,游戏会突然卡死</font> 	<font color=#87CEFA> [刚刚还找了好久U盘]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:02:00] </font> <font color=#0a9606>外出-路过-超市-付款 </font> |  <font color=#BA55D3>可乐+咖啡+红笔x1</font> 	<font color=#87CEFA> [-11r]   </font>
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:02:00] </font> <font color=#0a9606>外出-路过-超市-付款 </font> |  <font color=#BA55D3>可乐+咖啡+红笔x1</font> 	<font color=#87CEFA> [-11r]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [10:21:57] </font> <font color=#0a9606>公交车上 </font> |  <font color=#BA55D3>上车才发现方向反了，但是站牌写着能到</font> 	<font color=#87CEFA> [最后 绕了一圈  确实抵达目的地了]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:54:20] </font> <font color=#0a9606>下车 </font> |  <font color=#BA55D3>还真能到</font> 	<font color=#87CEFA> [-1.5r]   </font>
+
+<font color=#556B2F> Ⅲ </font> <font color=#0a9606> [10:51:44] </font> <font color=#0a9606>到达同学家 </font> |  <font color=#BA55D3>刚好他家们没人,不怕尴尬</font> 	<font color=#87CEFA> [进门ing]   </font>
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [14:40:00] </font> <font color=#0a9606>努力ING</font> |  <font color=#BA55D3>一打驱动就黑屏 在尝试换镜像换驱动,但是我带的PE只有一个镜像系统在里面,还得临时打个系统再下载新的</font> 	<font color=#87CEFA> [win10还自动更新驱动耽搁了好几次，每次都要黑屏重启卸驱动停止自动更新]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:13:01] </font> <font color=#0a9606>胜利！！ </font> |  <font color=#BA55D3>n次的重装+驱动下载重打,终于成功打上了</font> 	<font color=#87CEFA> [顺带发现D盘硬盘坏道寄了,蓝屏是驱动&系统的问题,游戏卡死是硬盘问题]   </font>
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:40:01] </font> <font color=#0a9606>胃不舒服 </font> |  <font color=#BA55D3>空腹咖啡让我的胃很舒服  我得点份外卖</font> 	<font color=#87CEFA> [点了粥,主料大概是胡萝卜 菠菜 猪瘦肉之类的 -15r]   </font>
+
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:59:05] </font> <font color=#0a9606>回家！ </font> |  <font color=#BA55D3>环境部署之类的也全部弄好了，游戏也帮搞好了，坏道也讲究着处理了</font> 	<font color=#87CEFA> [可以回家了！   昨天到现在一直没睡  要困死了]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:24:00] </font> <font color=#0a9606>到家 </font> |  <font color=#BA55D3>一路走回来的</font> 	<font color=#87CEFA> [非常困！！咖啡效果过掉了  但是要先补日志]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:56:00] </font> <font color=#0a9606>琐事完成-洗澡 </font> |  <font color=#BA55D3>都是汗..好困</font> 	<font color=#87CEFA> [但是要先洗澡]   </font>
+
+
+
 
 [2023/8/10] 
 - 
