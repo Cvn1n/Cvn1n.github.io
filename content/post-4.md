@@ -27,22 +27,27 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:53:00] </font> </font> <font color=#0a9606>醒x4 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [早安]   </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:54:00] </font> </font> <font color=#0a9606》无所事事 </font> |  <font color=#BA55D3>吹水回消息看视频</font> 	<font color=#87CEFA> [开学了就不能做这种事了]   </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:54:00] </font> </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>吹水回消息看视频</font> 	<font color=#87CEFA> [开学了就不能做这种事了]   </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:07:00] </font> </font> <font color=#0a9606》Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [试试国防]   </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:07:00] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [试试国防]   </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:51:00] </font> </font> <font color=#0a9606》早餐ing </font> |  <font color=#BA55D3>西红柿炒饭配纯牛奶..</font> 	<font color=#87CEFA> [吃完摸了会鱼出门]   </font>
-
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [07:24:00] </font> </font> <font color=#0a9606》外出-超市-付款ing </font> |  <font color=#BA55D3>红笔x1</font> 	<font color=#87CEFA> [-2r]   </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:51:00] </font> </font> <font color=#0a9606>早餐ing </font> |  <font color=#BA55D3>西红柿炒饭配纯牛奶..</font> 	<font color=#87CEFA> [吃完摸了会鱼出门]   </font>
 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:32:49] </font> </font> <font color=#0a9606》到家-琐事处理&洗漱 </font> |  <font color=#BA55D3>垃圾袋&洗漱&回消息</font> 	<font color=#87CEFA> [----]   </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [07:24:00] </font> </font> <font color=#0a9606>外出-超市-付款ing </font> |  <font color=#BA55D3>红笔x1</font> 	<font color=#87CEFA> [-2r]   </font>
 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:44:06] </font> </font> <font color=#0a9606》作业↓ </font> |  <font color=#BA55D3>听歌吹水作业↓</font> 	<font color=#87CEFA> [马上开学了]   </font>
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:32:49] </font> </font> <font color=#0a9606>到家-琐事处理&洗漱 </font> |  <font color=#BA55D3>垃圾袋&洗漱&回消息</font> 	<font color=#87CEFA> [----]   </font>
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:39:00] </font> </font> <font color=#0a9606》3项上传-无所事事 </font> |  <font color=#BA55D3>听歌吹水视频↓</font> 	<font color=#87CEFA> [作业截至到8月14日的晚上]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:44:06] </font> </font> <font color=#0a9606>作业↓ </font> |  <font color=#BA55D3>听歌吹水作业↓</font> 	<font color=#87CEFA> [马上开学了]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:39:00] </font> </font> <font color=#0a9606>3项上传-无所事事 </font> |  <font color=#BA55D3>听歌吹水视频↓</font> 	<font color=#87CEFA> [作业截至到8月14日的晚上]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:07:18] </font> </font> <font color=#0a9606>外卖-下单-烤鸡整只(微辣)+白馒头x4 </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [-30r]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:17:00] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [在床上死了半天了]   </font>
+
 
 
 [2023/8/11] 
