@@ -18,6 +18,13 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+[2023/8/13】 
+-
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:41:00] </font> </font> <font color=#0a9606>吹水&补日志 </font> |  <font color=#BA55D3>等下准备打会csgo(?)</font> 	<font color=#87CEFA> [---]   </font>
+
+
+
 [2023/8/12] 
 -
 
@@ -47,6 +54,16 @@ mathjax = "tex-mml"
 <font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:07:18] </font> </font> <font color=#0a9606>外卖-下单-烤鸡整只(微辣)+白馒头x4 </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [-30r]   </font>
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:17:00] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [在床上死了半天了]   </font>
+
+
+<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [16:19:46] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [观战&指导ing]   </font>
+
+<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [19:00:00] </font> </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [困]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:59:18] </font> </font> <font color=#0a9606> 醒 </font> |  <font color=#BA55D3>哥哥送了果茶</font> 	<font color=#87CEFA> [晚点再睡吧]   </font>
+
+<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [23:48:28] </font> </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>唔——   只是在观战,吹水</font> 	<font color=#87CEFA> [今日不宜gametimes]   </font>
+
 
 
 
