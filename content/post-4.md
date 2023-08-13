@@ -23,6 +23,13 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:41:00] </font> </font> <font color=#0a9606>吹水&补日志 </font> |  <font color=#BA55D3>等下准备打会csgo(?)</font> 	<font color=#87CEFA> [---]   </font>
 
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [03:25:19] </font> </font> <font color=#0a9606>外卖-下单 </font> |  <font color=#BA55D3>炒面</font> 	<font color=#87CEFA> [踩雷  -11.2r]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:26:22] </font> </font> <font color=#0a9606>吹水&看视频 </font> |  <font color=#BA55D3>结果一直没睡觉(?)</font> 	<font color=#87CEFA> [聊天室ing]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:05:00] </font> </font> <font color=#0a9606>仍在吹水 </font> |  <font color=#BA55D3>看起来不用睡了</font> 	<font color=#87CEFA> [聊天室ing]   </font>
+
+
 
 
 [2023/8/12] 
