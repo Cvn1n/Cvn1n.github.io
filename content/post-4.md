@@ -18,6 +18,11 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+[2023/8/14】 
+-
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:14:00] </font> </font> <font color=#0a9606>END-学习ing </font> |  <font color=#BA55D3>好麻烦</font> 	<font color=#87CEFA> [---]   </font>
+
+
 [2023/8/13】 
 -
 
@@ -41,7 +46,7 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:52:23] </font> </font> <font color=#0a9606>外出-便利店 </font> |  <font color=#BA55D3>泡面</font> 	<font color=#87CEFA> [----]   </font>
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [23:36:19] </font> </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>CSGO</font> 	<font color=#87CEFA> [----]   </font>
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [23:36:19] </font> </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>CSGO&coh</font> 	<font color=#87CEFA> [----]   </font>
 
 
 
