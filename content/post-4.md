@@ -1,7 +1,7 @@
 +++
-title = "[2023-07-05]-[2023-08-12]日志 "
+title = "[2023-07-05]-[2023-08-13]日志 "
 template = "page.html"
-date = 2023-08-12T09:00:00Z
+date = 2023-08-13T09:00:00Z
 [taxonomies]
 tags = ["日志"]
 [extra]
@@ -27,7 +27,15 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:26:22] </font> </font> <font color=#0a9606>吹水&看视频 </font> |  <font color=#BA55D3>结果一直没睡觉(?)</font> 	<font color=#87CEFA> [聊天室ing]   </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:05:00] </font> </font> <font color=#0a9606>仍在吹水 </font> |  <font color=#BA55D3>看起来不用睡了</font> 	<font color=#87CEFA> [聊天室ing]   </font>
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:05:00] </font> </font> <font color=#0a9606>仍在吹水 </font> |  <font color=#BA55D3>不想睡</font> 	<font color=#87CEFA> [聊天室ing]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:34:00] </font> </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>聊天室安静下来了</font> 	<font color=#87CEFA> [消遣]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:30:00] </font> </font> <font color=#0a9606>下线-琐事清理 </font> |  <font color=#BA55D3>困困困困困困</font> 	<font color=#87CEFA> [困困困困困困]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:53:00] </font> </font> <font color=#0a9606>END-睡觉 </font> |  <font color=#BA55D3>困困困困困困</font> 	<font color=#87CEFA> [困困困困困困困]   </font>
+
+
 
 
 
