@@ -41,6 +41,8 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:52:23] </font> </font> <font color=#0a9606>外出-便利店 </font> |  <font color=#BA55D3>泡面</font> 	<font color=#87CEFA> [----]   </font>
 
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [23:36:19] </font> </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>CSGO</font> 	<font color=#87CEFA> [----]   </font>
+
 
 
 
