@@ -35,6 +35,11 @@ mathjax = "tex-mml"
 
 <font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:53:00] </font> </font> <font color=#0a9606>END-睡觉 </font> |  <font color=#BA55D3>困困困困困困</font> 	<font color=#87CEFA> [困困困困困困困]   </font>
 
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:34:23] </font> </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>陆陆续续醒了四五次(?)</font> 	<font color=#87CEFA> [琐事清理]   </font>
+
+<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:52:23] </font> </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>吹水/听歌/摸鱼</font> 	<font color=#87CEFA> [----]   </font>
+
+
 
 
 
