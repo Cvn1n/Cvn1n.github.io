@@ -21,15 +21,19 @@ mathjax = "tex-mml"
 //手机端体验?   没考虑过。
 
 
-<font color="red"> --空--  </font>
+
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ;</font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ;-  </font>
+-
+
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ;  </font>
 -
 
 
 <font color="red"> 突然想起这里是回收站。</font>
--0
+-
 
 <font color="red"> 没用的东西应该删掉 </font>
 -
@@ -40,31 +44,31 @@ mathjax = "tex-mml"
 <font color="red"> 健忘偶尔是好习惯  </font>
 -
 
-<font color="red"> 2023/8/14  上午08:31</font>
+<font color="red"> 2023/8/14  上午08:31</font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ;  </font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ;  </font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ; </font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red">&emsp ;&emsp ;&emsp ;&emsp ; </font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ;</font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ;-  </font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ;  </font>
 -
 
-<font color="red"> --空--  </font>
+<font color="red"> &emsp ;&emsp ;&emsp ;&emsp ; </font>
 -
 
 
