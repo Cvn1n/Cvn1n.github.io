@@ -40,18 +40,18 @@ mathjax = "tex-mml"
 
 
 
-<font color="red"> 突然想起，这里是回收站。</font>
+<font color="red"> //突然想起，这里是回收站。</font>
 -
 
-<font color="red"> 没用的东西应该删掉 </font>
--
-
-
-<font color="red"> 不管让自己还是让别人知道自己的生活有多少烂可不好</font>
+<font color="red"> //没用的东西应该删掉 </font>
 -
 
 
-<font color="red"> 健忘偶尔是好习惯  </font>
+<font color="red"> //不管让自己还是让别人知道自己的生活有多少烂可不好</font>
+-
+
+
+<font color="red"> //健忘偶尔是好习惯  </font>
 -
 
 
