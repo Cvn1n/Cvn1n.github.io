@@ -16,10 +16,15 @@ mathjax = "tex-mml"
 
 //2023-07-04开始
 
+//2023-08-14截止
+
 //手机端体验?   没考虑过。
 
 
-<font color="red"> 突然就想到,这里是回收站。没用的东西应该删掉 </font>
+<font color="red"> 突然想起这里是回收站。</font>
+-0
+
+<font color="red"> 没用的东西应该删掉 </font>
 -
 
 <font color="red"> 不管让自己还是让别人知道自己的生活有多少烂可不好</font>
