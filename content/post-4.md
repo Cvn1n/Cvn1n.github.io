@@ -18,9 +18,15 @@ mathjax = "tex-mml"
 
 //手机端体验?   没考虑过。
 
+
+<font color="red"> 不管让自己还是让别人知道自己的生活有多少烂可不好   -----2023/8/14   上午08:31</font>
+-
+
+
 [2023/8/14】 
 -
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:14:00] </font> </font> <font color=#0a9606>END-学习ing </font> |  <font color=#BA55D3>好麻烦</font> 	<font color=#87CEFA> [---]   </font>
+
+<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:14:00] </font> </font> <font color=#0a9606>END-学习准备 </font> |  <font color=#BA55D3>好麻烦</font> 	<font color=#87CEFA> [---]   </font>
 
 
 [2023/8/13】 
