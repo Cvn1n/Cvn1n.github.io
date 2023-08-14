@@ -19,48 +19,52 @@ mathjax = "tex-mml"
 //手机端体验?   没考虑过。
 
 
-<font color="red"> 突然就想到,回收站是要放有用的东西的。没用的东西应该删掉 </font>
-
-<font color="red"> 不管让自己还是让别人知道自己的生活有多少烂可不好</font>
-
-<font color="red"> 健忘偶尔是好习惯  </font>
-
-<font color="red"> 2023/8/14  上午08:31</font>
-
+<font color="red"> 突然就想到,这里是回收站。没用的东西应该删掉 </font>
 -
 
-~~
+<font color="red"> 不管让自己还是让别人知道自己的生活有多少烂可不好</font>
+-
+
+<font color="red"> 健忘偶尔是好习惯  </font>
+-
+
+<font color="red"> 2023/8/14  上午08:31</font>
+-
+
+
+
+
 
 [2023/8/14】 
 -
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:14:00] </font> </font> <font color=#0a9606>END-学习准备 </font> |  <font color=#BA55D3>好麻烦</font> 	<font color=#87CEFA> [---]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:14:00] </font> </font> <font color=#0a9606>END-学习准备 </font> |  <font color=#BA55D3>好麻烦</font> 	<font color=#87CEFA> [---]   </font>~~
 
 
 [2023/8/13】 
 -
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:41:00] </font> </font> <font color=#0a9606>吹水&补日志 </font> |  <font color=#BA55D3>等下准备打会csgo(?)</font> 	<font color=#87CEFA> [---]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [01:41:00] </font> </font> <font color=#0a9606>吹水&补日志 </font> |  <font color=#BA55D3>等下准备打会csgo(?)</font> 	<font color=#87CEFA> [---]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [03:25:19] </font> </font> <font color=#0a9606>外卖-下单 </font> |  <font color=#BA55D3>炒面</font> 	<font color=#87CEFA> [踩雷  -11.2r]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [03:25:19] </font> </font> <font color=#0a9606>外卖-下单 </font> |  <font color=#BA55D3>炒面</font> 	<font color=#87CEFA> [踩雷  -11.2r]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:26:22] </font> </font> <font color=#0a9606>吹水&看视频 </font> |  <font color=#BA55D3>结果一直没睡觉(?)</font> 	<font color=#87CEFA> [聊天室ing]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:26:22] </font> </font> <font color=#0a9606>吹水&看视频 </font> |  <font color=#BA55D3>结果一直没睡觉(?)</font> 	<font color=#87CEFA> [聊天室ing]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:05:00] </font> </font> <font color=#0a9606>仍在吹水 </font> |  <font color=#BA55D3>不想睡</font> 	<font color=#87CEFA> [聊天室ing]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:05:00] </font> </font> <font color=#0a9606>仍在吹水 </font> |  <font color=#BA55D3>不想睡</font> 	<font color=#87CEFA> [聊天室ing]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:34:00] </font> </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>聊天室安静下来了</font> 	<font color=#87CEFA> [消遣]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:34:00] </font> </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>聊天室安静下来了</font> 	<font color=#87CEFA> [消遣]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:30:00] </font> </font> <font color=#0a9606>下线-琐事清理 </font> |  <font color=#BA55D3>困困困困困困</font> 	<font color=#87CEFA> [困困困困困困]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:30:00] </font> </font> <font color=#0a9606>下线-琐事清理 </font> |  <font color=#BA55D3>困困困困困困</font> 	<font color=#87CEFA> [困困困困困困]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:53:00] </font> </font> <font color=#0a9606>END-睡觉 </font> |  <font color=#BA55D3>困困困困困困</font> 	<font color=#87CEFA> [困困困困困困困]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:53:00] </font> </font> <font color=#0a9606>END-睡觉 </font> |  <font color=#BA55D3>困困困困困困</font> 	<font color=#87CEFA> [困困困困困困困]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:34:23] </font> </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>陆陆续续醒了四五次(?)  早饭中饭晚饭-错过</font> 	<font color=#87CEFA> [琐事清理]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:34:23] </font> </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>陆陆续续醒了四五次(?)  早饭中饭晚饭-错过</font> 	<font color=#87CEFA> [琐事清理]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:52:23] </font> </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>吹水/听歌/摸鱼</font> 	<font color=#87CEFA> [----]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:52:23] </font> </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>吹水/听歌/摸鱼</font> 	<font color=#87CEFA> [----]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:52:23] </font> </font> <font color=#0a9606>外出-便利店 </font> |  <font color=#BA55D3>泡面</font> 	<font color=#87CEFA> [----]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:52:23] </font> </font> <font color=#0a9606>外出-便利店 </font> |  <font color=#BA55D3>泡面</font> 	<font color=#87CEFA> [----]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [23:36:19] </font> </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>CSGO&coh</font> 	<font color=#87CEFA> [----]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [23:36:19] </font> </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>CSGO&coh</font> 	<font color=#87CEFA> [----]   </font>~~
 
 
 
@@ -71,41 +75,41 @@ mathjax = "tex-mml"
 [2023/8/12] 
 -
 
-<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x3 </font> |  <font color=#BA55D3>来自手机震动也许</font> 	<font color=#87CEFA> [问作业来了]   </font>
+~~<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x3 </font> |  <font color=#BA55D3>来自手机震动也许</font> 	<font color=#87CEFA> [问作业来了]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:53:00] </font> </font> <font color=#0a9606>醒x4 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [早安]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:53:00] </font> </font> <font color=#0a9606>醒x4 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [早安]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:53:00] </font> </font> <font color=#0a9606>醒x4 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [早安]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:53:00] </font> </font> <font color=#0a9606>醒x4 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [早安]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:54:00] </font> </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>吹水回消息看视频</font> 	<font color=#87CEFA> [开学了就不能做这种事了]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [04:54:00] </font> </font> <font color=#0a9606>无所事事 </font> |  <font color=#BA55D3>吹水回消息看视频</font> 	<font color=#87CEFA> [开学了就不能做这种事了]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:07:00] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [试试国防]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:07:00] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [试试国防]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:51:00] </font> </font> <font color=#0a9606>早餐ing </font> |  <font color=#BA55D3>西红柿炒饭配纯牛奶..</font> 	<font color=#87CEFA> [吃完摸了会鱼出门]   </font>
-
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [07:24:00] </font> </font> <font color=#0a9606>外出-超市-付款ing </font> |  <font color=#BA55D3>红笔x1</font> 	<font color=#87CEFA> [-2r]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [06:51:00] </font> </font> <font color=#0a9606>早餐ing </font> |  <font color=#BA55D3>西红柿炒饭配纯牛奶..</font> 	<font color=#87CEFA> [吃完摸了会鱼出门]   </font>~~
 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:32:49] </font> </font> <font color=#0a9606>到家-琐事处理&洗漱 </font> |  <font color=#BA55D3>垃圾袋&洗漱&回消息</font> 	<font color=#87CEFA> [----]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [07:24:00] </font> </font> <font color=#0a9606>外出-超市-付款ing </font> |  <font color=#BA55D3>红笔x1</font> 	<font color=#87CEFA> [-2r]   </font>~~
 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:44:06] </font> </font> <font color=#0a9606>作业↓ </font> |  <font color=#BA55D3>听歌吹水作业↓</font> 	<font color=#87CEFA> [马上开学了]   </font>
-
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:39:00] </font> </font> <font color=#0a9606>3项上传-无所事事 </font> |  <font color=#BA55D3>听歌吹水视频↓</font> 	<font color=#87CEFA> [作业截至到8月14日的晚上]   </font>
-
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:07:18] </font> </font> <font color=#0a9606>外卖-下单-烤鸡整只(微辣)+白馒头x4 </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [-30r]   </font>
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:17:00] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [在床上死了半天了]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:32:49] </font> </font> <font color=#0a9606>到家-琐事处理&洗漱 </font> |  <font color=#BA55D3>垃圾袋&洗漱&回消息</font> 	<font color=#87CEFA> [----]   </font>~~
 
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [16:19:46] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [观战&指导ing]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:44:06] </font> </font> <font color=#0a9606>作业↓ </font> |  <font color=#BA55D3>听歌吹水作业↓</font> 	<font color=#87CEFA> [马上开学了]   </font>~~
 
-<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [19:00:00] </font> </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [困]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [09:39:00] </font> </font> <font color=#0a9606>3项上传-无所事事 </font> |  <font color=#BA55D3>听歌吹水视频↓</font> 	<font color=#87CEFA> [作业截至到8月14日的晚上]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:59:18] </font> </font> <font color=#0a9606> 醒 </font> |  <font color=#BA55D3>哥哥送了果茶</font> 	<font color=#87CEFA> [晚点再睡吧]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [15:07:18] </font> </font> <font color=#0a9606>外卖-下单-烤鸡整只(微辣)+白馒头x4 </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [-30r]   </font>~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [23:48:28] </font> </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>唔——   只是在观战,吹水</font> 	<font color=#87CEFA> [今日不宜gametimes]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:17:00] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [在床上死了半天了]   </font>~~
+
+
+~~<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [16:19:46] </font> </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [观战&指导ing]   </font>~~
+
+~~<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [19:00:00] </font> </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>COH↓</font> 	<font color=#87CEFA> [困]   </font>~~
+
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [22:59:18] </font> </font> <font color=#0a9606> 醒 </font> |  <font color=#BA55D3>哥哥送了果茶</font> 	<font color=#87CEFA> [晚点再睡吧]   </font>~~
+
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [23:48:28] </font> </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>唔——   只是在观战,吹水</font> 	<font color=#87CEFA> [今日不宜gametimes]   </font>~~
 
 
 
@@ -113,82 +117,82 @@ mathjax = "tex-mml"
 [2023/8/11] 
 - 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:47:10] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>吹水摸鱼准备睡觉</font> 	<font color=#87CEFA> [早睡]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:47:10] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>吹水摸鱼准备睡觉</font> 	<font color=#87CEFA> [早睡]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [02:59:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [有人找我玩来着]   </font>
-
-
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:21:39] </font> <font color=#0a9606>准备睡觉 </font> |  <font color=#BA55D3>准备 </font> 	<font color=#87CEFA> [结果通宵了]   </font>
-
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:23:00] </font> <font color=#0a9606>吹水 </font> |  <font color=#BA55D3>摸鱼 </font> 	<font color=#87CEFA> [无所事事ing]   </font>
-
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [05:51:57] </font> <font color=#0a9606>外出-买早饭 </font> |  <font color=#BA55D3>豆腐包,牛肉包,菜包,豆浆 </font> 	<font color=#87CEFA> [空余时间都在吹水]   </font>
-
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [09:59:08] </font> <font color=#0a9606>外出-同学家 </font> |  <font color=#BA55D3>不时蓝屏,游戏会突然卡死</font> 	<font color=#87CEFA> [刚刚还找了好久U盘]   </font>
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:02:00] </font> <font color=#0a9606>外出-路过-超市-付款 </font> |  <font color=#BA55D3>可乐+咖啡+红笔x1</font> 	<font color=#87CEFA> [-11r]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [02:59:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [有人找我玩来着]   </font>~~
 
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:02:00] </font> <font color=#0a9606>外出-路过-超市-付款 </font> |  <font color=#BA55D3>可乐+咖啡+红笔x1</font> 	<font color=#87CEFA> [-11r]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:21:39] </font> <font color=#0a9606>准备睡觉 </font> |  <font color=#BA55D3>准备 </font> 	<font color=#87CEFA> [结果通宵了]   </font>~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [10:21:57] </font> <font color=#0a9606>公交车上 </font> |  <font color=#BA55D3>上车才发现方向反了，但是站牌写着能到</font> 	<font color=#87CEFA> [最后 绕了一圈  确实抵达目的地了]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:23:00] </font> <font color=#0a9606>吹水 </font> |  <font color=#BA55D3>摸鱼 </font> 	<font color=#87CEFA> [无所事事ing]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:54:20] </font> <font color=#0a9606>下车 </font> |  <font color=#BA55D3>还真能到</font> 	<font color=#87CEFA> [-1.5r]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [05:51:57] </font> <font color=#0a9606>外出-买早饭 </font> |  <font color=#BA55D3>豆腐包,牛肉包,菜包,豆浆 </font> 	<font color=#87CEFA> [空余时间都在吹水]   </font>~~
 
-<font color=#556B2F> Ⅲ </font> <font color=#0a9606> [10:51:44] </font> <font color=#0a9606>到达同学家 </font> |  <font color=#BA55D3>刚好他家们没人,不怕尴尬</font> 	<font color=#87CEFA> [进门ing]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [09:59:08] </font> <font color=#0a9606>外出-同学家 </font> |  <font color=#BA55D3>不时蓝屏,游戏会突然卡死</font> 	<font color=#87CEFA> [刚刚还找了好久U盘]   </font>~~
 
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [14:40:00] </font> <font color=#0a9606>努力ING</font> |  <font color=#BA55D3>一打驱动就黑屏 在尝试换镜像换驱动,但是我带的PE只有一个镜像系统在里面,还得临时打个系统再下载新的</font> 	<font color=#87CEFA> [win10还自动更新驱动耽搁了好几次，每次都要黑屏重启卸驱动停止自动更新]   </font>
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:13:01] </font> <font color=#0a9606>胜利！！ </font> |  <font color=#BA55D3>n次的重装+驱动下载重打,终于成功打上了</font> 	<font color=#87CEFA> [顺带发现D盘硬盘坏道寄了,蓝屏是驱动&系统的问题,游戏卡死是硬盘问题]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:02:00] </font> <font color=#0a9606>外出-路过-超市-付款 </font> |  <font color=#BA55D3>可乐+咖啡+红笔x1</font> 	<font color=#87CEFA> [-11r]   </font>~~
 
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:40:01] </font> <font color=#0a9606>胃不舒服 </font> |  <font color=#BA55D3>空腹咖啡让我的胃很舒服  我得点份外卖</font> 	<font color=#87CEFA> [点了粥,主料大概是胡萝卜 菠菜 猪瘦肉之类的 -15r]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:02:00] </font> <font color=#0a9606>外出-路过-超市-付款 </font> |  <font color=#BA55D3>可乐+咖啡+红笔x1</font> 	<font color=#87CEFA> [-11r]   </font>~~
+
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [10:21:57] </font> <font color=#0a9606>公交车上 </font> |  <font color=#BA55D3>上车才发现方向反了，但是站牌写着能到</font> 	<font color=#87CEFA> [最后 绕了一圈  确实抵达目的地了]   </font>~~
+
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:54:20] </font> <font color=#0a9606>下车 </font> |  <font color=#BA55D3>还真能到</font> 	<font color=#87CEFA> [-1.5r]   </font>~~
+
+~~<font color=#556B2F> Ⅲ </font> <font color=#0a9606> [10:51:44] </font> <font color=#0a9606>到达同学家 </font> |  <font color=#BA55D3>刚好他家们没人,不怕尴尬</font> 	<font color=#87CEFA> [进门ing]   </font>~~
 
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:59:05] </font> <font color=#0a9606>回家！ </font> |  <font color=#BA55D3>环境部署之类的也全部弄好了，游戏也帮搞好了，坏道也讲究着处理了</font> 	<font color=#87CEFA> [可以回家了！   昨天到现在一直没睡  要困死了]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [14:40:00] </font> <font color=#0a9606>努力ING</font> |  <font color=#BA55D3>一打驱动就黑屏 在尝试换镜像换驱动,但是我带的PE只有一个镜像系统在里面,还得临时打个系统再下载新的</font> 	<font color=#87CEFA> [win10还自动更新驱动耽搁了好几次，每次都要黑屏重启卸驱动停止自动更新]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:24:00] </font> <font color=#0a9606>到家 </font> |  <font color=#BA55D3>一路走回来的</font> 	<font color=#87CEFA> [非常困！！咖啡效果过掉了  但是要先补日志]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:13:01] </font> <font color=#0a9606>胜利！！ </font> |  <font color=#BA55D3>n次的重装+驱动下载重打,终于成功打上了</font> 	<font color=#87CEFA> [顺带发现D盘硬盘坏道寄了,蓝屏是驱动&系统的问题,游戏卡死是硬盘问题]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:56:00] </font> <font color=#0a9606>琐事完成-洗澡 </font> |  <font color=#BA55D3>都是汗..好困</font> 	<font color=#87CEFA> [但是要先洗澡]   </font>
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:12:48] </font> <font color=#0a9606>洗澡结束-睡觉 </font> |  <font color=#BA55D3>晚安</font> 	<font color=#87CEFA> [希望明天醒吧]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [16:40:01] </font> <font color=#0a9606>胃不舒服 </font> |  <font color=#BA55D3>空腹咖啡让我的胃很舒服  我得点份外卖</font> 	<font color=#87CEFA> [点了粥,主料大概是胡萝卜 菠菜 猪瘦肉之类的 -15r]   </font>~~
 
-<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x1 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [梦境续费ing]   </font>
 
-<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x2 </font> |  <font color=#BA55D3>家里哥哥破门而入</font> 	<font color=#87CEFA> [问作业来了]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [17:59:05] </font> <font color=#0a9606>回家！ </font> |  <font color=#BA55D3>环境部署之类的也全部弄好了，游戏也帮搞好了，坏道也讲究着处理了</font> 	<font color=#87CEFA> [可以回家了！   昨天到现在一直没睡  要困死了]   </font>~~
+
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:24:00] </font> <font color=#0a9606>到家 </font> |  <font color=#BA55D3>一路走回来的</font> 	<font color=#87CEFA> [非常困！！咖啡效果过掉了  但是要先补日志]   </font>~~
+
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [18:56:00] </font> <font color=#0a9606>琐事完成-洗澡 </font> |  <font color=#BA55D3>都是汗..好困</font> 	<font color=#87CEFA> [但是要先洗澡]   </font>~~
+
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:12:48] </font> <font color=#0a9606>洗澡结束-睡觉 </font> |  <font color=#BA55D3>晚安</font> 	<font color=#87CEFA> [希望明天醒吧]   </font>~~
+
+~~<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x1 </font> |  <font color=#BA55D3>自然醒</font> 	<font color=#87CEFA> [梦境续费ing]   </font>~~
+
+~~<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> </font> <font color=#0a9606>醒x2 </font> |  <font color=#BA55D3>家里哥哥破门而入</font> 	<font color=#87CEFA> [问作业来了]   </font>~~
 
 [2023/8/10] 
 - 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:00:01] </font> <font color=#0a9606>game times </font> |  <font color=#BA55D3>还在进行中</font> 	<font color=#87CEFA> [没想好几点睡觉]   </font
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [00:00:01] </font> <font color=#0a9606>game times </font> |  <font color=#BA55D3>还在进行中</font> 	<font color=#87CEFA> [没想好几点睡觉]   </font~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:08:12] </font> <font color=#0a9606>进食&game times </font> |  <font color=#BA55D3>皮蛋瘦肉粥(吃不完)</font> 	<font color=#87CEFA> [游戏ing]   </font
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [01:08:12] </font> <font color=#0a9606>进食&game times </font> |  <font color=#BA55D3>皮蛋瘦肉粥(吃不完)</font> 	<font color=#87CEFA> [游戏ing]   </font~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:03:59] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>聊天室</font> 	<font color=#87CEFA> [吃不完]   </font
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:03:59] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>聊天室</font> 	<font color=#87CEFA> [吃不完]   </font~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:12:58] </font> <font color=#0a9606>准备睡觉 </font> |  <font color=#BA55D3>房间里有些好奇怪的人..现在网络流行抽象派?</font> 	<font color=#87CEFA> [早点睡觉好了]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [04:12:58] </font> <font color=#0a9606>准备睡觉 </font> |  <font color=#BA55D3>房间里有些好奇怪的人..现在网络流行抽象派?</font> 	<font color=#87CEFA> [早点睡觉好了]   </font>~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [05:00:30] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [在连线聊天之类的]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [05:00:30] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [在连线聊天之类的]   </font>~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:11:05] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>唔—— 又是没睡觉的一天</font> 	<font color=#87CEFA> [---]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [07:11:05] </font> <font color=#0a9606>吹水ing </font> |  <font color=#BA55D3>唔—— 又是没睡觉的一天</font> 	<font color=#87CEFA> [---]   </font>~~
 
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:50:00] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3>晚安</font> 	<font color=#87CEFA> [---]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [08:50:00] </font> <font color=#0a9606> 睡觉 </font> |  <font color=#BA55D3>晚安</font> 	<font color=#87CEFA> [---]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:25:00] </font> <font color=#0a9606> 醒 </font> |  <font color=#BA55D3>居然是自然醒</font> 	<font color=#87CEFA> [再躺一会]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:25:00] </font> <font color=#0a9606> 醒 </font> |  <font color=#BA55D3>居然是自然醒</font> 	<font color=#87CEFA> [再躺一会]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:42:00] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3>回消息</font> 	<font color=#87CEFA> [QQ/微信/聊天室]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:42:00] </font> <font color=#0a9606> 起床 </font> |  <font color=#BA55D3>回消息</font> 	<font color=#87CEFA> [QQ/微信/聊天室]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:44:00] </font> <font color=#0a9606> 进食 </font> |  <font color=#BA55D3>青菜都是油光发亮的</font> 	<font color=#87CEFA> [晚点点份外卖]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [19:44:00] </font> <font color=#0a9606> 进食 </font> |  <font color=#BA55D3>青菜都是油光发亮的</font> 	<font color=#87CEFA> [晚点点份外卖]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [20:40:00] </font> <font color=#0a9606> 无所事事-电脑桌前 </font> |  <font color=#BA55D3>聊天/看视频</font> 	<font color=#87CEFA> [-----]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [20:40:00] </font> <font color=#0a9606> 无所事事-电脑桌前 </font> |  <font color=#BA55D3>聊天/看视频</font> 	<font color=#87CEFA> [-----]   </font>~~
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [21:38:30] </font> <font color=#0a9606> 外卖-路途ing </font> |  <font color=#BA55D3>肉松滑蛋粥</font> 	<font color=#87CEFA> [-15r]   </font>
+~~<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [21:38:30] </font> <font color=#0a9606> 外卖-路途ing </font> |  <font color=#BA55D3>肉松滑蛋粥</font> 	<font color=#87CEFA> [-15r]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:45:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>CS:GO</font> 	<font color=#87CEFA> [H---]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:45:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>CS:GO</font> 	<font color=#87CEFA> [H---]   </font>~~
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [23:46:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [H---]   </font>
+~~<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [23:46:00] </font> <font color=#0a9606> Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [H---]   </font>~~
 
 
 
@@ -199,87 +203,87 @@ mathjax = "tex-mml"
 - 
 
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:30:00] </font> <font color=#0a9606>作业ing </font> |  <font color=#BA55D3>好困..以后家里要准备点咖啡</font> 	<font color=#87CEFA> [放音乐ing]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:30:00] </font> <font color=#0a9606>作业ing </font> |  <font color=#BA55D3>好困..以后家里要准备点咖啡</font> 	<font color=#87CEFA> [放音乐ing]   </font>~~
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [03:30:00] </font> <font color=#0a9606>吹水&听歌&看视频 </font> |  <font color=#BA55D3>还剩下计算机相关的背诵过关+英语订正</font> 	<font color=#87CEFA> [就这样到了天亮]   </font>
+~~<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [03:30:00] </font> <font color=#0a9606>吹水&听歌&看视频 </font> |  <font color=#BA55D3>还剩下计算机相关的背诵过关+英语订正</font> 	<font color=#87CEFA> [就这样到了天亮]   </font>~~
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [07:44:00] </font> <font color=#0a9606>早餐 </font> |  <font color=#BA55D3>瘦肉丸(?)  更像面疙瘩吧..</font> 	<font color=#87CEFA> [面粉——唔  能量好像也挺够]   </font>
+~~<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [07:44:00] </font> <font color=#0a9606>早餐 </font> |  <font color=#BA55D3>瘦肉丸(?)  更像面疙瘩吧..</font> 	<font color=#87CEFA> [面粉——唔  能量好像也挺够]   </font>~~
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [07:50:00] </font> <font color=#0a9606>吹水 </font> |  <font color=#BA55D3>晚点要睡觉</font> 	<font color=#87CEFA> [吃饱就困]   </font>
+~~<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [07:50:00] </font> <font color=#0a9606>吹水 </font> |  <font color=#BA55D3>晚点要睡觉</font> 	<font color=#87CEFA> [吃饱就困]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [09:06:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>闹钟设置</font> 	<font color=#87CEFA> [4个hour,但是大概醒了会继续睡]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [09:06:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>闹钟设置</font> 	<font color=#87CEFA> [4个hour,但是大概醒了会继续睡]   </font>~~
 
-<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x1 </font> |  <font color=#BA55D3>记得是..问作业的吧大概</font> 	<font color=#87CEFA> [然后继续睡了]   </font>
+~~<font color=#556B2F>  </font> <font color=#0a9606> [::] </font> <font color=#0a9606>醒x1 </font> |  <font color=#BA55D3>记得是..问作业的吧大概</font> 	<font color=#87CEFA> [然后继续睡了]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [16:07:00] </font> <font color=#0a9606>起床</font> |  <font color=#BA55D3>家里姐姐借机子</font> 	<font color=#87CEFA> [---]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [16:07:00] </font> <font color=#0a9606>起床</font> |  <font color=#BA55D3>家里姐姐借机子</font> 	<font color=#87CEFA> [---]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [16:09:00] </font> <font color=#0a9606>整理房间</font> |  <font color=#BA55D3>至少地上和床上清出来先</font> 	<font color=#87CEFA> [顺带- 聊天室吹水]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [16:09:00] </font> <font color=#0a9606>整理房间</font> |  <font color=#BA55D3>至少地上和床上清出来先</font> 	<font color=#87CEFA> [顺带- 聊天室吹水]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:32:00] </font> <font color=#0a9606>外出-便利店</font> |  <font color=#BA55D3>征用结束，晚饭吃桶面来着要去买</font> 	<font color=#87CEFA> [淋雨ing]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:32:00] </font> <font color=#0a9606>外出-便利店</font> |  <font color=#BA55D3>征用结束，晚饭吃桶面来着要去买</font> 	<font color=#87CEFA> [淋雨ing]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:46:00] </font> <font color=#0a9606>无所事事</font> |  <font color=#BA55D3>吹水&视频</font> 	<font color=#87CEFA> [--]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [17:46:00] </font> <font color=#0a9606>无所事事</font> |  <font color=#BA55D3>吹水&视频</font> 	<font color=#87CEFA> [--]   </font>~~
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:55:00] </font> <font color=#0a9606>晚餐</font> |  <font color=#BA55D3>鸡蛋+康师傅金汤肥牛+火腿肠</font> 	<font color=#87CEFA> [--]   </font>
+~~<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [17:55:00] </font> <font color=#0a9606>晚餐</font> |  <font color=#BA55D3>鸡蛋+康师傅金汤肥牛+火腿肠</font> 	<font color=#87CEFA> [--]   </font>~~
 
-<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [18:20:00] </font> <font color=#0a9606>吹水ing</font> |  <font color=#BA55D3>聊天室</font> 	<font color=#87CEFA> [--]   </font>
+~~<font color=#556B2F> Ⅹ </font> <font color=#0a9606> [18:20:00] </font> <font color=#0a9606>吹水ing</font> |  <font color=#BA55D3>聊天室</font> 	<font color=#87CEFA> [--]   </font>~~
 
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [20:24:31] </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>COH,CS</font> 	<font color=#87CEFA> [和别人连麦ing]   </font>
+~~<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [20:24:31] </font> <font color=#0a9606>Game times</font> |  <font color=#BA55D3>COH,CS</font> 	<font color=#87CEFA> [和别人连麦ing]   </font>~~
 
 
 
 [2023/8/8] 
 - 
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:42:05] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [启动]   </font>
+~~<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:42:05] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>COH</font> 	<font color=#87CEFA> [启动]   </font>~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:42:46] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有2个小时27分钟]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [02:42:46] </font> <font color=#0a9606>End times </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有2个小时27分钟]   </font>~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [03:10:00] </font> <font color=#0a9606>仍在吹水ing </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有1个小时43分钟]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [03:10:00] </font> <font color=#0a9606>仍在吹水ing </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有1个小时43分钟]   </font>~~
 
-<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [03:16:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有1个小时43分钟]   </font>
+~~<font color=#556B2F> Ⅵ </font> <font color=#0a9606> [03:16:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>写作业%吹水&等早餐</font> 	<font color=#87CEFA> [距离早餐还有1个小时43分钟]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [05:18:59] </font> <font color=#0a9606>早餐-出门 </font> |  <font color=#BA55D3>牛肉包,豆腐包, 粉丝包 </font> 	<font color=#87CEFA> [进食ing]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [05:18:59] </font> <font color=#0a9606>早餐-出门 </font> |  <font color=#BA55D3>牛肉包,豆腐包, 粉丝包 </font> 	<font color=#87CEFA> [进食ing]   </font>~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [06:15:24] </font> <font color=#0a9606>休息 </font> |  <font color=#BA55D3>吹水,作业,休息 </font> 	<font color=#87CEFA> [忙碌ing]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [06:15:24] </font> <font color=#0a9606>休息 </font> |  <font color=#BA55D3>吹水,作业,休息 </font> 	<font color=#87CEFA> [忙碌ing]   </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [07:54:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>困 </font> 	<font color=#87CEFA> [设置闹钟8:40]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [07:54:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>困 </font> 	<font color=#87CEFA> [设置闹钟8:40]   </font>~~
 
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [08:40:00] </font> <font color=#0a9606>睡着(确信) </font> |  <font color=#BA55D3>应该睡的很死,印象中没有听到闹钟 </font> 	<font color=#87CEFA> [没有做梦]   </font>
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [08:40:00] </font> <font color=#0a9606>睡着(确信) </font> |  <font color=#BA55D3>应该睡的很死,印象中没有听到闹钟 </font> 	<font color=#87CEFA> [没有做梦]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:48:00] </font> <font color=#0a9606>醒 </font> |  <font color=#BA55D3>电源要退货,快递员的第二通电话+门铃获得胜利 </font> 	<font color=#87CEFA> [第一通响铃7声 第二通不知道,但是醒了]   </font>
-
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [12:32:00] </font> <font color=#0a9606>中饭 </font> |  <font color=#BA55D3>米肉豆腐 </font> 	<font color=#87CEFA> [看着就好多油...]   </font>
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [12:36:00] </font> <font color=#0a9606>睡前闲聊 </font> |  <font color=#BA55D3>聊天室ing </font> 	<font color=#87CEFA> [应该要睡觉来着]   </font>
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [13:01:00] </font> <font color=#0a9606>写作业/吹水/视频 </font> |  <font color=#BA55D3>突然好像也不是很困了,先写作业,顺带摸个鱼 </font> 	<font color=#87CEFA> [看起来不知道晚上有没有时间了]   </font>
-
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [15:35:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>凌晨再写了 </font> 	<font color=#87CEFA> [晚安]   </font>
-
-<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:46:34] </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>应该说是被吵醒了  然后就睡不着了 </font> 	<font color=#87CEFA> [起床]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [10:48:00] </font> <font color=#0a9606>醒 </font> |  <font color=#BA55D3>电源要退货,快递员的第二通电话+门铃获得胜利 </font> 	<font color=#87CEFA> [第一通响铃7声 第二通不知道,但是醒了]   </font>~~
 
 
-<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [19:50:00] </font> <font color=#0a9606> 晚饭 </font> |  <font color=#BA55D3>茭白+米饭</font> 	<font color=#87CEFA> [油]   </font>
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [12:32:00] </font> <font color=#0a9606>中饭 </font> |  <font color=#BA55D3>米肉豆腐 </font> 	<font color=#87CEFA> [看着就好多油...]   </font>~~
+
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [12:36:00] </font> <font color=#0a9606>睡前闲聊 </font> |  <font color=#BA55D3>聊天室ing </font> 	<font color=#87CEFA> [应该要睡觉来着]   </font>~~
+
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [13:01:00] </font> <font color=#0a9606>写作业/吹水/视频 </font> |  <font color=#BA55D3>突然好像也不是很困了,先写作业,顺带摸个鱼 </font> 	<font color=#87CEFA> [看起来不知道晚上有没有时间了]   </font>~~
+
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [15:35:00] </font> <font color=#0a9606>睡觉 </font> |  <font color=#BA55D3>凌晨再写了 </font> 	<font color=#87CEFA> [晚安]   </font>~~
+
+~~<font color=#556B2F> Ⅰ </font> <font color=#0a9606> [19:46:34] </font> <font color=#0a9606>早安 </font> |  <font color=#BA55D3>应该说是被吵醒了  然后就睡不着了 </font> 	<font color=#87CEFA> [起床]   </font>~~
 
 
-<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [20:30:00] </font> <font color=#0a9606>洗澡 </font> |  <font color=#BA55D3>  </font> 	<font color=#87CEFA> [起床]   </font>
+~~<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [19:50:00] </font> <font color=#0a9606> 晚饭 </font> |  <font color=#BA55D3>茭白+米饭</font> 	<font color=#87CEFA> [油]   </font>~~
 
-<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:02:00] </font> <font color=#0a9606> 换完衣服-桌前 </font> |  <font color=#BA55D3>写作业&吹水&听歌</font> 	<font color=#87CEFA> [顺带琐事除杂]   </font>
+
+~~<font color=#556B2F> Ⅸ </font> <font color=#0a9606> [20:30:00] </font> <font color=#0a9606>洗澡 </font> |  <font color=#BA55D3>  </font> 	<font color=#87CEFA> [起床]   </font>~~
+
+~~<font color=#556B2F> Ⅳ </font> <font color=#0a9606> [21:02:00] </font> <font color=#0a9606> 换完衣服-桌前 </font> |  <font color=#BA55D3>写作业&吹水&听歌</font> 	<font color=#87CEFA> [顺带琐事除杂]   </font>~~
 
 
 
 [2023/8/7] 
 - 
 
-<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:08:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>PUBG ing</font> 	<font color=#87CEFA> [丢包严重]   </font
+~~<font color=#556B2F> Ⅷ </font> <font color=#0a9606> [01:08:00] </font> <font color=#0a9606>Game times </font> |  <font color=#BA55D3>PUBG ing</font> 	<font color=#87CEFA> [丢包严重]   </font~~
 
-<font color=red> Ⅰ  [01:43:00]  帮人买的电源炸了 说是先报火花然后黑机 及时断电 有焦味。  现在点不亮。   至少要先过去下看看主板生死    还好还没确认收货  （这才到手没两天） </font>
+~~<font color=red> Ⅰ  [01:43:00]  帮人买的电源炸了 说是先报火花然后黑机 及时断电 有焦味。  现在点不亮。   至少要先过去下看看主板生死    还好还没确认收货  （这才到手没两天） </font>~~
 
-<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [01:56:41] </font> <font color=#0a9606>收拾东西 </font> |  <font color=#BA55D3>要带个电源过去，螺丝刀，板U手里没有..内存和显卡应该不容易波及。</font> 	<font color=#87CEFA> [希望只是电源寄了吧]   </font>
+~~<font color=#556B2F> Ⅴ </font> <font color=#0a9606> [01:56:41] </font> <font color=#0a9606>收拾东西 </font> |  <font color=#BA55D3>要带个电源过去，螺丝刀，板U手里没有..内存和显卡应该不容易波及。</font> 	<font color=#87CEFA> [希望只是电源寄了吧]   </font>~~
 
-<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:30:00] </font> <font color=#0a9606>到对面家了 </font> |  <font color=#BA55D3>唔——卧室还有焦味。光闻到就可以确定电源寄了</font> 	<font color=#87CEFA> [测试ing]   </font>
+~~<font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:30:00] </font> <font color=#0a9606>到对面家了 </font> |  <font color=#BA55D3>唔——卧室还有焦味。光闻到就可以确定电源寄了</font> 	<font color=#87CEFA> [测试ing]   </font>~~
 
 <font color=#556B2F> Ⅶ </font> <font color=#0a9606> [02:35:00] </font> <font color=#0a9606>测试ing </font> |  <font color=#BA55D3>确实主板没反应 换电源 </font> 	<font color=#87CEFA> [测试ing]   </font>
 
