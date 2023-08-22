@@ -1,15 +1,20 @@
 +++
-title = " 入刑 "
+title = " 的SGczxghjrdws "
 template = "page.html"
 date = 2023-08-22T09:00:00Z
 [taxonomies]
 tags = ["日志"]
 [extra]
-summary = "服刑中,再见"
+summary = "服刑,再见"
 mathjax = "tex-mml"
 +++
 
 <!-- more -->
+
+TEST
+
+
+
 [table=98%]
 [tr=#FFFFFF][td][align=center][table=98%]
 [tr][td] 
@@ -21,6 +26,8 @@ mathjax = "tex-mml"
 
 2023/8/22|    
  开学咯      新高一 ,要住宿生活的样子 ,8个人一间屋子  坐牢咯//
+
+ 还有军训  好麻烦// 
 
 没有机子   没有移动设备   看起来只有双休能回来一天的样子
 所有的社交娱乐圈子都要没掉咯线上生活要和我告白咯//
