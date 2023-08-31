@@ -36,15 +36,15 @@ mathjax = "tex-mml"
 
 
 
-![image.png](http://r.iirose.com/i/23/8/28/12/5702-SC.jpg)
+![image.png](https://s2.loli.net/2023/08/31/jzcHdE6u2x4qOnA.png)
 
-![image.png](http://r.iirose.com/i/23/8/28/12/5711-1Q.jpg)
+![image.png](https://s2.loli.net/2023/08/31/oIEYFXlQBwqObPr.png)
 
-![image.png](http://r.iirose.com/i/23/8/28/12/5715-H3.jpg)
+![image.png](https://s2.loli.net/2023/08/31/2GqLFykBTiCozV3.png)
 
-![image.png](http://r.iirose.com/i/23/8/28/12/5720-7W.jpg)
+![image.png](https://s2.loli.net/2023/08/31/hrsnbV5YpdKSljt.png)
 
-![image.png](http://r.iirose.com/i/23/8/28/22/1626-ZA.jpg)
+![image.png](https://s2.loli.net/2023/08/31/nm2qIBuzW9f5LiU.png)
 
 第二天看见的 还有墙上地上的 军训不去了  不算学分 无所谓了
 
