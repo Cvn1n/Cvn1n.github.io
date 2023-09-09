@@ -28,7 +28,9 @@ paginate_by = 0
 <font size=4>称呼</font>
 -------------------------------
 
-春宁,HansKaffe,Monika,Just (~~ID,指代内容才是关键~~)
+春宁,HansKaffe,Monika,Just,Cvn1n (~~ID,指代内容才是关键  ； 但是 随意按个人意愿称呼别人可不是好习惯?~~)
+
+
  
 <font size=4>爱好</font>
 -------------------------------
