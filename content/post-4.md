@@ -40,7 +40,7 @@ mathjax = "tex-mml"
 
 
 
-<font color="red"> //突然想起，这里是回收站。</font>
+<font color="red"> //这里是回收站。</font>
 -
 
 <font color="red"> //没用的东西应该删掉 </font>
