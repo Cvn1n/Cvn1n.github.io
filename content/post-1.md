@@ -1,7 +1,7 @@
 +++
-title = "你好,朋友d"
+title = "你好,朋友"
 template = "page.html"
-date = 2024-02-20T10:00:00Z
+date = 2024-01-01T10:00:00Z
 [taxonomies]
 tags = ["测试"]
 [extra]
