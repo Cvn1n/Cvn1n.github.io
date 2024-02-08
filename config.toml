@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://cvn1n.github.io"
+base_url = "https://Cvn1n.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -10,8 +10,8 @@ build_search_index = false
 theme = "anatole-zola"
 
 [languages.en]
-title = "春宁の垃圾站"
-description = "活着也是钟表里无用的齿轮，生命没有意义，尽是无价值的东西"
+title = "Viva's Blos"
+description = "有趣的人是不同寻常的，不同寻常的人是怪人，所以怪人是有趣的"
 generate_feed = true
 taxonomies = [
   {name = "tags"},
