@@ -58,18 +58,12 @@
                       aria-label="Go to Mastodon profile page"><i class="fab fa-mastodon"></i></a>
       </li>
       {%- endif -%}    
-      {% if config.extra.social.facebook -%}
-      <li><a href="https://www.facebook.com/{{ config.extra.social.facebook }}" aria-label="Go to FaceBook profile page"><i class="fab fa-facebook"></i></a></li>
-      {%- endif -%}
       {%- if config.extra.social.instagram -%}
       <li><a href="https://www.instagram.com/{{ config.extra.social.instagram }}" aria-label="Go to Instagram profile page"><i class="fab fa-instagram"></i></a>
       </li>
       {%- endif -%}
       {%- if config.extra.social.dribbble -%}
       <li><a href="https://dribbble.com/{{ config.extra.social.dribbble }}" aria-label="Go to Dribbble profile page"><i class="fab fa-dribbble"></i></a></li>
-      {%- endif -%}
-      {%- if config.extra.social.weibo -%}
-      <li><a href="https://weibo.com/{{ config.extra.social.weibo }}" aria-label="Go to weibo profile page"><i class="fab fa-weibo"></i></a></li>
       {%- endif -%}
       {%- if config.extra.social.linkedin -%}
       <li><a href="https://linkedin.com/in/{{ config.extra.social.linkedin }}" aria-label="Go to Linkedin profile page"><i class="fab fa-linkedin"></i></a></li>
@@ -109,6 +103,8 @@
         {%- if config.extra.show.links -%}
         <li><a {% if language_site_path is starting_with("/links") %}class="current" {% endif %} href="{{ get_url(path="@/links/_index.md", lang=lang) }}">{{ trans(key="links", lang=lang) }}</a></li>
         {%- endif -%}
+        <li><a {% if language_site_path is starting_with("/say") %}class="current" {% endif %} href="{{ get_url(path="@/say/_index.md", lang=lang) }}">{{ trans(key="say", lang=lang) }}</a></li>
+
       </div>
       <div class="information">
         <div class="back_btn">
