@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://Cvn1n.github.io"
+base_url = "https://viva.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -20,6 +20,7 @@ taxonomies = [
 [extra.show]
 tags = true
 links = true
+say = true
 
 [languages.en.translations]
 language_name = "English"
@@ -28,6 +29,7 @@ home = "主页"
 tags = "标签"
 archive = "归档"
 links = "友情链接"
+say = "奇思妙想/杂言琐记"
 date_format = "%Y-%m-%d"
 next_page = "Next Page"
 last_page = "Last Page"
