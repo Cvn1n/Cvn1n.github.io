@@ -3,7 +3,7 @@ title = "你好,朋友"
 template = "page.html"
 date = 2024-02-07T10:00:00Z
 [taxonomies]
-tags = ["杂言"]
+tags = ["测试"]
 [extra]
 summary = " "
 mathjax = "tex-mml"
