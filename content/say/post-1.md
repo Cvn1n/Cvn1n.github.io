@@ -1,11 +1,11 @@
 +++
-title = "2024年2月3日-夜晚是奢侈品"
+title = "夜晚是奢侈品"
 template = "page.html"
 date = 2024-02-03T23:00:00Z
 [taxonomies]
 tags = ["杂言琐记"]
 [extra]
-summary = "关于 奇思妙想/杂言琐记 分区的建立"
+summary = "2024年2月3日"
 mathjax = "tex-mml"
 +++
 
