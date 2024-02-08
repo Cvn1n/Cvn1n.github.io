@@ -85,3 +85,4 @@ flickr = ""
 [extra.show]
 tags = true
 links = true
+say = true
