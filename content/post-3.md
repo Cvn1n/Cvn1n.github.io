@@ -31,9 +31,7 @@ mathjax = "tex-mml"
 <br>
 你可以从 [Node.js 官方网站](https://nodejs.org/zh-cn/)
 <br>
-下载并安装 Node.js——
-<br>
-我们要用到JavaScript
+下载并安装 Node.js
 <br>
 
 接下来，创建个新文件夹，用来存放Node.js Web服务器。
@@ -117,7 +115,7 @@ node server.js
 
 - # 步骤 4: 为你的HTML引用这个 CSS 文件
 
-假设你的静态博客的 HTML 文件是 `index.html`，那么你需要在该文件中添加如下代码：
+在你的html文件中添加如下代码：
 
 ```
 <link rel="stylesheet" type="text/css" href="http://localhost:3000/styles.css">
@@ -125,11 +123,11 @@ node server.js
 
 请确保替换 `http://localhost:3000/styles.css` 为你服务器的IP地址
 
-这样，当浏览器访问你的博客页面时，
+这样，当浏览器访问你页面时，
 <br>
-就会自动加载这个 CSS 文件，浏览器会请求加载这个 CSS 文件
+浏览器会请求加载这个 CSS 文件
 <br>
-并且在加载时会访问你的 Node.js 服务器，从而触发计数器递增。
+并且在加载时访问你的 Node.js 服务器，从而触发计数器递增。
 
 
 
