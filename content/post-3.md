@@ -36,38 +36,6 @@ mathjax = "tex-mml"
 我们要用到JavaScript
 <br>
 
---------------------------------
-
-<details>
-  <summary>问题之——什么是Node.js?</summary>
-  <pre><code>
-鱼要活在水里，人要生在陆上
-或者像没有Java运行不了Minecraft
-而没有Node.js，无法运行JavaScript
-它是一种"环境"
-</code></pre>
-</details>
-
-<details>
-  <summary>问题之——Node是环境,为什么又说Node.js Web 服务器</summary>
-  <pre><code>
-使用Node.js部署的Web服务器，叫做Node.js Web服务器
-</code></pre>
-</details>
-
-<details>
-  <summary>问题之——什么是JavaScript</summary>
-  <pre><code>
-当它是一种编程语言。
-</code></pre>
-</details>
-
-↑↑↑如果你想知道，点击查看
-
--------------------------
-
-<br>
-
 接下来，创建个新文件夹，用来存放Node.js Web服务器。
 <br>
 在文件夹中，创建一个新的 JavaScript 文件，比如 `app.js`。
@@ -119,7 +87,7 @@ app.listen(PORT, () => {
 
 //其中const PORT = process.env.PORT || 37626; 这里可以改成你要监听的端口!!!!!
 
-- # 步骤 2: 创建项目目录
+- # 步骤 2: 安装Express 框架
 
 保存文件后，打开CMD，进入到你的项目文件夹中。
 <br>
@@ -128,17 +96,6 @@ app.listen(PORT, () => {
 ```
 npm install express
 ``````
-
-<details>
-  <summary>问题之什么是Express?</summary>
-  <pre><code>
-当它是Node.js的一个扩展插件，总之 我们要用到它，所以安装它就好
-  </code></pre>
-</details>
-
-<br>
-
-↑↑↑如果你想知道，点击查看
 
 - # 步骤 3: 运行服务器
 
@@ -174,7 +131,7 @@ node server.js
 <br>
 并且在加载时会访问你的 Node.js 服务器，从而触发计数器递增。
 
-//如果你部署在本地的话——可以考虑用端口映射解决公网问题
+
 
 - #  步骤 5: 查看结果
 
@@ -184,10 +141,53 @@ node server.js
 
 #  其他
 
+<details>
+  <summary>问题之——什么是Node.js?</summary>
+  <pre><code>
+鱼要活在水里，人要生在陆上
+或者像没有Java运行不了Minecraft
+而没有Node.js，无法运行JavaScript
+它是一种"环境"
+</code></pre>
+</details>
+
+<details>
+  <summary>问题之——Node是环境,为什么又说Node.js Web 服务器</summary>
+  <pre><code>
+使用Node.js部署的Web服务器，叫做Node.js Web服务器
+</code></pre>
+</details>
+
+<details>
+  <summary>问题之——什么是JavaScript</summary>
+  <pre><code>
+当它是一种编程语言。
+</code></pre>
+</details>
+
+<details>
+  <summary>问题之什么是Express?</summary>
+  <pre><code>
+当它是Node.js的一个扩展插件，总之 我们要用到它，所以安装它就好
+  </code></pre>
+</details>
+
+↑↑↑如果你想知道，点击查看
+
+-----------------
+
 “这个的实用性————”
 <br>
 不知道，对我无所谓。
 
+-----------------
+
+如果你部署在本地的话——
+<br>
+可以考虑用端口映射解决公网问题
+
+--------------
+
 参考链接:[CSDN-静态页面的浏览量_如何获得静态网站的实际浏览量](https://blog.csdn.net/cuk0051/article/details/108343198) (这里用的css文件，该文章作者使用的是一张PNG图片)
 
-最新更新于 2024.02.09 3：54
+最新更新于 2024.02.1 14：23
