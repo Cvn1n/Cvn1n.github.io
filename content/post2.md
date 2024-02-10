@@ -30,9 +30,7 @@ mathjax = "tex-mml"
 
 - [x] 🔥 新增文章:搭建基于 NODE.JS 的 WEB 服务器并统计静态HTML访客数量教程
 - [x] 💨 新增文章:中国人民的大节日
-- [x] 🍜  Node.js Web服务器搭建完成(还没部署——先用Google Analytics吧)
-- [x] 🚒 成功接入Google Analytics服务
-- [x] 📝 标签繁体更正至简体
+- [x] 🚒 接入Google Analytics服务
 
 
 
