@@ -90,9 +90,6 @@ ID:Viva
 <font size=4>域名</font>
 
 购买于[gname-Gname](https://pages.github.com/)
-<br>
-由于没有ssl证书，显示不安全是正常的，请放心访问
-
 
 <font size=6>[关于其他]</font>
 --------------------------------------
