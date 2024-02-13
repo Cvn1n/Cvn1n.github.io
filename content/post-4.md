@@ -3,11 +3,12 @@ title = "Windows环境下通过LLaMA-Factory微调ChatGLM2-6B模型"
 template = "page.html"
 date = 2024-02-13T21:27:00Z
 [taxonomies]
-tags = ["教程"], ["自然语言处理"]
+tags = ["教程", "自然语言处理"]
 [extra]
 summary = "玩的开心"
 mathjax = "tex-mml"
 +++
+
 
 # Windows环境下通过LLaMA-Factory微调ChatGLM2-6B模型
 
