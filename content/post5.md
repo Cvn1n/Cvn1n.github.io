@@ -1,7 +1,7 @@
 +++
 title = "关于CentOS:xxx is not in the sudoers file"
 template = "page.html"
-date = 2024-02-13T21:27:00Z
+date = 2024-02-15T07:38:00Z
 [taxonomies]
 tags = ["CentOS"]
 [extra]
