@@ -21,4 +21,8 @@ root ALL=(ALL) ALL下方加入
 <br>
 XXX ALL=(ALL) ALL
 
-ESC,随后:wq 退出即可
+ESC,随后:wq 退出
+
+最后撤销文件的写权限chmod u-w /etc/sudoers
+
+不然将引起"sudo: /etc/sudoers is mode 0640, should be 0440" 问题！！！
