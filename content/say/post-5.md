@@ -3,7 +3,7 @@ title = "《我记不清是去干什么去》"
 template = "page.html"
 date = 2024-02-14T08:58:00Z
 [taxonomies]
-tags = ["杂言"]
+tags = ["杂言琐记"]
 [extra]
 summary = "“业果善不善，所作受决定；自作自缠缚，如蚕等无异。”"
 mathjax = "tex-mml"
