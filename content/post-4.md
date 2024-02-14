@@ -1,5 +1,5 @@
 +++
-title = "Windows环境下通过LLaMA-Factory微调ChatGLM2-6B模型"
+title = "Windows环境下通过LLaMA-Factory微调ChatGLM2-6B模型流程"
 template = "page.html"
 date = 2024-02-13T21:27:00Z
 [taxonomies]
