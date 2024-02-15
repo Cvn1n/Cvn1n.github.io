@@ -11,7 +11,7 @@ mathjax = "tex-mml"
 
 su -
 <br>
-u+w /etc/sudoers
+chmod u+w /etc/sudoers
 <br>
 vim /etc/sudoers
 <br>
