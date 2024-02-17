@@ -1,11 +1,11 @@
 +++
-title = "在大陆的服务器，域名要备案——"
+title = "在大陆的服务器，域名要备案————"
 template = "page.html"
 date = 2024-02-17T18:43:00Z
 [taxonomies]
 tags = ["杂言琐记"]
 [extra]
-summary = "我困坏了"
+summary = "我实在太困了"
 mathjax = "tex-mml"
 +++
 
@@ -18,6 +18,7 @@ mathjax = "tex-mml"
 <img src="https://img.xwyue.com/i/2024/02/17/65d08ee8924e5.png" alt="1708166875275.png" title="1708166875275.png" />
 <img src="https://img.xwyue.com/i/2024/02/17/65d08ee8bab58.png" alt="1708166867718.png" title="1708166867718.png" />
 <img src="https://img.xwyue.com/i/2024/02/17/65d08ee95d404.png" alt="1708166886967.png" title="1708166886967.png" />
+
 <img src="https://img.xwyue.com/i/2024/02/17/65d08ee97d508.png" alt="1708166882706.png" title="1708166882706.png" />
 
 
@@ -30,3 +31,4 @@ mathjax = "tex-mml"
 明天试试
 
 
+等这机子到期了就换香港机子
