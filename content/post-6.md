@@ -1,7 +1,7 @@
 +++
 title = "使用Nginx反向代理实现子域名映射到不同端口的网站"
 template = "page.html"
-date = 2024-02-15T07:38:00Z
+date = 2024-02-17T18:25:00Z
 [taxonomies]
 tags = ["教程", "域名解析" ]
 [extra]
