@@ -49,7 +49,7 @@ mathjax = "tex-mml"
 ```
 server {
     listen 80;
-    server_name tc.v1va.online;
+    server_name t4.test.com;
 
     location / {
         proxy_pass http://127.0.0.1:57784;  # 将请求代理到本地端口
@@ -64,7 +64,7 @@ server {
 ```
 server {
     listen 80;
-    server_name file.v1va.online;
+    server_name t3.test.come;
 
     location / {
         proxy_pass http://127.0.0.1:57783;  # 将请求代理到本地端口
