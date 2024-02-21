@@ -8,6 +8,23 @@ tags = ["VB", "临时" ]
 summary = "答案"
 mathjax = "tex-mml"
 +++
+
+前言:    所有人都是在最后一个星期写作业的。
+   
+ <details> <summary>点击展开</summary>
+
+<img src= https://img.xwyue.com/i/2024/02/21/65d5a3dfed196.png width="40%">
+<img src= https://img.xwyue.com/i/2024/02/21/65d5a3e00929f.png width="40%">
+<img src= https://img.xwyue.com/i/2024/02/21/65d5a3e0a6b33.png width="40%">
+<img src= https://img.xwyue.com/i/2024/02/21/65d5a3e110efd.png width="40%">
+<img src= https://img.xwyue.com/i/2024/02/21/65d5a3e224313.png width="40%">
+
+</details>
+
+
+
+-------------
+
 <font color=black>
 <font face = "微软雅黑">
 
