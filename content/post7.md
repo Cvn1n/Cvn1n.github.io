@@ -134,13 +134,41 @@ End Sub
 
 // III 任务要求如上图所示
 
-### 示例答案：
+### 示例答案:
 
-跳过  不会，  问陈老师了还没回复
+![1708511786255.png](https://img.xwyue.com/i/2024/02/21/65d5d23089700.png)
+(使用一个变量A来代替剪切板)
 
-有答案的给我来一份
+```VB
+Dim a As String
 
-我知道怎么选中 剩下的 教过的里面想不到有什么东西。
+Private Sub Command1_Click()
+   a = Text1.SelText
+End Sub
+
+Private Sub Command2_Click()
+   a = Text1.SelText
+   Text1.SelText = ""
+End Sub
+
+Private Sub Command3_Click()
+   Text1.SelText = a
+End Sub
+
+Private Sub Command4_Click()
+   Text1.Font.Name = "隶书"
+End Sub
+
+Private Sub Command5_Click()
+   Text1.Font.Name = "楷体"
+End Sub
+
+Private Sub Command6_Click()
+   Text1.Font.Name = "宋体"
+End Sub
+```
+
+
 
 ---
 
@@ -256,7 +284,6 @@ End Sub
 
 ![1708506421514.png](https://img.xwyue.com/i/2024/02/21/65d5bd3b4223e.png)
 
-1
 
 </font>
 </font>
