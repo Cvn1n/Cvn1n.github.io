@@ -409,6 +409,49 @@ End Sub
 Private Sub Command2_Click()
    End
 End Sub
+```
+
+## 第十三题-计算器
+
+### 题目要求：
+
+![1708522748046.png](https://www.pnglog.com/HmbN7U.png)
+
+### 示例答案：
+
+![1708523267616.png](https://www.pnglog.com/X6d8pY.png)
+
+```
+Private Sub Command1_Click()
+Dim a As Single, b As Single, c As Single
+   a = Val(Text1.Text)
+   b = Val(Text2.Text)
+
+If Text3.Text = "/" Then
+   c = a / b
+ElseIf Text3.Text = "\" Then
+   c = a \ b
+ElseIf Text3.Text = "+" Then
+   c = a + b
+ElseIf Text3.Text = "-" Then
+   c = a - b
+ElseIf Text3.Text = "*" Then
+   c = a * b
+Else
+   MsgBox "请输入正确的内容！", vbOKOnly + vbExclamation, "错误"
+End If
+End Sub
+
+Private Sub Command2_Click()
+   Text1.Text = ""
+   Text2.Text = ""
+   Text3.Text = ""
+   Text4.Text = ""
+End Sub
+
+Private Sub Command3_Click()
+   End
+End Sub
 
 ```
 
