@@ -10,8 +10,8 @@ mathjax = "tex-mml"
 +++
 
 前言:    所有人都是在最后一个星期写作业的。
-   
- <details> <summary>点击展开</summary>
+
+<details> <summary>点击展开</summary>
 
 <img src= https://img.xwyue.com/i/2024/02/21/65d5a3dfed196.png width="40%">
 <img src= https://img.xwyue.com/i/2024/02/21/65d5a3e00929f.png width="40%">
@@ -21,9 +21,7 @@ mathjax = "tex-mml"
 
 </details>
 
-
-
--------------
+---
 
 <font color=black>
 <font face = "微软雅黑">
@@ -77,19 +75,20 @@ Private Sub Command5_Click()
 End Sub
 ```
 
--------------------------------------------------------------------------------------------------------------
+---
 
 ## 第二题-窗体切换
 
 ### 题目要求：
 
 ![](https://img.erpweb.eu.org/imgs/2024/02/2b12fb8426bbf588.png)
+![](https://i.miji.bid/2024/02/21/ca9fb778eb3147ca6350acd37b3b96f6.png)
 
 // I   上图所示窗体排列中，控件按钮从左往右依次为:1.返回窗体一 2.加载窗体二  3.显示窗体二  4.退出
 
 // II  窗体左上显示自左往右为：窗体二   窗体一
 
-// III 任务要求如上图所示[共两点]
+// III 任务要求如上图所示[共四点]
 
 ### 示例答案：
 
@@ -120,47 +119,85 @@ Private Sub Command1_Click()
 End Sub
 ```
 
--------------------------------------------------------------------------------------------------------------
+---
 
-## 第三题
+## 第三题-文本编辑器[待补充]
 
 ### 题目要求：
 
+![](https://i.miji.bid/2024/02/21/32337371e9e4268bdd06d7a1b4813024.png)
 
-// I   上图所示窗体排列中，控件按钮从左往右依次为:1.返回窗体一 2.加载窗体二  3.显示窗体二  4.退出
+// I   上图所示窗体排列中，控件按钮自上往下依次为： 复制 剪切 粘贴  隶书 楷体 宋体
 
-// II  窗体左上显示自左往右为：窗体二   窗体一
+// II  窗体左上显示为：简单文本编辑器
 
-// III 任务要求如上图所示[共两点]
+// III 任务要求如上图所示
 
 ### 示例答案：
 
+跳过  不会，  问陈老师了还没回复
 
-关于窗体一部分
+有答案的给我来一份
 
-```vb2-1(2)
-Private Sub Command1_Click()
-   Load Form2
-   Print "窗体二已被加载"
+我知道怎么选中 剩下的 教过的里面想不到有什么东西。
+
+---
+
+## 第四题-文本框练习
+
+### 题目要求：
+
+![1708502417778.png](https://img.xwyue.com/i/2024/02/21/65d5ad960dc35.png)
+
+// I   窗体左上显示为：文本框练习
+
+// II  文本框名字有要求!
+
+// III 任务要求如上图所示
+
+### 示例答案：
+
+![1708502821892.png](https://img.xwyue.com/i/2024/02/21/65d5af2ace620.png)
+
+```vb
+Private Sub T1_Change()
+T2.Text = T1.Text
 End Sub
+```
+
+---
+
+## 第五题-数字时钟
+
+### 题目要求：
+
+![1708502880250.png](https://img.xwyue.com/i/2024/02/21/65d5af66e429c.png)
+
+// I   热键通过Capiton属性中&+需要的键实现
+
+// II  按钮控件从左到右依次为 开始(热键B)  退出(热键E)
+
+// III 任务要求如上图所示
+
+### 示例答案：
+
+![1708503477455.png](https://img.xwyue.com/i/2024/02/21/65d5b1bb9347c.png)
+
+```vb
+Private Sub Command1_Click()
+Timer1.Enabled = True
+End Sub
+
 Private Sub Command2_Click()
-   Form2.Show
-   Form1.Hide
+End
 End Sub
-Private Sub Command3_Click()
-   End
-End Sub
-```
 
-关于窗体二部分
-
-```VB2-2(2)
-Private Sub Command1_Click()
-   Form2.Hide
-   Form1.Show
+Private Sub Timer1_Timer()
+Label1.Caption = Time
 End Sub
 ```
 
-</font>
-</font>
 
+
+</font>
+</font>
