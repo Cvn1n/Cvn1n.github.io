@@ -122,7 +122,7 @@ End Sub
 
 ---
 
-## 第三题-文本编辑器[待补充]
+## 第三题-文本编辑器
 
 ### 题目要求：
 
@@ -284,6 +284,30 @@ End Sub
 
 ![1708506421514.png](https://img.xwyue.com/i/2024/02/21/65d5bd3b4223e.png)
 
+### 示例答案：
 
+![1708512597327.png](https://img.xwyue.com/i/2024/02/21/65d5d55a69525.png)
+
+```VB
+Private Sub Command1_Click()
+Dim a As Integer
+   Randomize
+   a = Int(Rnd * ((999 - 100 + 1) + 100))
+   Text1.Text = Str(a)
+End Sub
+
+Private Sub Command2_Click()
+Dim b As Integer
+Text2.Text = ""
+b = Len(Text1.Text)
+For i = b To 1 Step -1
+
+Text2.Text = Text2.Text & Mid(Text1.Text, i, 1)
+
+Next i
+   
+End Sub
+
+```
 </font>
 </font>
