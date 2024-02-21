@@ -40,5 +40,6 @@ last_page = "Last Page"
 
 [extra]
 highlight_code = true
+highlight_theme = "prism.js"
 # Put all your custom variables here
 
