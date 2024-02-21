@@ -9,7 +9,8 @@ summary = "答案"
 mathjax = "tex-mml"
 +++
 
-前言:    所有人都是在最后一个星期写作业的。
+前言:所有人都是在最后一个星期写作业的。
+
 
 <details> <summary>点击展开</summary>
 
@@ -44,7 +45,7 @@ mathjax = "tex-mml"
 
 ![](https://img.erpweb.eu.org/imgs/2024/02/ee0dc4b10f39237d.png)
 
-```VB1
+```VB
 Private Sub Form_Load()
    Form1.BackColor = vbYellow
    Form1.Font.Size = 25
@@ -96,7 +97,7 @@ End Sub
 
 关于窗体一部分
 
-```vb2-1(2)
+```VB
 Private Sub Command1_Click()
    Load Form2
    Print "窗体二已被加载"
@@ -112,7 +113,7 @@ End Sub
 
 关于窗体二部分
 
-```VB2-2(2)
+```VB
 Private Sub Command1_Click()
    Form2.Hide
    Form1.Show
@@ -159,9 +160,9 @@ End Sub
 
 ![1708502821892.png](https://img.xwyue.com/i/2024/02/21/65d5af2ace620.png)
 
-```vb
+```VB
 Private Sub T1_Change()
-T2.Text = T1.Text
+   T2.Text = T1.Text
 End Sub
 ```
 
@@ -183,20 +184,77 @@ End Sub
 
 ![1708503477455.png](https://img.xwyue.com/i/2024/02/21/65d5b1bb9347c.png)
 
-```vb
+```VB
 Private Sub Command1_Click()
-Timer1.Enabled = True
+   Timer1.Enabled = True
 End Sub
 
 Private Sub Command2_Click()
-End
+   End
 End Sub
 
 Private Sub Timer1_Timer()
-Label1.Caption = Time
+   Label1.Caption = Time
 End Sub
 ```
 
+---------
+
+## 第六题-计算圆的周长面积
+
+### 题目要求：
+
+![1708504121757.png](https://img.xwyue.com/i/2024/02/21/65d5b43dd626d.png)
+
+### 示例答案：
+
+![1708504634238.png](https://img.xwyue.com/i/2024/02/21/65d5b64146c00.png)
+![1708504664600.png](https://img.xwyue.com/i/2024/02/21/65d5b65c8b473.png)
+
+```VB
+**Private Sub Command1_Click()
+Dim a As Single, b As Single, c As Single
+   a = Val(Text1.Text)
+   b = a * 2 * 3.14
+   c = a * a * 3.14
+   
+Label2.Caption = "当圆的半径为" & Str(a) & "时," & vbCrLf & "周长为" & Str(b) & vbCrLf & "面积为" & Str(c)
+End Sub
+**
+```
+
+## 第七题-判断三角形
+
+### 题目要求：
+
+![1708504773452.png](https://img.xwyue.com/i/2024/02/21/65d5b6ceb2654.png)
+
+### 示例答案：
+
+![1708505730268.png](https://img.xwyue.com/i/2024/02/21/65d5ba866c30e.png)
+
+```VB
+Private Sub Command1_Click()
+Dim a As Single, b As Single, c As Single, p As Single, s As Single
+   a = Val(InputBox("请输入三角形第一条边", "三角形数据录入"))
+   b = Val(InputBox("请输入三角形第二条边", "三角形数据录入"))
+   c = Val(InputBox("请输入三角形第三条边", "三角形数据录入"))
+
+If a + b <= c Or a + c < b Or b + c < a Then
+   MsgBox "所输入三边无法构成三角形,请重新输入", vbOKOnly + vbExclamation, "错误"
+Else
+   p = (a + b + c) / 2
+   s = Sqr(p * (p - a) * (p - b) * (p - c))
+   MsgBox "所录入三角形面积为：" & Str(s), vbOKOnly, "结果"
+End If
+End Sub
+```
+
+## 第八题-逆序输出
+
+### 题目要求：
+
+![1708506421514.png](https://img.xwyue.com/i/2024/02/21/65d5bd3b4223e.png)
 
 
 </font>
