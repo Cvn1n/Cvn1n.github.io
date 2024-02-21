@@ -11,7 +11,6 @@ mathjax = "tex-mml"
 
 前言:所有人都是在最后一个星期写作业的。
 
-
 <details> <summary>点击展开</summary>
 
 <img src= https://img.xwyue.com/i/2024/02/21/65d5a3dfed196.png width="40%">
@@ -168,8 +167,6 @@ Private Sub Command6_Click()
 End Sub
 ```
 
-
-
 ---
 
 ## 第四题-文本框练习
@@ -224,10 +221,9 @@ End Sub
 Private Sub Timer1_Timer()
    Label1.Caption = Time
 End Sub
-
 ```
 
----------
+---
 
 ## 第六题-计算圆的周长面积
 
@@ -308,14 +304,49 @@ Text2.Text = Text2.Text & Mid(Text1.Text, i, 1)
 Next i
    
 End Sub
-
 ```
+
+## 第九题-电话计费
+
+### 题目要求：
+
+![1708517371343.png](https://img.xwyue.com/i/2024/02/21/65d5e7ff22c18.png)
+
+### 示例答案：
+
+不会   等陈老师回复，会的私信我一下
+
+## 第十题-成绩奖励
+
+### 题目要求：
+
+![1708519128023.png](https://img.xwyue.com/i/2024/02/21/65d5eededdcd1.png)
+
+### 示例答案：
+
+![](https://img.erpweb.eu.org/imgs/2024/02/5b1f31baf4f5eaee.png)
+
+```VB
+Private Sub Command1_Click()
+Dim a As Single, b As Single, c As Single
+
+If a + b + c > 285 Then
+   Label4.Caption = "可以奖励"
+ElseIf a > 90 And b > 90 And c > 90 Then
+   Label4.Caption = "可以奖励"
+ElseIf a > 90 And b > 90 And c > 90 Then
+   Label4.Caption = "可以奖励"
+ElseIf a = 100 And b = 100 And c > 80 Then
+   Label4.Caption = "可以奖励"""
+Else
+   Label4.Caption = "不可以奖励"
+End if
+End Sub
+
+Private Sub Command2_Click()
+   End
+End Sub
+```
+
 </font>
 </font>
-
-
-还在写，别急，写好一题传一题
-<br>
-然后这里有答案文件以及VB6.0精简版 Win7 win10都兼容
-<br>
-[答案文件](http://8.217.107.202:17509/)
