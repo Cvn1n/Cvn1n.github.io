@@ -348,9 +348,47 @@ Private Sub Command2_Click()
 End Sub
 ```
 
+## 第十一题-成绩奖励
+
+### 题目要求：
+
+![](https://img.erpweb.eu.org/imgs/2024/02/637e27898765833d.png)
+
+### 示例答案：
+
+图片实在看不清..  不管了 就这样写吧
+
+![](https://img.erpweb.eu.org/imgs/2024/02/bca30b306352b0af.png)
+
+
+```VB
+Private Sub Command1_Click()
+Dim a As Integer
+a = Val(Text1.Text)
+
+Select Case a
+   Case 6 To 8
+      MsgBox "第" & a & "月，是夏季", vbOKOnly, "判断"
+   Case 9 To 11
+      MsgBox "第" & a & "月，是春季", vbOKOnly, "判断"
+   Case 12, 1, 2
+      MsgBox "第" & a & "月，是冬季", vbOKOnly, "判断"
+   Case 3 To 5
+      MsgBox "第" & a & "月，是秋季", vbOKOnly, "判断"
+   Case Else
+      MsgBox "所输入不属于月份", vbOKOnly + vbExclamation, "错误"
+End Select
+
+
+
+End Sub
+```
+
 </font>
 </font>
+
 
 还在写，别急，写好一题传一题
 然后这里有答案文件以及VB6.0精简版
 [答案文件](http://8.217.107.202:17509/#/)
+
