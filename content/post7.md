@@ -360,7 +360,6 @@ End Sub
 
 ![](https://img.erpweb.eu.org/imgs/2024/02/bca30b306352b0af.png)
 
-
 ```VB
 Private Sub Command1_Click()
 Dim a As Integer
@@ -384,11 +383,40 @@ End Select
 End Sub
 ```
 
-</font>
-</font>
+## 第十二题-托运计费
 
+### 题目要求：
+
+![](https://img.erpweb.eu.org/imgs/2024/02/c68d32fb3fbceb39.png)
+
+### 示例答案：
+
+![](https://img.erpweb.eu.org/imgs/2024/02/4dd071091b6ea855.png)
+
+```VB
+Private Sub Command1_Click()
+Dim a As Single, p As Single
+   a = Val(Text1.Text)
+If a > 0 And a <= 50 Then
+   p = 0.3 * a
+ElseIf a > 50 Then
+   p = 0.3 * 50 + 0.6 * (a - 50)
+Else
+   MsgBox "请输入正确的数值!", vbOKOnly + vbExclamation, "错误"
+End If
+Text2.Text = Str(p)
+End Sub
+Private Sub Command2_Click()
+   End
+End Sub
+
+```
+
+
+
+</font>
+</font>
 
 还在写，别急，写好一题传一题
 然后这里有答案文件以及VB6.0精简版
 [答案文件](http://8.217.107.202:17509)
-
