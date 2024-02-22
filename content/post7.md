@@ -26,6 +26,7 @@ mathjax = "tex-mml"
 <img src= https://img.xwyue.com/i/2024/02/21/65d5a3e110efd.png width="40%">
 <img src= https://img.xwyue.com/i/2024/02/21/65d5a3e224313.png width="40%">
 <img src= https://www.pnglog.com/Uwlc0v.jpg width="20%">
+<img src= https://www.pnglog.com/quiLx9.jpg width="40%">
 </details>
 
 ---
