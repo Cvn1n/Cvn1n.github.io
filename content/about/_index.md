@@ -86,7 +86,9 @@ ID:Viva
 
 <font size=4>域名</font>
 
-购买于[gname-Gname](https://pages.github.com/)
+[gname-Gname](https://pages.github.com/)
+
+大陆访问有时候可能有点问题
 
 <font size=6>[关于其他]</font>
 --------------------------------------
