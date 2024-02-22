@@ -572,9 +572,83 @@ End Sub
 
 ![1708571908582.png](https://www.pnglog.com/0bz6Cc.png)
 
+字符个数可能是字母个数。
+
 ### 示例答案：
 
-</font>
-</font>
+![1708573154858.png](https://www.pnglog.com/L1tC6Y.png)
+
+```VB
+Private Sub Command1_Click()
+Dim a As String
+    a = Text1.Text
+For i = 1 To Len(a)
+    b = Mid(a, i, 1)
+  If b = " " Then
+    kg = kg + 1
+  ElseIf Asc(b) >= 48 And Asc(b) <= 57 Then
+    sz = sz + 1
+  ElseIf Asc(b) >= 65 And Asc(b) <= 97 Then
+    zf = zf + 1
+  Else
+    qt = qt + 1
+  End If
+Next i
+
+Text2.Text = zf
+Text3.Text = kg
+Text4.Text = sz
+Text5.Text = qt
 
 
+End Sub
+```
+
+![1708574819098.png](https://www.pnglog.com/Lvy2Sx.png)
+
+我丢工程了...写好的给我发一份，谢谢
+
+---
+
+## 第十八题-计平均分
+
+### 题目要求：
+
+![1708574898723.png](https://www.pnglog.com/ElajVc.png)
+
+### 示例答案：
+
+![1708575720526.png](https://www.pnglog.com/uuWegr.png)
+
+```VB
+Private Sub Command1_Click()
+Dim rs As Integer, a As Single, pfj As Single, zf As Single, bjg As Integer
+ rs = 1
+ Do
+ a = InputBox("请输入第" & rs & "个学生的成绩", "成绩录入")
+    If a < 0 Then
+      Exit Do
+    Else
+      zf = zf + a
+      rs = rs + 1
+    End If
+    If a < 60 Then
+       bjg = bjg + 1
+    End If
+ Loop
+pfj = zf / rs
+
+Text1.Text = pfj
+Text2.Text = bjg
+
+
+
+
+End Sub
+
+```
+
+
+
+</font>
+</font>
