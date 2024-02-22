@@ -19,6 +19,7 @@ mathjax = "tex-mml"
 
 <details> <summary>点击展开</summary>
 
+
 <img src= https://img.xwyue.com/i/2024/02/21/65d5a3dfed196.png width="40%">
 <img src= https://img.xwyue.com/i/2024/02/21/65d5a3e00929f.png width="40%">
 <img src= https://img.xwyue.com/i/2024/02/21/65d5a3e0a6b33.png width="40%">
@@ -475,8 +476,7 @@ End Sub
 ```
 
 
-
-睡觉了 2024/2/21 22:15
+睡觉 2024/2/21 22:15
 
 ---
 
@@ -645,14 +645,48 @@ pfj = zf / rs
 Text1.Text = pfj
 Text2.Text = bjg
 
+End Sub
+```
 
+## 第十九题-年龄问题
+
+### 题目要求：
+
+![1708577160269.png](https://www.pnglog.com/HtyQm4.png)
+
+//我没有幼圆  自行设置！！！
+
+### 示例答案：
+
+![1708577077955.png](https://www.pnglog.com/xfqfp1.png)
+
+## 第二十题-多少棵树
+
+### 题目要求：
+
+![1708577287785.png](https://www.pnglog.com/c5PZg7.png)
+
+### 示例答案：
+
+![1708577726517.png](https://www.pnglog.com/RyRse2.png)
+
+```VB
+Private Sub Command1_Click()
+Dim xm As Integer, s As Integer, y As Integer
+ xm = 17
+ y = 3
+ s = 3
+Do Until s >= 100
+    xm = xm + 1
+    y = y + 2
+    s = s + y
+Loop
+
+Label1.Caption = "到" & Str(xm) & "岁共种到了" & Str(s) & "棵树"
 
 
 End Sub
-
 ```
-
-
 
 </font>
 </font>
