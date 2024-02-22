@@ -247,7 +247,8 @@ Label2.Caption = "当圆的半径为" & Str(a) & "时," & vbCrLf & "周长为" &
 End Sub
 **
 ```
--------------------------------
+
+---
 
 ## 第七题-判断三角形
 
@@ -275,7 +276,8 @@ Else
 End If
 End Sub
 ```
--------------------------------
+
+---
 
 ## 第八题-逆序输出
 
@@ -307,7 +309,8 @@ Next i
    
 End Sub
 ```
--------------------------------
+
+---
 
 ## 第九题-电话计费
 
@@ -319,7 +322,7 @@ End Sub
 
 不会   等陈老师回复，会的私信我一下
 
--------------------------------
+---
 
 ## 第十题-成绩奖励
 
@@ -352,7 +355,8 @@ Private Sub Command2_Click()
    End
 End Sub
 ```
--------------------------------
+
+---
 
 ## 第十一题-成绩奖励
 
@@ -388,7 +392,8 @@ End Select
 
 End Sub
 ```
--------------------------------
+
+---
 
 ## 第十二题-托运计费
 
@@ -418,7 +423,7 @@ Private Sub Command2_Click()
 End Sub
 ```
 
--------------------------------
+---
 
 ## 第十三题-计算器
 
@@ -461,10 +466,7 @@ End Sub
 Private Sub Command3_Click()
    End
 End Sub
-
 ```
-
-
 
 </font>
 </font>
@@ -475,6 +477,32 @@ End Sub
 
 先睡觉了 2024/2/21 22:15
 
------------
+---
 
 醒了  现在动  2024/2/22  10:21
+
+## 第十四题-计算结果
+
+### 题目要求：
+
+![1708569638473.png](https://www.pnglog.com/baCzfD.png)
+
+### 示例答案：
+
+![1708570090390.png](https://www.pnglog.com/4sHG27.png)
+
+```VB
+Private Sub Command1_Click()
+Dim a As Integer, i As Integer, j As Single
+   a = 1
+For i = 1 To 99 Step 2
+   j = j + a / i
+   a = -a
+Next i
+ Print "s=    " & j
+End Sub
+
+Private Sub Command2_Click()
+   End
+End Sub
+```
