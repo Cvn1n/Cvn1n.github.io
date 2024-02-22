@@ -468,9 +468,6 @@ Private Sub Command3_Click()
 End Sub
 ```
 
-</font>
-</font>
-
 还在写，别急，写好一题传一题
 然后这里有答案文件以及VB6.0精简版
 [答案文件](http://8.217.107.202:17509)
@@ -506,3 +503,36 @@ Private Sub Command2_Click()
    End
 End Sub
 ```
+
+## 第十五题-求公约数
+
+### 题目要求：
+
+![1708570194960.png](https://www.pnglog.com/3oUNra.png)
+
+### 示例答案：
+
+![1708571211678.png](https://www.pnglog.com/XctGVd.png)
+
+```VB
+Private Sub Command1_Click()
+Dim a As Integer, i As Integer, c As Integer
+    a = Val(Text1.Text)
+
+For i = 1 To a
+  If i / 3 = Fix(i / 3) And i / 5 = Fix(i / 5) Then
+    Text2.Text = Text2.Text & Str(i)
+    c = c + 1
+  End If
+Next i
+    Text3.Text = Str(c)
+End Sub
+```
+
+注意!!把自动换行打开!!
+
+---
+
+</font>
+</font>
+
