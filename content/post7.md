@@ -533,6 +533,48 @@ End Sub
 
 ---
 
+## 第十六题-求奇偶和
+
+### 题目要求：
+
+![1708571419028.png](https://www.pnglog.com/uuTPGl.png)
+
+//我猜按钮2是退出...      不知道
+
+### 示例答案：
+
+![1708571843469.png](https://www.pnglog.com/lXXV6A.png)
+
+```VB
+Private Sub Command1_Click()
+Dim i As Integer, o As Integer, j As Integer
+ For i = 1 To 100
+   If i / 2 = Fix(i / 2) Then
+     o = o + i
+   Else
+     j = j + i
+   End If
+ Next i
+Text1.Text = Str(j)
+Text2.Text = Str(o)
+End Sub
+
+Private Sub Command2_Click()
+   End
+End Sub
+```
+
+---
+
+## 第十七题-求公约数
+
+### 题目要求：
+
+![1708571908582.png](https://www.pnglog.com/0bz6Cc.png)
+
+### 示例答案：
+
 </font>
 </font>
+
 
