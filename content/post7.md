@@ -17,19 +17,6 @@ mathjax = "tex-mml"
 <br>
 [答案文件](http://8.217.107.202:17509)
 
-<details> <summary>点击展开</summary>
-
-
-<img src= https://img.xwyue.com/i/2024/02/21/65d5a3dfed196.png width="20%">
-<img src= https://img.xwyue.com/i/2024/02/21/65d5a3e00929f.png width="20%">
-<img src= https://img.xwyue.com/i/2024/02/21/65d5a3e0a6b33.png width="20%">
-<img src= https://img.xwyue.com/i/2024/02/21/65d5a3e110efd.png width="20%">
-<img src= https://img.xwyue.com/i/2024/02/21/65d5a3e224313.png width="20%">
-<img src= https://www.pnglog.com/Uwlc0v.jpg width="15%">
-<img src= https://www.pnglog.com/quiLx9.jpg width="20%">
-</details>
-
----
 
 <font color=black>
 <font face = "微软雅黑">
