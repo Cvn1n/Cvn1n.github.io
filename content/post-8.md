@@ -1,7 +1,7 @@
 +++
 title = " 华南金牌X99-8D4 与 P40计算卡 & 诸多奇怪的兼容问题"
 template = "page.html"
-date = 2024-03-3T11:25:00Z
+date = 2024-03-02T11:25:00Z
 [taxonomies]
 tags = ["记录" ]
 [extra]
