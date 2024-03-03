@@ -176,7 +176,7 @@ Bios界面正常，进硬盘后显示器亮但不输出画面。
 (某次重启)（视频放在OneDrive，有工具可以调用微软官方api，从而获取选择的文件的直链。   虽然——从速度上来说，不太好用）
 
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src=http://storage.live.com/items/9E26B10E9BD079B0!107:/VID_20240302_123647_x264.mp4 type="video/mp4">
+      <source id="mp4" src=http://storage.live.com/items/9E26B10E9BD079B0!115:/202403031533_x264.mp4">
 </videos>
 
 
