@@ -1,5 +1,5 @@
 +++
-title = "我迟早要解决这个站点的"定位"问题"
+title = "我迟早要解决这个站点的定位问题"
 template = "page.html"
 date = 2024-03-10T13:16:00Z
 [taxonomies]
