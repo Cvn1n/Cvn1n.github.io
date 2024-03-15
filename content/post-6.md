@@ -40,7 +40,6 @@ mathjax = "tex-mml"
 
 
 1. **配置DNS** ：
-   * 登录你的域名注册商或DNS托管提供商的控制面板。
    * 添加两个A记录，将 `t3.test.com` 和 `4.test.online` 分别指向你的公网IP地址 `47.96.139.148`。
 2. **配置Nginx** ：
    
@@ -77,11 +76,11 @@ server {
 ```
 
 
-* (只是示例,自行对照调整)然后重新加载Nginx配置，以使更改生效：`sudo systemctl reload nginx`。
+然后重新加载Nginx配置，以使更改生效：`sudo systemctl reload nginx`。
 
 3. **测试** ：
 
-在浏览器中输入 `t3.test.com`和`t4.test.com`，看看是否能够正确访问到相应的网站。
+检查 `t3.test.com`和`t4.test.com`，能否能够正确访问。
 
 
 
