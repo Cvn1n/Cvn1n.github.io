@@ -9,7 +9,7 @@ summary = "平常在用的公共场所热点Wifi指无线局域网，英语缩�
 mathjax = "tex-mml"
 +++
 
-<h1>序言</h1>
+<h1>题目</h1>
 
 <div><strong>某道判断题题干如下</div>
 
@@ -17,6 +17,8 @@ mathjax = "tex-mml"
 <div><strong>答案是：错误</div>
 
 它错在哪儿了？应该如何更正？
+
+<h1>解析</h1>
 <br>
 起初我也摸不着头脑，老师给的回复如下。
 
@@ -36,5 +38,5 @@ mathjax = "tex-mml"
 <br>
 Wi-Fi hotspot 是 WLAN 当中的一种，不等同于WLAN
 
-题干如果改做 "平常在用的公共场所热点Wifi属于无线局域网，英文缩写Wi-Fi hotspot" 则正确。
+<div><strong>" 题干如果改做 "平常在用的公共场所热点Wifi属于无线局域网，英文缩写Wi-Fi hotspot" 则正确。/div>
 
