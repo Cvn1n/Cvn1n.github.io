@@ -1,9 +1,9 @@
 +++
-title = "Wifi与热点Wifi的区别"
+title = "Wifi与热点Wifi的区别-热点Wifi指无线局域网为何错误？"
 template = "page.html"
 date = 2024-03-10T11:55:00Z
 [taxonomies]
-tags = ["记录", "计算机网络及网页" ]
+tags = ["计算机专业理论" ]
 [extra]
 summary = "平常在用的公共场所热点Wifi指无线局域网，英语缩写WLAN。  是否正确"
 mathjax = "tex-mml"
