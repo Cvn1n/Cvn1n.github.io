@@ -20,13 +20,13 @@ mathjax = "tex-mml"
 <br>
 起初我也摸不着头脑，老师给的回复如下。
 
-<div><strong>"WLAN和热点WiFi并不完全是一回事，但它们之间确实存在关联。<div>
-<div><strong>WLAN是一种无线局域网技术，它允许设备在没有物理网线连接的情况下进行通信。<div>
-<div><strong>而热点WiFi则是指利用无线路由器等设备创建的一个可供其他设备连接上网的无线信号源。当我们说“连接WiFi热点”时，我们实际上是指连接到由某个设备（如路由器）创建的WLAN网络。<div>
-<div><strong>所以，热点WiFi是WLAN的一个具体应用形式，用于实现无线设备的网络连接。<div>
-<div><strong>但WLAN的概念更广泛，它包括了各种无线局域网技术，而不仅仅是热点WiFi。<div>
+<div><strong>"WLAN和热点WiFi并不完全是一回事，但它们之间确实存在关联。</div>
+<div><strong>WLAN是一种无线局域网技术，它允许设备在没有物理网线连接的情况下进行通信。</div>
+<div><strong>而热点WiFi则是指利用无线路由器等设备创建的一个可供其他设备连接上网的无线信号源。当我们说“连接WiFi热点”时，我们实际上是指连接到由某个设备（如路由器）创建的WLAN网络。</div>
+<div><strong>所以，热点WiFi是WLAN的一个具体应用形式，用于实现无线设备的网络连接。</div>
+<div><strong>但WLAN的概念更广泛，它包括了各种无线局域网技术，而不仅仅是热点WiFi。</div>
 
-<div><strong>简而言之，热点WiFi是一种实现WLAN连接的方式，而WLAN则是一个更大的技术范畴。"<div>
+<div><strong>简而言之，热点WiFi是一种实现WLAN连接的方式，而WLAN则是一个更大的技术范畴。"</div>
 
 ------------------
 
