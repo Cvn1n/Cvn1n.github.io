@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en"  class="theme--light" >
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GCWFNJEHB4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GCWFNJEHB4');
+</script>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://Cvn1n.github.io/images/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://Cvn1n.github.io/images/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://Cvn1n.github.io/images/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://Cvn1n.github.io/images/apple-touch-icon-57x57.png" />
+  <link rel="short icon" href="https://Cvn1n.github.io/images/favicon.png" type="image/x-icon" />
+  <link rel="stylesheet" href="https://Cvn1n.github.io/style.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" rel="stylesheet">
+  <title>Viva&#x27;s Blos • 搭建基于 Node.js 的 Web 服务器并统计静态HTML访客数量教程</title>
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="Viva&#x27;s Blos" href="https://Cvn1n.github.io/rss.xml">
+  
+  
+  
+  
+</head>
+
+<body>
+  <div id="sidebar" class="animated fadeInDown">
+    <div class="logo-title">
+      <div class="title">
+        <img src=https://Cvn1n.github.io/images/logo@2x.png style="width:127px;" alt="logo" />
+        <h3><a href="https://Cvn1n.github.io/">Viva&#x27;s Blos</a></h3>
+        <div class="description">
+          <p>有趣的人是不同寻常的，不同寻常的人是怪人，所以怪人是有趣的</p>
+        </div>
+      </div>
+    </div>
+    <ul class="social-links">
+      
+    </ul>
+    <div class="footer">
+      
+      <span> </span>Viva Viva! La Revolución!!！</a>
+      <div class="by_zola"><a href="https://ai.anique.jp/en/login?callbackUrl=%2F" target="_blank">Ｌｅｔ＇ｓ  ａｌｌ  ｌｏｖｅ  Ｌａｉｎ！ </a></div>
+      <span> </span> Message by-Viva.</a>
+      <span> </span> Could you love me?.</a>
+      
+    </div>
+  </div>
+  <div id="main">
+    <div class="page-top animated fadeInDown">
+      <div class="nav">
+        
+        
+        
+        
+        <li><a  href="https://Cvn1n.github.io/">主页</a></li>
+        <li><a  href="https://Cvn1n.github.io/about/">关于</a></li><li><a  href="https://Cvn1n.github.io/tags">标签</a></li><li><a 
+            href="https://Cvn1n.github.io/archive/">归档</a></li><li><a  href="https://Cvn1n.github.io/links/">友情链接</a></li><li><a  href="https://Cvn1n.github.io/say/">奇思妙想&#x2F;杂言琐记</a></li>
+
+      </div>
+      <div class="information">
+        <div class="back_btn">
+          <a onclick="window.history.go(-1)" ><i
+              class="fas fa-chevron-left"></i></a>
+        </div>
+        
+        
+        
+        <div class="avatar"><img src="https://Cvn1n.github.io/images/avatar.jpg"></div>
+      </div>
+    </div>
+    <div class="autopagerize_page_element">
+      <div class="content">
+        
+<article class="post animated fadeInDown">
+  <h1><a href="https:&#x2F;&#x2F;Cvn1n.github.io&#x2F;post-3&#x2F;">搭建基于 Node.js 的 Web 服务器并统计静态HTML访客数量教程</a></h1>
+  
+  <div class="post-content"><h2 id="bu-zou-da-gang">步骤大纲</h2>
+<p>搭个Node.js服务器，包含一个CSS文件，用于接收对CSS文件的请求，并在返回文件前递增一个计数器。等下会用Express框架来创建这个服务器。</p>
+<p>让你的静态网页能在加载时发送对这个css文件请求，触发node.js服务器的计算器递增</p>
+<p><a href="https://imgse.com/i/pF3ua5j"><img src="https://s11.ax1x.com/2024/02/09/pF3ua5j.png" alt="pF3ua5j.png" border="0" /></a></p>
+<hr />
+<h2 id="kai-shi-xiang-xi-bu-zou-jiao-cheng">开始：详细步骤教程</h2>
+<ul>
+<li><h1 id="bu-zou-1-huan-jing-zhun-bei">步骤 1:环境准备</h1>
+</li>
+</ul>
+<p>首先，你需要在你的计算机上安装 Node.js。
+<br>
+你可以从 <a href="https://nodejs.org/zh-cn/">Node.js 官方网站</a>
+<br>
+下载并安装 Node.js
+<br></p>
+<p>接下来，创建个新文件夹，用来存放Node.js Web服务器。
+<br>
+在文件夹中，创建一个新的 JavaScript 文件，比如 <code>app.js</code>。
+<br>
+打开 <code>app.js</code> 文件，将以下代码复制进去：</p>
+<pre><code>&#x2F;&#x2F; 引入 Express 框架
+const express = require(&#x27;express&#x27;);
+&#x2F;&#x2F; 创建 Express 应用
+const app = express();
+
+&#x2F;&#x2F; 初始化计数器，用于记录 CSS 文件的请求次数
+let counter = 0;
+
+&#x2F;&#x2F; 处理 CSS 文件请求的路由
+app.get(&#x27;&#x2F;styles.css&#x27;, (req, res) =&gt; {
+  &#x2F;&#x2F; 记录请求到达
+  console.log(&#x27;Received request for CSS file&#x27;);
+
+  &#x2F;&#x2F; 每次有请求时递增计数器
+  counter++;
+
+  &#x2F;&#x2F; 设置响应头，指定返回的内容类型为 CSS
+  res.setHeader(&#x27;Content-Type&#x27;, &#x27;text&#x2F;css&#x27;);
+
+  &#x2F;&#x2F; 返回 CSS 内容，这里可以是你的 CSS 样式
+  res.send(`
+    body {
+      background-color: lightblue;
+    }
+    &#x2F;* 更多 CSS 样式 *&#x2F;
+  `);
+});
+
+&#x2F;&#x2F; 处理获取访问次数的请求
+app.get(&#x27;&#x2F;visit-count&#x27;, (req, res) =&gt; {
+  &#x2F;&#x2F; 返回当前的访问次数
+  res.send(`Total visits: ${counter}`);
+});
+
+&#x2F;&#x2F; 启动服务器，监听指定端口
+const PORT = process.env.PORT || 37626;
+app.listen(PORT, () =&gt; {
+  &#x2F;&#x2F; 在控制台输出服务器启动的消息
+  console.log(`Server is running on port ${PORT}`);
+});
+</code></pre>
+<p>//其中const PORT = process.env.PORT || 37626; 这里可以改成你要监听的端口!!!!!</p>
+<ul>
+<li><h1 id="bu-zou-2-an-zhuang-express-kuang-jia">步骤 2: 安装Express 框架</h1>
+</li>
+</ul>
+<p>保存文件后，打开CMD，进入到你的项目文件夹中。
+<br>
+运行命令安装 Express 框架：</p>
+<pre><code>npm install express
+</code></pre>
+<ul>
+<li><h1 id="bu-zou-3-yun-xing-fu-wu-qi">步骤 3: 运行服务器</h1>
+</li>
+</ul>
+<p>完成步骤二后</p>
+<p>在.js文件在的路径下打开命令行中使用以下命令运行服务器：</p>
+<pre><code>node server.js
+</code></pre>
+<br>
+<p>然后尝试访问根路径（例如 <code>http://localhost:37626/</code>）,
+<br>
+你应该能够看到 &quot;Hello, World!&quot; 这条消息。
+<br>
+（这说明你的程序正常在运行）</p>
+<ul>
+<li><h1 id="bu-zou-4-wei-ni-de-htmlyin-yong-zhe-ge-css-wen-jian">步骤 4: 为你的HTML引用这个 CSS 文件</h1>
+</li>
+</ul>
+<p>在你的html文件中添加如下代码：</p>
+<pre><code>&lt;link rel=&quot;stylesheet&quot; type=&quot;text&#x2F;css&quot; href=&quot;http:&#x2F;&#x2F;localhost:3000&#x2F;styles.css&quot;&gt;
+</code></pre>
+<p>请确保替换 <code>http://localhost:3000/styles.css</code> 为你服务器的IP地址</p>
+<p>这样，当浏览器访问你页面时，
+<br>
+浏览器会请求加载这个 CSS 文件
+<br>
+并且在加载时访问你的 Node.js 服务器，从而触发计数器递增。</p>
+<ul>
+<li><h1 id="bu-zou-5-cha-kan-jie-guo">步骤 5: 查看结果</h1>
+</li>
+</ul>
+<p>可以通过访问 <code>http://localhost:37626/visit-count</code> 来获取当前的访问次数。
+<br>
+或者数数控制台有几条回馈。</p>
+<hr />
+<p>参考链接:<a href="https://blog.csdn.net/cuk0051/article/details/108343198">CSDN-静态页面的浏览量_如何获得静态网站的实际浏览量</a> 
+最新更新于 2024.02.1 14：23</p>
+</div>
+  <div class="post-footer">
+    <div class="meta">
+      <div class="info">
+        
+        <i class="far fa-sun"></i><span class="date">2024-02-09</span>
+        
+        
+        <i class="fas fa-tags"></i>
+        
+        <a class="tag" href="https://Cvn1n.github.io/tags/教程">&nbsp;教程</a>
+        
+        
+      </div>
+    </div>
+  </div>
+</article>
+<div class="share">
+  <div class="telegram">
+    <a class="fab fa-telegram"
+      href="https://t.me/Barbara3Jefferson4"></a>
+  </div>
+</div>
+
+
+
+
+
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['$$', '$$'], ["\\[", "\\]"]],
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+
+
+
+
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    function showLanguages() {
+      let currentDisplay = document.getElementById("languages").style.display;
+      if (currentDisplay == 'none') {
+        document.getElementById("languages").style.display = 'block';
+      } else {
+        document.getElementById("languages").style.display = 'none';
+      }
+    }
+  </script>
+</body>
+
+</html>

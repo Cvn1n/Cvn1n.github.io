@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en"  class="theme--light" >
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GCWFNJEHB4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GCWFNJEHB4');
+</script>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://Cvn1n.github.io/images/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://Cvn1n.github.io/images/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://Cvn1n.github.io/images/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://Cvn1n.github.io/images/apple-touch-icon-57x57.png" />
+  <link rel="short icon" href="https://Cvn1n.github.io/images/favicon.png" type="image/x-icon" />
+  <link rel="stylesheet" href="https://Cvn1n.github.io/style.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" rel="stylesheet">
+  <title>Viva&#x27;s Blos • 使用Nginx反向代理实现子域名映射到不同端口的网站</title>
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="Viva&#x27;s Blos" href="https://Cvn1n.github.io/rss.xml">
+  
+  
+  
+  
+</head>
+
+<body>
+  <div id="sidebar" class="animated fadeInDown">
+    <div class="logo-title">
+      <div class="title">
+        <img src=https://Cvn1n.github.io/images/logo@2x.png style="width:127px;" alt="logo" />
+        <h3><a href="https://Cvn1n.github.io/">Viva&#x27;s Blos</a></h3>
+        <div class="description">
+          <p>有趣的人是不同寻常的，不同寻常的人是怪人，所以怪人是有趣的</p>
+        </div>
+      </div>
+    </div>
+    <ul class="social-links">
+      
+    </ul>
+    <div class="footer">
+      
+      <span> </span>Viva Viva! La Revolución!!！</a>
+      <div class="by_zola"><a href="https://ai.anique.jp/en/login?callbackUrl=%2F" target="_blank">Ｌｅｔ＇ｓ  ａｌｌ  ｌｏｖｅ  Ｌａｉｎ！ </a></div>
+      <span> </span> Message by-Viva.</a>
+      <span> </span> Could you love me?.</a>
+      
+    </div>
+  </div>
+  <div id="main">
+    <div class="page-top animated fadeInDown">
+      <div class="nav">
+        
+        
+        
+        
+        <li><a  href="https://Cvn1n.github.io/">主页</a></li>
+        <li><a  href="https://Cvn1n.github.io/about/">关于</a></li><li><a  href="https://Cvn1n.github.io/tags">标签</a></li><li><a 
+            href="https://Cvn1n.github.io/archive/">归档</a></li><li><a  href="https://Cvn1n.github.io/links/">友情链接</a></li><li><a  href="https://Cvn1n.github.io/say/">奇思妙想&#x2F;杂言琐记</a></li>
+
+      </div>
+      <div class="information">
+        <div class="back_btn">
+          <a onclick="window.history.go(-1)" ><i
+              class="fas fa-chevron-left"></i></a>
+        </div>
+        
+        
+        
+        <div class="avatar"><img src="https://Cvn1n.github.io/images/avatar.jpg"></div>
+      </div>
+    </div>
+    <div class="autopagerize_page_element">
+      <div class="content">
+        
+<article class="post animated fadeInDown">
+  <h1><a href="https:&#x2F;&#x2F;Cvn1n.github.io&#x2F;post-6&#x2F;">使用Nginx反向代理实现子域名映射到不同端口的网站</a></h1>
+  
+  <div class="post-content"><h1 id="shi-yong-nginxfan-xiang-dai-li-shi-xian-zi-yu-ming-ying-she-dao-bu-tong-duan-kou-de-wang-zhan">使用Nginx反向代理实现子域名映射到不同端口的网站</h1>
+<p>示例情景</p>
+<p>现在我手上拥有一个域名:  test.com
+<br>
+我还有一台服务器
+<br>
+拥有IP地址&gt;</p>
+<p>127.0.0.1:57784(私有)
+<br>
+128.0.0.1:57784(公)</p>
+<p>上面分别已部署了两个网站
+<br>
+它们通过128.0.0.1:57784和128.0.0.1:57783访问</p>
+<p>需求:
+<br>
+让128.0.0.1:57783的网站通过t3.test.com访问
+<br>
+让128.0.0..148:57784的网站通过t4.test.online访问
+<br>
+应该怎么做</p>
+<p>=================================================================================================================================</p>
+<ol>
+<li>
+<p><strong>配置DNS</strong> ：</p>
+<ul>
+<li>添加两个A记录，将 <code>t3.test.com</code> 和 <code>4.test.online</code> 分别指向你的公网IP地址 <code>47.96.139.148</code>。</li>
+</ul>
+</li>
+<li>
+<p><strong>配置Nginx</strong> ：</p>
+<ul>
+<li>修改配置文件，例如：</li>
+</ul>
+</li>
+</ol>
+<pre><code>server {
+    listen 80;
+    server_name t4.test.com;
+
+    location &#x2F; {
+        proxy_pass http:&#x2F;&#x2F;127.0.0.1:57784;  # 将请求代理到本地端口
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+</code></pre>
+<pre><code>server {
+    listen 80;
+    server_name t3.test.come;
+
+    location &#x2F; {
+        proxy_pass http:&#x2F;&#x2F;127.0.0.1:57783;  # 将请求代理到本地端口
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+</code></pre>
+<p>然后重新加载Nginx配置，以使更改生效：<code>sudo systemctl reload nginx</code>。</p>
+<ol start="3">
+<li><strong>测试</strong> ：</li>
+</ol>
+<p>检查 <code>t3.test.com</code>和<code>t4.test.com</code>，能否能够正确访问。</p>
+<ul>
+<li></li>
+</ul>
+</div>
+  <div class="post-footer">
+    <div class="meta">
+      <div class="info">
+        
+        <i class="far fa-sun"></i><span class="date">2024-02-17</span>
+        
+        
+        <i class="fas fa-tags"></i>
+        
+        <a class="tag" href="https://Cvn1n.github.io/tags/教程">&nbsp;教程</a>
+        
+        <a class="tag" href="https://Cvn1n.github.io/tags/域名解析">&nbsp;域名解析</a>
+        
+        
+      </div>
+    </div>
+  </div>
+</article>
+<div class="share">
+  <div class="telegram">
+    <a class="fab fa-telegram"
+      href="https://t.me/Barbara3Jefferson4"></a>
+  </div>
+</div>
+
+
+
+
+
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['$$', '$$'], ["\\[", "\\]"]],
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+
+
+
+
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    function showLanguages() {
+      let currentDisplay = document.getElementById("languages").style.display;
+      if (currentDisplay == 'none') {
+        document.getElementById("languages").style.display = 'block';
+      } else {
+        document.getElementById("languages").style.display = 'none';
+      }
+    }
+  </script>
+</body>
+
+</html>
